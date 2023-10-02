@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on HowIsJT</title>
+    <link>https://howisjt.com/tags/open-source/</link>
+    <description>Recent content in open source on HowIsJT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://howisjt.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IP Security Cameras</title>
+      <link>https://howisjt.com/posts/tech-home-security/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-home-security/</guid>
+      <description>Reports of car and home burglaries in and around my neighborhood reported on the NextDoor app persuaded me to investigate a low-cost home security camera system. Many neighbors already have them so I figured &amp;ldquo;why not.&amp;rdquo; Much inspiration for the system I built came from TechnoDadLife and from Peyanski on Tech. Because I already had an older Dell Core 2 Duo desktop set up as a home NAS using OpenMediaVault, I decided to simply install a CCTV monitoring application onto that LINUX box since a) it is already running 24/7 and b) its use as a NAS is infrequent - meaning family members rarely access it so the computer has plenty of resources to spare.</description>
+    </item>
+    
+  </channel>
+</rss>

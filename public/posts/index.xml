@@ -1,0 +1,347 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HowIsJT</title>
+    <link>https://howisjt.com/posts/</link>
+    <description>Recent content in Posts on HowIsJT</description>
+    <meta name="generator" content="Hugo 0.114.1">
+    <language>en</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://howisjt.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chicago</title>
+      <link>https://howisjt.com/posts/travel-chicago/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-chicago/</guid>
+      <description>A family trip to the windy city.</description>
+    </item>
+    
+    <item>
+      <title>Kayak Build</title>
+      <link>https://howisjt.com/posts/hobby-paddling-kayak-build/</link>
+      <pubDate>Sun, 24 Jan 2021 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-paddling-kayak-build/</guid>
+      <description>Constructing Stitch-n-Glue Kayaks.</description>
+    </item>
+    
+    <item>
+      <title>Multi-Theme Site</title>
+      <link>https://howisjt.com/posts/tech-two-hugo-themes/</link>
+      <pubDate>Sun, 03 Jan 2021 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-two-hugo-themes/</guid>
+      <description>Use an alternate theme for a section of a Hugo site.</description>
+    </item>
+    
+    <item>
+      <title>Texas Campgrounds</title>
+      <link>https://howisjt.com/posts/travel-texas-camping/</link>
+      <pubDate>Wed, 30 Dec 2020 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-texas-camping/</guid>
+      <description>Explore Tent-Friendly Texas Campsites.</description>
+    </item>
+    
+    <item>
+      <title>IP Security Cameras</title>
+      <link>https://howisjt.com/posts/tech-home-security/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-home-security/</guid>
+      <description>Deploying MotionEye on OpenMediaVault</description>
+    </item>
+    
+    <item>
+      <title>Bayou Manchac</title>
+      <link>https://howisjt.com/posts/hobby-paddling-manchac/</link>
+      <pubDate>Sat, 04 Jul 2020 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-paddling-manchac/</guid>
+      <description>Paddling thru International History</description>
+    </item>
+    
+    <item>
+      <title>Dadeville Lakehouse Landscape</title>
+      <link>https://howisjt.com/posts/landscape-alabama-lakefront/</link>
+      <pubDate>Sun, 28 Jun 2020 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/landscape-alabama-lakefront/</guid>
+      <description>Planting and Irrigation Plans</description>
+    </item>
+    
+    <item>
+      <title>Yancey County, NC</title>
+      <link>https://howisjt.com/posts/travel-burnsville/</link>
+      <pubDate>Tue, 23 Jun 2020 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-burnsville/</guid>
+      <description>Return to the Blue Ridge.</description>
+    </item>
+    
+    <item>
+      <title>Shreveport Points of Interest</title>
+      <link>https://howisjt.com/posts/travel-louisiana-shreveport/</link>
+      <pubDate>Mon, 04 Nov 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-louisiana-shreveport/</guid>
+      <description>Fun things in Shreveport</description>
+    </item>
+    
+    <item>
+      <title>Nassau Bahamas</title>
+      <link>https://howisjt.com/posts/travel-bahamas-nassau/</link>
+      <pubDate>Wed, 11 Sep 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-bahamas-nassau/</guid>
+      <description>Touring Historic Nassau</description>
+    </item>
+    
+    <item>
+      <title>Miami Beach</title>
+      <link>https://howisjt.com/posts/travel-florida-miami-beach/</link>
+      <pubDate>Sat, 24 Aug 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-florida-miami-beach/</guid>
+      <description>Notes on America&#39;s Riviera</description>
+    </item>
+    
+    <item>
+      <title>Avery Island</title>
+      <link>https://howisjt.com/posts/travel-avery-island/</link>
+      <pubDate>Fri, 05 Jul 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-avery-island/</guid>
+      <description>A hot day at the Tabasco factory.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Test</title>
+      <link>https://howisjt.com/posts/tech-shortcodes-test/</link>
+      <pubDate>Fri, 14 Jun 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-shortcodes-test/</guid>
+      <description>Test of custom shortcodes for Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Professional Recognition</title>
+      <link>https://howisjt.com/posts/planning-recognition/</link>
+      <pubDate>Wed, 12 Jun 2019 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/planning-recognition/</guid>
+      <description>Awards and Achievements</description>
+    </item>
+    
+    <item>
+      <title>Fort Leavenworth</title>
+      <link>https://howisjt.com/posts/travel-kansas-leavenworth/</link>
+      <pubDate>Mon, 20 May 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-kansas-leavenworth/</guid>
+      <description>My brother&#39;s military retirement.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Image Gallery</title>
+      <link>https://howisjt.com/posts/tech-hugo-image-gallery/</link>
+      <pubDate>Sat, 04 May 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-hugo-image-gallery/</guid>
+      <description>Comparing a few options.</description>
+    </item>
+    
+    <item>
+      <title>Florida&#39;s Santa Fe River</title>
+      <link>https://howisjt.com/posts/travel-florida-santafe-river/</link>
+      <pubDate>Thu, 25 Apr 2019 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-florida-santafe-river/</guid>
+      <description>10 miles of beauty</description>
+    </item>
+    
+    <item>
+      <title>Lake Martin Alabama</title>
+      <link>https://howisjt.com/posts/travel-alabama-lk-martin/</link>
+      <pubDate>Sun, 13 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-alabama-lk-martin/</guid>
+      <description>My parents home on Lake Martin.</description>
+    </item>
+    
+    <item>
+      <title>Camping in Florida</title>
+      <link>https://howisjt.com/posts/travel-florida-camping/</link>
+      <pubDate>Sat, 05 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-florida-camping/</guid>
+      <description>Our family has enjoyed several camping trips at State Parks in Florida.</description>
+    </item>
+    
+    <item>
+      <title>Southwest Florida</title>
+      <link>https://howisjt.com/posts/travel-florida-sarasota/</link>
+      <pubDate>Sat, 05 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-florida-sarasota/</guid>
+      <description>A brief recap of our lives there.</description>
+    </item>
+    
+    <item>
+      <title>A Florida Home Landscape</title>
+      <link>https://howisjt.com/posts/landscape-florida-res-glenridge/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/landscape-florida-res-glenridge/</guid>
+      <description>My front yard re-do in Sarasota</description>
+    </item>
+    
+    <item>
+      <title>Baton Rouge Sights</title>
+      <link>https://howisjt.com/posts/travel-louisiana-baton-rouge/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-louisiana-baton-rouge/</guid>
+      <description>Points of interest and historical significance in Baton Rouge.</description>
+    </item>
+    
+    <item>
+      <title>Birding in the South</title>
+      <link>https://howisjt.com/posts/hobby-birding/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-birding/</guid>
+      <description>I&#39;ve enjoyed birding across the south.</description>
+    </item>
+    
+    <item>
+      <title>Camping Chuck Box</title>
+      <link>https://howisjt.com/posts/hobby-camping-chuckbox/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-camping-chuckbox/</guid>
+      <description>Description of the chuck box I built for family tent camping.</description>
+    </item>
+    
+    <item>
+      <title>Camping in Louisiana</title>
+      <link>https://howisjt.com/posts/travel-louisiana-camping/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-louisiana-camping/</guid>
+      <description>Recount of family tent camping trips in Louisiana and Mississippi.</description>
+    </item>
+    
+    <item>
+      <title>Camping in South Mississippi</title>
+      <link>https://howisjt.com/posts/travel-mississippi-camping/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-mississippi-camping/</guid>
+      <description>Accounts of tent camping in southern Mississippi.</description>
+    </item>
+    
+    <item>
+      <title>Classic Celestron C8</title>
+      <link>https://howisjt.com/posts/hobby-astronomy-celestron/</link>
+      <pubDate>Sat, 05 Jan 2019 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-astronomy-celestron/</guid>
+      <description>Restoration and use of a 1970&#39;s era Celestron C8 Schmidt Cassgrain telescope</description>
+    </item>
+    
+    <item>
+      <title>Experiences with Google Compute Engine</title>
+      <link>https://howisjt.com/posts/tech-cloud/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-cloud/</guid>
+      <description>Narrative about my one-year trial with Google Compute Engine.</description>
+    </item>
+    
+    <item>
+      <title>New Orleans Sights</title>
+      <link>https://howisjt.com/posts/travel-louisiana-new-orleans/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-louisiana-new-orleans/</guid>
+      <description>Sights to see and descriptions of visits to New Orleans.</description>
+    </item>
+    
+    <item>
+      <title>Paddling</title>
+      <link>https://howisjt.com/posts/hobby-paddling/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-paddling/</guid>
+      <description>I enjoy paddling and canoing.</description>
+    </item>
+    
+    <item>
+      <title>Presenting without PowerPoint</title>
+      <link>https://howisjt.com/posts/planning-presentation/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/planning-presentation/</guid>
+      <description>Experiences with presentation platforms other than PowerPoint</description>
+    </item>
+    
+    <item>
+      <title>Seeking Dark Skies</title>
+      <link>https://howisjt.com/posts/hobby-astronomy-dark-sky/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-astronomy-dark-sky/</guid>
+      <description>How light pollution compromises astronomy.</description>
+    </item>
+    
+    <item>
+      <title>Web Development Projects</title>
+      <link>https://howisjt.com/posts/tech-web-development/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-web-development/</guid>
+      <description>I&#39;ve been tinkering with websites since the 1990s. Here is a selection of my experience.</description>
+    </item>
+    
+    <item>
+      <title>Community Guidelines</title>
+      <link>https://howisjt.com/posts/guidelines/</link>
+      <pubDate>Thu, 20 Dec 2018 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/guidelines/</guid>
+      <description>...for civil behavior in this site&#39;s discussion forum.</description>
+    </item>
+    
+    <item>
+      <title>America&#39;s Great Solar Eclipse of 2017</title>
+      <link>https://howisjt.com/posts/hobby-astronomy-eclipse/</link>
+      <pubDate>Mon, 04 Sep 2017 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-astronomy-eclipse/</guid>
+      <description>I got to observe the great solar eclipse of 2017 from Anderson, SC.</description>
+    </item>
+    
+    <item>
+      <title>Repowering a Snapper Comet</title>
+      <link>https://howisjt.com/posts/hobby-snapper-repower/</link>
+      <pubDate>Fri, 24 Feb 2017 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/hobby-snapper-repower/</guid>
+      <description>I repowered a Snapper Comet riding mower.</description>
+    </item>
+    
+    <item>
+      <title>Washington DC Trip</title>
+      <link>https://howisjt.com/posts/travel-dc/</link>
+      <pubDate>Mon, 04 Apr 2016 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/travel-dc/</guid>
+      <description>Family spring break trip to Washington DC, 2016</description>
+    </item>
+    
+  </channel>
+</rss>

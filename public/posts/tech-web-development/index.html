@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>
+	Web Development Projects
+</title>
+		<style>
+	body {
+		display: block;
+		--colorBG: "#40e0d0, #ff8c00, #ff0080";
+		
+			background-image: var(--bgImage) !important;
+		
+	}
+
+	body, body.pushable {
+		background-repeat: no-repeat;
+	  	background-attachment: fixed;
+	  	background-size: cover !important;
+	}
+</style>
+
+		<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+	
+	
+	
+	<meta name="author" content="James Taylor" />
+	<meta name="description" content="I&#39;ve been tinkering with websites since the 1990s. Here is a selection of my experience." />
+
+
+
+<meta name="generator" content="Hugo 0.114.1">
+
+
+<link rel="shortcut icon" href="/images/favicon-palm.ico">
+
+
+
+
+		
+
+
+<script type="text/javascript">
+ 
+var giftofspeed = document.createElement('link');
+giftofspeed.rel = 'stylesheet';
+giftofspeed.href = 'https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css';
+giftofspeed.type = 'text/css';
+var godefer = document.getElementsByTagName('link')[0];
+godefer.parentNode.insertBefore(giftofspeed, godefer);
+
+ 
+var giftofspeed2 = document.createElement('link');
+giftofspeed2.rel = 'stylesheet';
+giftofspeed2.href = 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css';
+giftofspeed2.type = 'text/css';
+var godefer2 = document.getElementsByTagName('link')[0];
+godefer2.parentNode.insertBefore(giftofspeed2, godefer2);
+</script>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+
+ <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Inconsolata" rel="stylesheet"> 
+ 
+
+
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+
+
+
+
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+	
+
+
+
+<style>
+	body.pushable {
+		display: block;
+		
+			background-image: var(--bgImage) !important;
+		 ;
+	}
+</style>
+
+
+
+<script>
+	var colorBG =  false 
+	
+	var isMobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+	console.log("The client device is a "+(isMobile?"mobile":"PC")+".")
+</script>
+
+	</head>
+
+	<body>
+		<script>
+var prevBgIndex = 0;
+var bodyBgSwitchIndex = 0;
+
+
+
+
+
+
+	
+		var bgImage = "url(" + "/images/bg-plaster-wall.jpg" + ")";
+	
+
+	console.log("Current background: " + bgImage.substring(bgImage.indexOf("bg"), bgImage.length));
+	document.body.style.setProperty('--blurEff', "0.2");
+	document.body.style.setProperty('--bgImage', bgImage);
+
+
+	function getRandomInt(min, max) {
+	  min = Math.ceil(min);
+	  max = Math.floor(max);
+	  var random;
+	  while (1) {
+	    random = Math.floor(Math.random() * (max - min)) + min;
+	    if (random !== prevBgIndex) {
+	      prevBgIndex = random;
+	      break;
+	    }
+	  }
+	  return random;
+	}
+
+	function connect(arr) {
+	  var str = '';
+	  for (var i = 0; i < arr.length; i++) {
+	    if (i !== arr.length - 1) {
+	      str += arr[i] + ', ';
+	    } else {
+	      str += arr[i];
+	    }
+	  }
+	  return str;
+	}
+</script>
+
+
+
+	<div class="blur-overlay"></div>
+
+
+		<div id="sidebar" class="ui sidebar inverted vertical menu">
+	
+	<section id="author" class="ui top attached center aligned inverted segment">
+		
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+	</section>
+
+	
+	
+		<section class="ui attached center aligned inverted segment sidebar-dream-tags">
+			
+			
+			
+			
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label green " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label olive " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label brown " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label purple " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label yellow " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label blue " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label green " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label green " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+		</section>
+	
+
+	
+	
+		<section class="ui attached inverted segment sidebar-dream-categories both flexbox">
+			<div class="ui inverted accordion">
+				
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+			</div>
+		</section>
+	
+
+	
+	<section id="footer" class="ui bottom attached center aligned inverted segment">
+		
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+	</section>
+</div>
+
+
+		<div class="pusher">
+			<div class="flipper">
+				<div class="front">
+					
+	<nav class="ui top secondary menu bar">
+	
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+
+	
+	
+		<div class="item">
+			<a href="/">
+				<i class="inverted big link home icon" title="Home"></i>
+			</a>
+		</div>
+	
+
+	
+	
+
+	
+	
+		<div class="item">
+			<a href="/tags">
+				<i class="inverted big link tags icon" title="All Tags"></i>
+			</a>
+		</div>
+	
+
+	
+	
+		<div class="item">
+			<a href="/categories">
+				<i class="inverted big link cubes icon" title="All Categories"></i>
+			</a>
+    	</div>
+	
+
+	
+	
+
+	
+	
+		<div class="ui container tablet computer only grid">
+			<div class="item" onClick="$('.ui.sidebar').sidebar('setting', 'transition', 'overlay').sidebar('toggle');">
+				<i class="inverted big link sidebar icon" title="Show Sidebar"></i>
+			</div>
+		</div>
+	
+
+	
+	
+		<div class="item right">
+			<a href="/posts/index.xml">
+				<i class="inverted big link rss icon" title="RSS Feed"></i>
+			</a>
+		</div>
+	
+</nav>
+
+
+	<div class="ui centered grid">
+		
+		<div class="sixteen wide mobile only column">
+				<div class="ui inverted accordion">
+	<div id="header" class="ui inverted segment column box">		
+		
+		<header id="author" class="ui top attached center aligned inverted segment">
+			
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+		</header>
+
+		
+		<div class=" title header-title">
+			
+				<div id="tag-category-pop" class="ui red right corner label">
+					<i class="hand point icon down" title="Show/hide tags and categories"></i>
+				</div>
+			
+		</div>
+		
+		
+		<div id="tag-category" class=" content">
+			
+				<section class="ui attached center aligned inverted segment dream-tags none flexbox">
+					
+					
+					
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label blue " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label blue " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label green " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label brown " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label yellow " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label olive " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label red " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label green " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+				</section>
+			
+
+			
+				<section class="ui attached inverted segment dream-categories both flexbox">
+					<div class="inverted accordion">
+						
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+					</div>
+				</section>
+			
+		</div>
+
+		
+		<footer class="ui bottom attached center aligned inverted segment">
+			
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+		</footer>
+	</div>
+</div>
+
+		</div>
+
+		<div class="sixteen wide mobile fifteen wide tablet twelve wide computer column post-list">
+			
+			<section class="ui secondary top attached black segment post-head">
+				<h1 class="post-title">
+					Web Development Projects
+				</h1>
+
+				<div class="sub header">
+					<div><span><i class="calendar outline icon"></i>Jan 4, 2019</span></div>
+					
+					<div><span class="disqusComment"><i class="comment outline icon"></i><a href="https://howisjt.com/posts/tech-web-development/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="275c71669532620d661f9e3b25078d9d"></a></span></div>
+					<div><span><i class="clock outline icon"></i>10 min read</span></div>
+					<div><span><i class="angle double up icon"></i>Last updated on Jun 11, 2019</span></div>
+				</div>
+				<hr>
+
+				
+					<div class="toc">
+						<nav id="TableOfContents">
+  <ul>
+    <li><a href="#twitter-bootstrap">Twitter Bootstrap</a></li>
+    <li><a href="#wordpress-site-development">WordPress Site Development</a></li>
+    <li><a href="#drupal-7">Drupal 7</a></li>
+    <li><a href="#cloud-instances">Cloud Instances</a></li>
+    <li><a href="#firebase-hosting">Firebase Hosting</a></li>
+    <li><a href="#jamstack--flatfile">JamStack / Flatfile</a></li>
+    <li><a href="#hugo">Hugo</a></li>
+    <li><a href="#text-editing-tools">Text editing tools</a></li>
+    <li><a href="#content-management">Content Management</a></li>
+    <li><a href="#markdown-syntax">Markdown Syntax</a></li>
+  </ul>
+</nav>
+					</div>
+				
+
+				<article class="post-content twemoji">
+					<p>My earliest website development began with static sites hosted at GeoCities and other no-cost hosting providers. Each never amounted to more than a dozen or so pages each, but I learned the basics of HTML and CSS. Future employment led me to WordPress and then to Drupal frameworks. Each presented benefits, challenges, and learning opportunities.</p>
+<h2 id="twitter-bootstrap">Twitter Bootstrap&nbsp;<a class="anchor" href="#twitter-bootstrap"><i class="small linkify icon"></i></a> </h2>
+<p>Site content development with WordPress  - specifically custom coding certain pages to achieve desired effects - led me back to hard-coding. The explosion of cell phone use drove home the necessity that all website <em>must</em> be mobile friendly, if not mobile-native. Soon I discovered Twitter&rsquo;s Bootstrap and began developing single or few-page sites for small projects. This was the perfect solution and I still use these in combination with Github sites to deploy micro sites of project-specific information.</p>
+<h2 id="wordpress-site-development">WordPress Site Development&nbsp;<a class="anchor" href="#wordpress-site-development"><i class="small linkify icon"></i></a> </h2>
+<p>Franklinassoc.com was built from scratch by me&hellip; Like all of the wordpress sites I&rsquo;ve built, it got slow and clunky as more and more content was added. Some have suffered from security issues, though I&rsquo;ve tried to keep their core up to date. I built my early WP sites from scratch on bare hosting, so the responsibility of periodically checking and applying updates fell to me. I&rsquo;ve now learned to deploy WordPress (and Drupal) through GoDaddy&rsquo;s cPanel Installatron, which applies significant, vetted updates automatically. I&rsquo;ve not had problems with hacking since implementing this process.
+But this doesn&rsquo;t solve the sluggishness problem. Sure, WordPress-optimized hosting is available and perhaps I need to try that, but I&rsquo;m also intrigued by the low overhead approach of JamStacks. That&rsquo;s why I deployed this blog site you&rsquo;re reading now with Hugo.</p>
+<h2 id="drupal-7">Drupal 7&nbsp;<a class="anchor" href="#drupal-7"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/Drupal_logo-175px.jpg#floatright" alt="Drupal 7">Another work opportunity put me in charge of replacing a public agency&rsquo;s proprietary website with a &ldquo;modern&rdquo;, content-rich and mobile-friendly site. The site development was outsourced to a specialist who built it with Drupal 7. The developer&rsquo;s task performance waned as the basic site was deployed, so I as prime consultant was tasked with content management. I learned enough Drupal to fully populate and then manage the site. While there were a few calls for help from the developer as new features were requested, I was able to handle all of the content posting and maintenance. I learned a lot about Drupal, site hosting, Google SEO, and more. Regrettably, the site succumbed to &ldquo;drupalgeddon 2015&rdquo; and it had to be restored by the developer from backups. This taught me a great deal about the seriousness of website and webserver security, and the need to maintain vigilance. Vigilance is time consuming and costly.</p>
+<p><img src="/images/tech/2015-06-13_brcats_hacked.jpg" alt="Drupal 7 site hacked!" title="Site hacked! - Drupalgeddon"></p>
+<p>The experience gained with the agency site led me to replace my professional association&rsquo;s website [louisianaplanning.org] with a new Drupal 7 site. This has been a labor of love, as all time spent is voluntary. The new site has been a big improvement over the previous &ldquo;Google Sites&rdquo; deployment, as I&rsquo;ve been able to add custom content types and features unique to our professional organization. The issue I&rsquo;m now facing is &ldquo;how do I turn it over to another member?&rdquo; This is a state association of urban planners, not IT professionals. Many would be challenged to post to a WordPress site, and finding a member interested in learning how to maintain a Drupal site will be a challenge. At the national level, a whole new web-presence framework based on Joomla is being rolled out. The national association&rsquo;s site has now been running for about two years, and &ldquo;chapter sites&rdquo; are now being rolled out to organization chapters in each of the states. Still, this will be a daunting migration process with high likelihood of lost information - content and features presently offered in our custom Drupal site which won&rsquo;t be offered in the future site. Still, the long-term goal of enabling non-technical members to take on the role of communications officer is more easily reached with support of the national organization, so I&rsquo;ll assist with the migration.</p>
+<p><img src="/images/tech/louisianaplanning_screencap2014-10-20.jpg" alt="Louisiana Planning drupal site" title="louisianaplanning.com"></p>
+<h2 id="cloud-instances">Cloud Instances&nbsp;<a class="anchor" href="#cloud-instances"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/Google_Compute_Engine_logo-100px.jpg#floatright" alt="Google Compute Engine">Desiring to deploy a personal website without recurring hosting fees - and not satisfied with the SAAS services such as WordPress.com, Wix, Weebly, Google Sites or Zoho Sites - I became interested in deploying a virtual server in the cloud. I first experimented with Amazon Web Services but, after a year, your free trial does expire. Google Cloud Platform I learned offers a minimal free level of cloud services - a &ldquo;micro instance&rdquo; - which persists even after the one-year $300 value trial period ends.</p>
+<p>I attempted deployment of a personal site with drupal 8. I succeeded with getting it up and running on GCP with a theme installed, but before I could add any content my Micro instance was groaning from insufficient resources. Enlarging it to &ldquo;Small&rdquo; or larger would push my hosting costs much higher than a managed shared hosting provider. That defeated my purpose of developing a no-cost personal site, so I nixed the instance.</p>
+<h2 id="firebase-hosting">Firebase Hosting&nbsp;<a class="anchor" href="#firebase-hosting"><i class="small linkify icon"></i></a> </h2>
+<p><em>Update July 2019</em>  After several months of hosting this site on a Debian virtual machine at Google Compute Engine&rsquo;s free tier, I decided to migrate it over to Google&rsquo;s Firebase hosting. The numerous reason are:</p>
+<ol>
+<li>I can use Firebase CLI tools from both Windows and my LINUX PCs to upload new and sync modified content to the host. Previously, I could only do this on Windows using WinSCP linking by private keys.</li>
+<li>There is no virtual machine for me to manage. I don&rsquo;t have to periodically SSH in and apply updates. I also don&rsquo;t have to worry about it crashing.</li>
+<li>No VM means no backup snapshots consuming disk space at GCP and me getting charged a few pennies per month - which was only going to grow as more snapshot backups were made.</li>
+<li>I get to use the full 10GB of no cost firebase storage for my static website(s) content.</li>
+<li>Firebase applies SSL (HTTPS) automatically, so I don&rsquo;t have to use the let&rsquo;s encrypt bot.</li>
+<li>Firebase hosting provides CDNs to distribute content globally.</li>
+<li>It&rsquo;s still free, provided I shut down my GCP instance and purge the snapshots on this particular Google account.</li>
+<li>Google Page Speed Insights show no loss in page loading performance compared to my GCP micro instance.</li>
+</ol>
+<h2 id="jamstack--flatfile">JamStack / Flatfile&nbsp;<a class="anchor" href="#jamstack--flatfile"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/Debian_9_logo-100px.jpg#floatright" alt="Debian 9 server">Recognizing the complexity and vulnerability of the MySQL-backed CMS frameworks has led me to seek simplification in website development. I&rsquo;ve had a Drupal 7 site hacked (pictured above) because the developer didn&rsquo;t promptly apply core updates. I&rsquo;ve had a Wordpress site outgrow it&rsquo;s virtual server, crashing the server while attempting a code update. Data loss ensued and so did frustration. I tried playing with several flat-file CMSs including Gatsby and Grav. My repeated attempts to install and configure a site on a GCP virtual server with Grav failed. I know I had problems with linux file permissions on my VM host, and not being an expert I followed several &ldquo;recipes&rdquo; on the web. None worked for me, and eventually I had a convoluted mess so I purged it all. I finally realized there were complexities with PHP versions, extensions and other server settings that I found too frustrating.
+Then I discovered Hugo. Woah. I relaunched a basic Debian 9 virtual server with apache at GCP and it&rsquo;s been running ever since.</p>
+<blockquote>
+<p>JAMstack: noun \’jam-stak’\
+Modern web development architecture based on client-side <strong>J</strong>avaScript, reusable <strong>A</strong>PIs, and prebuilt <strong>M</strong>arkup.
+jamstack.org</p>
+</blockquote>
+<h2 id="hugo">Hugo&nbsp;<a class="anchor" href="#hugo"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/hugo-logo-wide-275px.gif#floatright" alt="Hugo CMS">With Hugo, all of the inputs are either simple text code, (usually) stock javascript, or the images. A hugo site will run from the simplest of webservers, so my GCP &ldquo;micro&rdquo; debian VM was no longer a problem. And I can draft and manage content on my old personal computers or even from my android phone. The catch is I&rsquo;ve not yet implemented a &ldquo;continuous deployment&rdquo; solution. As I create content, I upload it to my VM host using WinSCP. &ldquo;Cons&rdquo; of my setup include:</p>
+<ol>
+<li>Site content additions or deletions are only achieved by WinSCP from a Windows computer. (Not anymore! see #1 above.)</li>
+<li>Learning &ldquo;MarkDown&rdquo; language syntax. (not very difficult)</li>
+<li>Image processing is necessary to &ldquo;right size&rdquo; the full resolution images, as well as batch generating thumbnails for image galleries.</li>
+<li>I can&rsquo;t modify my published website from my linux computer, although I can draft new or revise existing content, preparing it for upload.(Not anymore! see #1 under Firebase above.)</li>
+<li>I can&rsquo;t actually post from my phone. I&rsquo;ve never done this anyway, but I can rough-out new content with a text editor and a bluetooth keyboard.</li>
+</ol>
+<p>I anticipate that numbers 1 and 4 above are the dealbreakers for most readers. For you, the Netlify, Firebase and other hosting solutions are well documented on the goHugo.io site. I brought these constraints upon myself because I wanted to use a free tier Google Compute Engine virtual machine. Some of you linux people will be comfortable connecting to your VM by terminal and transferring files using command line tools such as rsync. Cool for you! That&rsquo;s not me.
+I&rsquo;ve always used PhotoShop or similar image editing software to prepare images intended for my WordPress or Drupal sites, so this is normal to me. I like them appropriately cropped and &ldquo;right-sized&rdquo; for their intended display resolution, minimizing any excessive download burdens.</p>
+<h2 id="text-editing-tools">Text editing tools&nbsp;<a class="anchor" href="#text-editing-tools"><i class="small linkify icon"></i></a> </h2>
+<p>Different computer platforms often require different tools, and I can appreciate how this may itself add a layer of complexity and cause concern for those considering Hugo CMS. While you can use a basic text editor on any and all platforms, this requires that you&rsquo;re already familiar with the Markdown language and don&rsquo;t need a preview. I&rsquo;ll share my tools:</p>
+<ol>
+<li>On Windows I use <strong>Notepad++</strong>. This allows me to generate the markdown code for my post. Adding the extension MarkdownViewer++ to Notepad++ offers a nice preview pane so I can admire my work as I type or revise.</li>
+<li>On Linux (xubuntu) I use <strong>ReText</strong>. Notepad++ wasn&rsquo;t able to install the MarkdownViewer++ extension for ubuntu, so I had to find an alternative. ReText works fine and includes the side-pane preview, plus menu-based formatting choices for GUI-dependent losers like myself.</li>
+<li>On my android phone I use the <strong>Turbo Editor</strong> app. It has a dark theme, and offers colorized code highlighting (but sometimes highlights things it shouldn&rsquo;t - such as between single apostrophes. There is a &ldquo;View markdown result&rdquo; choice which previews your work within Turbo Editor. There is no side-by-side preview pane, but it&rsquo;s a phone screen. Do you really have room for that?</li>
+</ol>
+<p>Of these, I think I like ReText the best so far, though the preview isn&rsquo;t perfect. For instance, it ignores ordered (numbered) lists.</p>
+<h2 id="content-management">Content Management&nbsp;<a class="anchor" href="#content-management"><i class="small linkify icon"></i></a> </h2>
+<p>I store my Hugo website development directory and associated &ldquo;raw files&rdquo; or &ldquo;working&rdquo; folders in Dropbox. This folder gets synchronized between my personal windows laptop, my windows PC at work, and my linux box. It is also on my android phone. So, I can access my content to write new posts or edit existing content from any device and it all gets synced via DropBox. Note that it does not &ldquo;go live&rdquo; to the web until I upload it to the virtual host using WinSCP. Obviously, if you&rsquo;re considering Hugo or any JamStack solution you should carefully consider using one of the continuous deployment solutions such as with Netlify, GitHub, Forestry.io, or similar.</p>
+<h2 id="markdown-syntax">Markdown Syntax&nbsp;<a class="anchor" href="#markdown-syntax"><i class="small linkify icon"></i></a> </h2>
+<p>It is really simple to learn MarkDown once you start using it. I feel it&rsquo;s easier than HTML, though it&rsquo;s purpose is more limited. Numerous &ldquo;cheat sheets&rdquo; exist for markdown syntax on line, and my technique was to develop a template &ldquo;template_post.md&rdquo; file in my posts directory. To this file I added example markdown syntax to the bottom, providing examples of numbered lists, links, embedded images, and tables. Whenever I create a new post, I simply duplicate this file and rename it with the post name, then start writing. All of my syntax tips are just a mouse scroll away, and I delete this before I finalize and post the content, changing &ldquo;draft: false&rdquo; to &ldquo;draft: true&rdquo; for publication.</p>
+<p>Here&rsquo;s a convenient, printable markdown syntax guide: <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf</a></p>
+<p>One limitation I&rsquo;ve discovered with MarkDown is that there is no way to insert an image or external link set to open in a new tab or window. Most solutions suggest just using the HTML <code>&lt;a hrefs target='blank'</code> code. I&rsquo;d rather not mix HTML with markdown if I can help it. I have seen references to certain flavors of markdown, or certain markdown renderers, which can overcome this limitation, but my understanding is that the current version of Hugo does not.</p>
+
+				</article>				
+			</section>
+
+			
+			<section class="ui secondary attached segment dream-tags">
+				
+					
+
+
+
+
+	
+		<a class="ui label red " href="/tags/web-design" title="web design">web design</a>
+	
+
+
+				
+			</section>
+
+			
+			
+				<section class="ui secondary  attached segment share row box">
+					
+
+
+
+
+
+
+
+
+<div class="author">
+	
+	<img class="avatar" src="/images/jctavatar5-color.jpg">
+	
+</div>
+<div class="info grow flexbox">
+	<a href="https://twitter.com/howisjames">
+	<p class="name">James Taylor</p>
+	</a>
+	<p class="desc">AICP planner, landscape designer, technologist, dad.</p>
+</div>
+
+
+<section class="buttons row box">
+	<div class="facebook none flexbox" href="#" onclick="window.open(
+			'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+			'facebook-share-dialog',
+			'width=626,height=436'); return false;">
+		<button class="ui facebook button"><i class="facebook icon"></i>Share</button>
+	</div>
+	<div class="twitter none flexbox" onclick="window.open('https://twitter.com/intent/tweet?text=Read &quot;Web Development Projects &quot; by @howisjames https:\/\/howisjt.com\/posts\/tech-web-development\/','_self')">
+		<button class="ui twitter button"><i class="twitter icon"></i>Tweet</button>
+	</div>
+</section>
+
+				</section>
+			
+
+			
+			
+			
+
+			
+			
+				<div class="ui secondary bottom attached stacked segment disqus">
+					
+<div id="disqus_thread"></div>
+<script>
+	var disqus_config = function () {
+		this.page.url = 'https:\/\/howisjt.com\/posts\/tech-web-development\/';
+		this.page.identifier = '275c71669532620d661f9e3b25078d9d';
+	};
+	(function() {
+   	var d = document, s = d.createElement('script');
+   	s.src = 'https://' + 'howisjt' + '.disqus.com/embed.js';
+   	s.setAttribute('data-timestamp', +new Date());
+   	(d.head || d.body).appendChild(s);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+				</div>
+			
+		</div>
+	</div>
+
+				</div>
+				<div class="back">
+					
+<nav class="ui top secondary menu bar">
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+			<div class="item">
+				<a href="https://github.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link github icon" title="GitHub"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://twitter.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link twitter icon" title="Twitter"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://youtube.com/channel/UCKa9pxOIcfsWaAEpXSoc1yA" target="	_blank">
+					<i id="ico" class="inverted big link youtube play icon" title="YouTube"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://www.linkedin.com/in/jamestaylorsrq" target="	_blank">
+					<i id="ico" class="inverted big link linkedin icon" title="LinkedIn"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+</nav>
+
+
+
+<div class="ui centered grid about">
+	<div class="sixteen wide mobile fifteen wide tablet fifteen wide computer column about">
+		<section class="ui stacked segments">
+			<div class="ui inverted segment">
+				<article class="twemoji">
+					<h1 id="so-how-is-jt">So, how is J.T.?</h1>
+<hr>
+<p>Well, I&rsquo;m doing great! Thanks for asking.<br>
+<img src="/images/jctavatar4-color.jpg#floatright" alt="James Taylor headshot"><br>
+Early in my career I was presented a &ldquo;Jack of All Trades&rdquo; award which I though was pretty cool. It was just some silly clip art inkjet printed onto cardstock, but I knew it was significant because of who presented it to me. Twenty-five years have passed since since then, and I&rsquo;ve continued to fill many roles for my employers. I find it to be a two-sided coin: One side suggests that I lack specialization in a particular area. But flip that coin over and it reveals I&rsquo;m diverse and a quick learner. I feel that because I&rsquo;m dependable and determined, my employers and co-workers have found me to be indespensible.<br>
+<br>
+All of that to say&hellip;<br>
+I&rsquo;ve spent my carreer growing and adapting. Born in Florida and raised on a small farm in Appalachia, I earned a degree in ornamental horticulture from Clemson University and continued my education at LSU, earning a masters degree in landscape architecture, and after years in the workforce transitioning to urban design and planning. All the while I&rsquo;ve been curious and continuously tinkering with computers. It seems that in every workplace I end up being &ldquo;the IT guy.&rdquo; That&rsquo;s ok. I strive to incorporate the benefits of technology and automation into much of my work.<br>
+<br>
+This website is an outlet for me to express myself and represent some of the varied projects I&rsquo;ve taken on. Perhaps you&rsquo;ll find some of it useful - I hope so. Mostly the site itself is yet another hobby project.<br>
+<br>
+I&rsquo;ve enabled the Disqus commenting functionality on the blog posts - mostly to learn from prospective readers who may know more about these subjects than me. I&rsquo;m happy to correct errors identified, but I&rsquo;ll not tollerate rudeness. Read my <a href="/posts/guidelines/">community commenting guidelines</a>.<br>
+<br>
+Still curious about me?  Use the social links in the page header above to check out my profiles.  Thanks for reading!<br>
+<br>
+<em>James C. Taylor, AICP</em>
+				</article>
+			</div>
+		</section>
+	</div>
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+	
+	
+		<script id="dsq-count-scr" src="//howisjt.disqus.com/count.js" async></script>
+	
+
+		
+
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+
+
+<script src="/js/site.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+
+
+
+
+	<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?2.6"></script>
+
+
+
+
+
+
+
+
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74JZP84Q69"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-74JZP84Q69', { 'anonymize_ip': false });
+}
+</script>
+
+
+	
+	<script src="/__/firebase/7.6.1/firebase-app.js"></script>
+
+	
+	<script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
+
+
+		
+
+
+		
+
+	<script>
+		(function () {
+		  console.log("Twemoji up and making stuff colourful!");
+		  for (var b = document.getElementsByClassName("twemoji"), a = 0; a < b.length; a++) {
+			twemoji.parse(b[a]);
+		  }
+		})();
+	</script>
+
+
+	</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on Stitch-n-Glue</title>
+    <link>https://howisjt.com/stitchnglue/tags/resources/</link>
+    <description>Recent content in resources on Stitch-n-Glue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://howisjt.com/stitchnglue/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0. Links to Other Builds</title>
+      <link>https://howisjt.com/stitchnglue/blog/links/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://howisjt.com/stitchnglue/blog/links/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m not the only builder who has documented their stitch-n-glue kayak project.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

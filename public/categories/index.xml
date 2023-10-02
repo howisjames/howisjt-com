@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HowIsJT</title>
+    <link>https://howisjt.com/categories/</link>
+    <description>Recent content in Categories on HowIsJT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://howisjt.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>travel</title>
+      <link>https://howisjt.com/categories/travel/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://howisjt.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hobbies</title>
+      <link>https://howisjt.com/categories/hobbies/</link>
+      <pubDate>Sun, 24 Jan 2021 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/categories/hobbies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://howisjt.com/categories/tech/</link>
+      <pubDate>Sun, 03 Jan 2021 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://howisjt.com/categories/design/</link>
+      <pubDate>Sun, 28 Jun 2020 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
+      <link>https://howisjt.com/categories/planning/</link>
+      <pubDate>Wed, 12 Jun 2019 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/categories/planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

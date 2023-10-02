@@ -1,0 +1,1548 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>HowIsJT</title>
+		<style>
+	body {
+		display: block;
+		--colorBG: "#40e0d0, #ff8c00, #ff0080";
+		
+			background-image: var(--bgImage) !important;
+		
+	}
+
+	body, body.pushable {
+		background-repeat: no-repeat;
+	  	background-attachment: fixed;
+	  	background-size: cover !important;
+	}
+</style>
+
+		<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+	
+	<meta name="author" content="James Taylor" />
+	<meta name="description" content="The personal website, blog and dev diary of HowIsJT." />
+
+
+
+<meta name="generator" content="Hugo 0.114.1">
+
+
+<link rel="shortcut icon" href="/images/favicon-palm.ico">
+
+
+
+    <link rel="alternate" type="application/rss+xml" href="https://howisjt.com/index.xml" title="HowIsJT" />
+
+
+		
+
+
+<script type="text/javascript">
+ 
+var giftofspeed = document.createElement('link');
+giftofspeed.rel = 'stylesheet';
+giftofspeed.href = 'https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css';
+giftofspeed.type = 'text/css';
+var godefer = document.getElementsByTagName('link')[0];
+godefer.parentNode.insertBefore(giftofspeed, godefer);
+
+ 
+var giftofspeed2 = document.createElement('link');
+giftofspeed2.rel = 'stylesheet';
+giftofspeed2.href = 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css';
+giftofspeed2.type = 'text/css';
+var godefer2 = document.getElementsByTagName('link')[0];
+godefer2.parentNode.insertBefore(giftofspeed2, godefer2);
+</script>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+
+ <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Inconsolata" rel="stylesheet"> 
+ 
+
+
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+
+
+
+
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+	
+
+
+
+<style>
+	body.pushable {
+		display: block;
+		
+			background-image: var(--bgImage) !important;
+		 ;
+	}
+</style>
+
+
+
+<script>
+	var colorBG =  false 
+	
+	var isMobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+	console.log("The client device is a "+(isMobile?"mobile":"PC")+".")
+</script>
+
+	</head>
+
+	<body>
+		<script>
+var prevBgIndex = 0;
+var bodyBgSwitchIndex = 0;
+
+
+
+
+
+
+	
+		var bgImage = "url(" + "/images/bg-plaster-wall.jpg" + ")";
+	
+
+	console.log("Current background: " + bgImage.substring(bgImage.indexOf("bg"), bgImage.length));
+	document.body.style.setProperty('--blurEff', "0.2");
+	document.body.style.setProperty('--bgImage', bgImage);
+
+
+	function getRandomInt(min, max) {
+	  min = Math.ceil(min);
+	  max = Math.floor(max);
+	  var random;
+	  while (1) {
+	    random = Math.floor(Math.random() * (max - min)) + min;
+	    if (random !== prevBgIndex) {
+	      prevBgIndex = random;
+	      break;
+	    }
+	  }
+	  return random;
+	}
+
+	function connect(arr) {
+	  var str = '';
+	  for (var i = 0; i < arr.length; i++) {
+	    if (i !== arr.length - 1) {
+	      str += arr[i] + ', ';
+	    } else {
+	      str += arr[i];
+	    }
+	  }
+	  return str;
+	}
+</script>
+
+
+
+	<div class="blur-overlay"></div>
+
+
+		<div id="sidebar" class="ui sidebar inverted vertical menu">
+	
+	<section id="author" class="ui top attached center aligned inverted segment">
+		
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+	</section>
+
+	
+	
+		<section class="ui attached center aligned inverted segment sidebar-dream-tags">
+			
+			
+			
+			
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label violet " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label violet " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label yellow " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label olive " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label orange " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label orange " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label green " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label pink " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+		</section>
+	
+
+	
+	
+		<section class="ui attached inverted segment sidebar-dream-categories both flexbox">
+			<div class="ui inverted accordion">
+				
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+			</div>
+		</section>
+	
+
+	
+	<section id="footer" class="ui bottom attached center aligned inverted segment">
+		
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+	</section>
+</div>
+
+
+		<div class="pusher">
+			<div class="flipper">
+				<div class="front">
+					
+	
+	
+	
+	<nav class="ui top secondary menu bar">
+	
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+
+	
+	
+
+	
+	
+		<div class="item">
+			<a href="/posts">
+				<i class="inverted big link archive icon" title="Archive"></i>
+			</a>
+		</div>
+	
+
+	
+	
+		<div class="item">
+			<a href="/tags">
+				<i class="inverted big link tags icon" title="All Tags"></i>
+			</a>
+		</div>
+	
+
+	
+	
+		<div class="item">
+			<a href="/categories">
+				<i class="inverted big link cubes icon" title="All Categories"></i>
+			</a>
+    	</div>
+	
+
+	
+	
+		
+		<div class="item">
+			
+				<a href="/">
+					<i class="inverted big link chevron circle left icon" title="Previous page"></i>
+				</a>
+			
+			</div>
+		<div class="item">
+			
+				<a href="/page/3/">
+					<i class="inverted big link chevron circle right icon" title="Next page"></i>
+				</a>
+			
+		</div>
+	
+
+	
+	
+
+	
+	
+		<div class="item right">
+			<a href="/posts/index.xml">
+				<i class="inverted big link rss icon" title="RSS Feed"></i>
+			</a>
+		</div>
+	
+</nav>
+
+
+	<div class="ui centered grid">
+		
+		<div class="fifteen wide mobile fifteen wide tablet four wide computer column">
+			<div class="ui inverted accordion">
+	<div id="header" class="ui inverted segment column box">		
+		
+		<header id="author" class="ui top attached center aligned inverted segment">
+			
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+		</header>
+
+		
+		<div class="active title header-title">
+			
+				<div id="tag-category-pop" class="ui red right corner label">
+					<i class="hand point icon up" title="Show/hide tags and categories"></i>
+				</div>
+			
+		</div>
+		
+		
+		<div id="tag-category" class="active content">
+			
+				<section class="ui attached center aligned inverted segment dream-tags none flexbox">
+					
+					
+					
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label teal " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label red " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label green " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label pink " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label olive " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label red " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label brown " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label teal " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+				</section>
+			
+
+			
+				<section class="ui attached inverted segment dream-categories both flexbox">
+					<div class="inverted accordion">
+						
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+					</div>
+				</section>
+			
+		</div>
+
+		
+		<footer class="ui bottom attached center aligned inverted segment">
+			
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+		</footer>
+	</div>
+</div>
+
+		</div>
+
+		
+		<div class="fifteen wide mobile fifteen wide tablet eleven wide computer column post-list">
+			<div class="cards row box">
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/sobe-deco-hotels-640x420.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-florida-miami-beach/>Miami Beach</a></h3>
+		<div class="intro twemoji">
+			
+				Notes on America&rsquo;s Riviera
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="887f875ddb12429336346dc69c9bd6c7"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Aug 24, 2019</span></div>
+			<div><span><i class="clock icon"></i>11 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/averyisland-card_640x420.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-avery-island/>Avery Island</a></h3>
+		<div class="intro twemoji">
+			
+				A hot day at the Tabasco factory.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="d76a18a21eccd05a921feedb8cf70311"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Jul 5, 2019</span></div>
+			<div><span><i class="clock icon"></i>7 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/shortcodes-640x420.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/tech-shortcodes-test/>Shortcodes Test</a></h3>
+		<div class="intro twemoji">
+			
+				Test of custom shortcodes for Hugo.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="0f475abaf830474deb3069c4e557df0e"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Jun 14, 2019</span></div>
+			<div><span><i class="clock icon"></i>4 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/paul-farmer-and-me-951x693.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/planning-recognition/>Professional Recognition</a></h3>
+		<div class="intro twemoji">
+			
+				Awards and Achievements
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="624c30d7eb2c9c978946d6438f3ace7e"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Jun 12, 2019</span></div>
+			<div><span><i class="clock icon"></i>2 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/travel/leavenworth/leavenworth-ceremony.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-kansas-leavenworth/>Fort Leavenworth</a></h3>
+		<div class="intro twemoji">
+			
+				My brother&rsquo;s military retirement.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="977893dfcc4965f12177554ee1987d93"></span></div>
+			
+			<div><span><i class="calendar icon"></i>May 20, 2019</span></div>
+			<div><span><i class="clock icon"></i>1 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/tech/foldergallery-example_640.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/tech-hugo-image-gallery/>Hugo Image Gallery</a></h3>
+		<div class="intro twemoji">
+			
+				Comparing a few options.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="d0f4b262f6a18274e659e90a61d74848"></span></div>
+			
+			<div><span><i class="calendar icon"></i>May 4, 2019</span></div>
+			<div><span><i class="clock icon"></i>8 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/santa-fe-river-paddling.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-florida-santafe-river/>Florida&#39;s Santa Fe River</a></h3>
+		<div class="intro twemoji">
+			
+				10 miles of beauty
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="d6ec63c76bfe284c14d2f4b68d533e8d"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Apr 25, 2019</span></div>
+			<div><span><i class="clock icon"></i>7 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/lake-martin-640x420.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-alabama-lk-martin/>Lake Martin Alabama</a></h3>
+		<div class="intro twemoji">
+			
+				My parents home on Lake Martin.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="778d08aad84c55a9a29fd24667f5deec"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Jan 13, 2019</span></div>
+			<div><span><i class="clock icon"></i>3 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/big-lagoon-sp-florida-bw.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-florida-camping/>Camping in Florida</a></h3>
+		<div class="intro twemoji">
+			
+				Our family has enjoyed several camping trips at State Parks in Florida.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="731fb26734c34f77358ac0b96eca7dcf"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Jan 5, 2019</span></div>
+			<div><span><i class="clock icon"></i>7 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+					
+
+
+	
+
+
+
+<article class="blog-card none flexbox">
+	
+	<img class="image" src="/images/cards/lido-beach-640x420.jpg"></img>
+	<div class="title-content twemoji">
+		<h3><a class="title" href=https://howisjt.com/posts/travel-florida-sarasota/>Southwest Florida</a></h3>
+		<div class="intro twemoji">
+			
+				A brief recap of our lives there.
+			
+		</div>
+	</div>
+
+	
+	<div class="utility-info">
+		<ul class="utility-list">
+			
+				<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="a2da0a7678b886010294b9b1818b7b6e"></span></div>
+			
+			<div><span><i class="calendar icon"></i>Jan 5, 2019</span></div>
+			<div><span><i class="clock icon"></i>13 min read</span></div>
+		</ul>
+	</div>
+	<div class="color-overlay"></div>
+</article>
+
+				
+			</div>
+		</div>
+	</div>
+
+				</div>
+				<div class="back">
+					
+<nav class="ui top secondary menu bar">
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+			<div class="item">
+				<a href="https://github.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link github icon" title="GitHub"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://twitter.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link twitter icon" title="Twitter"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://youtube.com/channel/UCKa9pxOIcfsWaAEpXSoc1yA" target="	_blank">
+					<i id="ico" class="inverted big link youtube play icon" title="YouTube"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://www.linkedin.com/in/jamestaylorsrq" target="	_blank">
+					<i id="ico" class="inverted big link linkedin icon" title="LinkedIn"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+</nav>
+
+
+
+<div class="ui centered grid about">
+	<div class="sixteen wide mobile fifteen wide tablet fifteen wide computer column about">
+		<section class="ui stacked segments">
+			<div class="ui inverted segment">
+				<article class="twemoji">
+					<h1 id="so-how-is-jt">So, how is J.T.?</h1>
+<hr>
+<p>Well, I&rsquo;m doing great! Thanks for asking.<br>
+<img src="/images/jctavatar4-color.jpg#floatright" alt="James Taylor headshot"><br>
+Early in my career I was presented a &ldquo;Jack of All Trades&rdquo; award which I though was pretty cool. It was just some silly clip art inkjet printed onto cardstock, but I knew it was significant because of who presented it to me. Twenty-five years have passed since since then, and I&rsquo;ve continued to fill many roles for my employers. I find it to be a two-sided coin: One side suggests that I lack specialization in a particular area. But flip that coin over and it reveals I&rsquo;m diverse and a quick learner. I feel that because I&rsquo;m dependable and determined, my employers and co-workers have found me to be indespensible.<br>
+<br>
+All of that to say&hellip;<br>
+I&rsquo;ve spent my carreer growing and adapting. Born in Florida and raised on a small farm in Appalachia, I earned a degree in ornamental horticulture from Clemson University and continued my education at LSU, earning a masters degree in landscape architecture, and after years in the workforce transitioning to urban design and planning. All the while I&rsquo;ve been curious and continuously tinkering with computers. It seems that in every workplace I end up being &ldquo;the IT guy.&rdquo; That&rsquo;s ok. I strive to incorporate the benefits of technology and automation into much of my work.<br>
+<br>
+This website is an outlet for me to express myself and represent some of the varied projects I&rsquo;ve taken on. Perhaps you&rsquo;ll find some of it useful - I hope so. Mostly the site itself is yet another hobby project.<br>
+<br>
+I&rsquo;ve enabled the Disqus commenting functionality on the blog posts - mostly to learn from prospective readers who may know more about these subjects than me. I&rsquo;m happy to correct errors identified, but I&rsquo;ll not tollerate rudeness. Read my <a href="/posts/guidelines/">community commenting guidelines</a>.<br>
+<br>
+Still curious about me?  Use the social links in the page header above to check out my profiles.  Thanks for reading!<br>
+<br>
+<em>James C. Taylor, AICP</em>
+				</article>
+			</div>
+		</section>
+	</div>
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+	
+	
+		
+			<script id="dsq-count-scr" src="//howisjt.disqus.com/count.js" async></script>
+		
+	
+
+		
+
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+
+
+<script src="/js/site.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+
+
+
+
+	<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?2.6"></script>
+
+
+
+
+
+
+
+
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74JZP84Q69"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-74JZP84Q69', { 'anonymize_ip': false });
+}
+</script>
+
+
+	
+	<script src="/__/firebase/7.6.1/firebase-app.js"></script>
+
+	
+	<script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
+
+
+		
+
+
+		
+
+	<script>
+		(function () {
+		  console.log("Twemoji up and making stuff colourful!");
+		  for (var b = document.getElementsByClassName("twemoji"), a = 0; a < b.length; a++) {
+			twemoji.parse(b[a]);
+		  }
+		})();
+	</script>
+
+
+	</body>
+</html>

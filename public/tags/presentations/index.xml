@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presentations on HowIsJT</title>
+    <link>https://howisjt.com/tags/presentations/</link>
+    <description>Recent content in presentations on HowIsJT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jan 2019 19:00:52 -0600</lastBuildDate><atom:link href="https://howisjt.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presenting without PowerPoint</title>
+      <link>https://howisjt.com/posts/planning-presentation/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/planning-presentation/</guid>
+      <description>Death by PowerPoint is a comic metaphor for the all too common use of Microsoft&amp;rsquo;s product to produce and deliver the most dull, uninspired, and sleep inspiring lectures imaginable. Certainly, the software itself isn&amp;rsquo;t the culprit - it&amp;rsquo;s the uninspired user. But in an effort to &amp;ldquo;think out of the box&amp;rdquo; I decided to prepare and deliver a couple of lectures using on-screen presentation frameworks other than PowerPoint.
+Presi Yes, Presi is a commercial product too, and it is now associated with disorienting, spinning on-screen shows that can give the audience indigestion.</description>
+    </item>
+    
+  </channel>
+</rss>

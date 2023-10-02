@@ -1,0 +1,80 @@
+baseURL = "https://howisjt.com"
+title = "HowIsJT"
+theme = "dream-plus"
+themesDir = "./themes"		#Don't use this, only for exampleSite
+paginate = 10
+enableRobotsTXT = true
+disqusShortname = "howisjt"
+
+# googleAnalytics = "UA-131477727-1" (obsolete) 
+googleAnalytics = "G-74JZP84Q69"
+
+# Allow Goldmark markdown render to retain and output HTML code snippets
+[markup.goldmark.renderer]
+  unsafe = true
+
+#Skip building these files
+#ignoreFiles = ["content/404.md", "content/about.md", "content/stitchnglue/\\.*"]
+ignoreFiles = [".content/stitchnglue", "_cache$"]
+
+#Syntax highlighting
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+
+#Enable Hugo Emoji Conversion
+enableEmoji=true
+
+[params]
+	#Favicon for site
+	favicon = "/images/favicon-palm.ico"
+
+	#Set whether you're hosting "cards" or "post"
+	contentType = "posts"
+	
+	siteStartYear = 2019
+	
+	Description = "The personal website, blog and dev diary of HowIsJT."
+
+	#My howisjt Google Cloud Geocoding API key to enable gmap shortcode
+	googleMapsAPIKey = "AIzaSyCQZIlCX8VwDdET-ctYMJVtHS8Iqarpqew"
+	
+	[params.author]
+		avatar = "/images/jctavatar5-color.jpg"
+		name = "James Taylor"
+		description = "Urban planning, GIS, web development, and personal pursuits including family camping, paddlesports, birding and amateur astronomy."
+		motto = "AICP planner, landscape designer, technologist, dad."
+
+	[params.features]
+		#Enable Twitter Emoji
+		twitterEmoji = true
+		#Enable Table of Contents
+		toc = true
+		#Enable share card
+		shareCard = true
+		#Use custom CSS
+		customCSS = ["/css/howisjt.css"]
+
+	[params.background]
+		colorBG = false
+		#Single background image
+		bgList = ["/images/bg-plaster-wall.jpg"]
+		#Random backgrounds
+		#bgList = ["/images/bg-plaster-wall.jpg", "/images/bg-grass.jpg", "/images/bg-milkyway.jpg"]
+		#Blur the background
+		bgBlur = "0.2"
+
+	#Tags settings
+	[params.tags]
+		enabled = true
+
+	#Categories settings
+	[params.categories]
+		enabled = true
+
+[social]
+	facebook = "100047279573573"
+	linkedin = "jamestaylorsrq"
+	github = "howisjames"
+	twitter = "howisjames"
+	youtube = "UCKa9pxOIcfsWaAEpXSoc1yA"

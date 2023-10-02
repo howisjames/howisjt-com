@@ -1,0 +1,21 @@
+{{/*Load Semantic JS*/}}
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+
+{{/*Load basic site JS*/}}
+<script src="/js/site.js"></script>
+
+{{/*Load fancybox for foldergallery add-in*/}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+{{/*fancybox CSS is loaded in the foldergallery shortcode*/}}
+
+{{/*twemoji JS*/}}
+{{ with $.Site.Params.features.twitterEmoji }}
+	<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?2.6"></script>
+{{ end }}
+
+{{/*Load custom JS*/}}
+{{ range $val := $.Site.Params.features.customJS }}
+	{{ if gt (len $val) 0 }}
+		<script src="{{ $val }}"></script>
+	{{ end }}
+{{ end }}

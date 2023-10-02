@@ -1,0 +1,8 @@
+{{/*Copyright statement*/}}
+{{ with $.Site.Params.siteStartYear }}
+	<p><small>© {{ if eq now.Year $.Site.Params.siteStartYear }}{{ now.Year }}{{ else }}{{ $.Site.Params.siteStartYear }} - {{ now.Year }}{{ end }} {{ $.Site.Title }}</br>
+{{ else }}
+	<p>© {{ now.Year }} {{ $.Site.Title }}</br>
+{{ end }}
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>

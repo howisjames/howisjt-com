@@ -1,0 +1,2336 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>
+	Shortcodes Test
+</title>
+		<style>
+	body {
+		display: block;
+		--colorBG: "#40e0d0, #ff8c00, #ff0080";
+		
+			background-image: var(--bgImage) !important;
+		
+	}
+
+	body, body.pushable {
+		background-repeat: no-repeat;
+	  	background-attachment: fixed;
+	  	background-size: cover !important;
+	}
+</style>
+
+		<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+	
+	
+	
+	<meta name="author" content="James Taylor" />
+	<meta name="description" content="Test of custom shortcodes for Hugo." />
+
+
+
+<meta name="generator" content="Hugo 0.114.1">
+
+
+<link rel="shortcut icon" href="/images/favicon-palm.ico">
+
+
+
+
+		
+
+
+<script type="text/javascript">
+ 
+var giftofspeed = document.createElement('link');
+giftofspeed.rel = 'stylesheet';
+giftofspeed.href = 'https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css';
+giftofspeed.type = 'text/css';
+var godefer = document.getElementsByTagName('link')[0];
+godefer.parentNode.insertBefore(giftofspeed, godefer);
+
+ 
+var giftofspeed2 = document.createElement('link');
+giftofspeed2.rel = 'stylesheet';
+giftofspeed2.href = 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css';
+giftofspeed2.type = 'text/css';
+var godefer2 = document.getElementsByTagName('link')[0];
+godefer2.parentNode.insertBefore(giftofspeed2, godefer2);
+</script>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+
+ <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Inconsolata" rel="stylesheet"> 
+ 
+
+
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+
+
+
+
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+	
+
+
+
+<style>
+	body.pushable {
+		display: block;
+		
+			background-image: var(--bgImage) !important;
+		 ;
+	}
+</style>
+
+
+
+<script>
+	var colorBG =  false 
+	
+	var isMobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+	console.log("The client device is a "+(isMobile?"mobile":"PC")+".")
+</script>
+
+	</head>
+
+	<body>
+		<script>
+var prevBgIndex = 0;
+var bodyBgSwitchIndex = 0;
+
+
+
+
+
+
+	
+		var bgImage = "url(" + "/images/bg-plaster-wall.jpg" + ")";
+	
+
+	console.log("Current background: " + bgImage.substring(bgImage.indexOf("bg"), bgImage.length));
+	document.body.style.setProperty('--blurEff', "0.2");
+	document.body.style.setProperty('--bgImage', bgImage);
+
+
+	function getRandomInt(min, max) {
+	  min = Math.ceil(min);
+	  max = Math.floor(max);
+	  var random;
+	  while (1) {
+	    random = Math.floor(Math.random() * (max - min)) + min;
+	    if (random !== prevBgIndex) {
+	      prevBgIndex = random;
+	      break;
+	    }
+	  }
+	  return random;
+	}
+
+	function connect(arr) {
+	  var str = '';
+	  for (var i = 0; i < arr.length; i++) {
+	    if (i !== arr.length - 1) {
+	      str += arr[i] + ', ';
+	    } else {
+	      str += arr[i];
+	    }
+	  }
+	  return str;
+	}
+</script>
+
+
+
+	<div class="blur-overlay"></div>
+
+
+		<div id="sidebar" class="ui sidebar inverted vertical menu">
+	
+	<section id="author" class="ui top attached center aligned inverted segment">
+		
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+	</section>
+
+	
+	
+		<section class="ui attached center aligned inverted segment sidebar-dream-tags">
+			
+			
+			
+			
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label violet " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label pink " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label pink " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label blue " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label violet " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label red " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label blue " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label blue " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+		</section>
+	
+
+	
+	
+		<section class="ui attached inverted segment sidebar-dream-categories both flexbox">
+			<div class="ui inverted accordion">
+				
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+			</div>
+		</section>
+	
+
+	
+	<section id="footer" class="ui bottom attached center aligned inverted segment">
+		
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+	</section>
+</div>
+
+
+		<div class="pusher">
+			<div class="flipper">
+				<div class="front">
+					
+	<nav class="ui top secondary menu bar">
+	
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+
+	
+	
+		<div class="item">
+			<a href="/">
+				<i class="inverted big link home icon" title="Home"></i>
+			</a>
+		</div>
+	
+
+	
+	
+
+	
+	
+		<div class="item">
+			<a href="/tags">
+				<i class="inverted big link tags icon" title="All Tags"></i>
+			</a>
+		</div>
+	
+
+	
+	
+		<div class="item">
+			<a href="/categories">
+				<i class="inverted big link cubes icon" title="All Categories"></i>
+			</a>
+    	</div>
+	
+
+	
+	
+
+	
+	
+		<div class="ui container tablet computer only grid">
+			<div class="item" onClick="$('.ui.sidebar').sidebar('setting', 'transition', 'overlay').sidebar('toggle');">
+				<i class="inverted big link sidebar icon" title="Show Sidebar"></i>
+			</div>
+		</div>
+	
+
+	
+	
+		<div class="item right">
+			<a href="/posts/index.xml">
+				<i class="inverted big link rss icon" title="RSS Feed"></i>
+			</a>
+		</div>
+	
+</nav>
+
+
+	<div class="ui centered grid">
+		
+		<div class="sixteen wide mobile only column">
+				<div class="ui inverted accordion">
+	<div id="header" class="ui inverted segment column box">		
+		
+		<header id="author" class="ui top attached center aligned inverted segment">
+			
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+		</header>
+
+		
+		<div class=" title header-title">
+			
+				<div id="tag-category-pop" class="ui red right corner label">
+					<i class="hand point icon down" title="Show/hide tags and categories"></i>
+				</div>
+			
+		</div>
+		
+		
+		<div id="tag-category" class=" content">
+			
+				<section class="ui attached center aligned inverted segment dream-tags none flexbox">
+					
+					
+					
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label green " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label violet " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label blue " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label yellow " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label brown " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label brown " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label orange " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label olive " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+				</section>
+			
+
+			
+				<section class="ui attached inverted segment dream-categories both flexbox">
+					<div class="inverted accordion">
+						
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+					</div>
+				</section>
+			
+		</div>
+
+		
+		<footer class="ui bottom attached center aligned inverted segment">
+			
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+		</footer>
+	</div>
+</div>
+
+		</div>
+
+		<div class="sixteen wide mobile fifteen wide tablet twelve wide computer column post-list">
+			
+			<section class="ui secondary top attached black segment post-head">
+				<h1 class="post-title">
+					Shortcodes Test
+				</h1>
+
+				<div class="sub header">
+					<div><span><i class="calendar outline icon"></i>Jun 14, 2019</span></div>
+					
+					<div><span class="disqusComment"><i class="comment outline icon"></i><a href="https://howisjt.com/posts/tech-shortcodes-test/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="0f475abaf830474deb3069c4e557df0e"></a></span></div>
+					<div><span><i class="clock outline icon"></i>4 min read</span></div>
+					<div><span><i class="angle double up icon"></i>Last updated on Jul 14, 2019</span></div>
+				</div>
+				<hr>
+
+				
+					<div class="toc">
+						<nav id="TableOfContents">
+  <ul>
+    <li><a href="#folder-based-image-gallery">Folder-based Image Gallery</a></li>
+    <li><a href="#youtube">Youtube</a></li>
+    <li><a href="#vimeo">Vimeo</a></li>
+    <li><a href="#figure">Figure</a></li>
+    <li><a href="#regular-image-insert">Regular image insert</a></li>
+    <li><a href="#insert-an-instagram-image">Insert an Instagram image</a></li>
+    <li><a href="#audio-file-player">audio file player</a></li>
+    <li><a href="#google-map">Google Map</a></li>
+    <li><a href="#gallery-slider">Gallery Slider</a></li>
+    <li><a href="#slide">Slide</a></li>
+  </ul>
+</nav>
+					</div>
+				
+
+				<article class="post-content twemoji">
+					<h1 id="hugo-shortcodes">Hugo Shortcodes&nbsp;<a class="anchor" href="#hugo-shortcodes"><i class="small linkify icon"></i></a> </h1>
+<p>Shortcodes are little snippets of code that can be called from within a post to perform an action. Hugo comes with a few shortcodes baked in such as &ldquo;figure&rdquo;, but others I&rsquo;ve gleaned from internet searches and perhaps from my own tinkering.</p>
+<h2 id="folder-based-image-gallery">Folder-based Image Gallery&nbsp;<a class="anchor" href="#folder-based-image-gallery"><i class="small linkify icon"></i></a> </h2>
+<p>from a folder of pictures within &ldquo;website/hugo/howisjt/static/&rdquo;. Don&rsquo;t put a slash in front of the &ldquo;images&rdquo; directory. This is different from all others.
+
+
+<style>
+    div.gallery {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    div.gallery a {
+        flex-grow: 1;
+        object-fit: cover;
+        margin: 2px;
+        display: flex;
+    }
+    div.gallery a img {            
+        height: 200px;
+        object-fit: cover;
+        flex-grow: 1;
+    }
+</style>
+
+
+
+<link rel="stylesheet" href="/css/jquery.fancybox.min.css" />
+
+    <div class="gallery">
+        
+	
+
+	
+	
+            <a data-fancybox="gallery" href="/images/travel/dadeville/house/dadeville-lake-house01.jpg">
+                <img src="/images/travel/dadeville/house/dadeville-lake-house01-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/travel/dadeville/house/dadeville-lake-house02.jpg">
+                <img src="/images/travel/dadeville/house/dadeville-lake-house02-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/travel/dadeville/house/dadeville-lake-house03.jpg">
+                <img src="/images/travel/dadeville/house/dadeville-lake-house03-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/travel/dadeville/house/dadeville-lake-house05.jpg">
+                <img src="/images/travel/dadeville/house/dadeville-lake-house05-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/travel/dadeville/house/lake-at-moms-house.jpg">
+                <img src="/images/travel/dadeville/house/lake-at-moms-house-thumb.jpg">  <br/>            
+            </a>
+	
+</div></p>
+<h2 id="youtube">Youtube&nbsp;<a class="anchor" href="#youtube"><i class="small linkify icon"></i></a> </h2>
+<p>Just insert &ldquo;youtube&rdquo; with the unique video code. Here is the Baton Rouge High Symphony Orchestra.
+
+<div class="youtube container">
+    <iframe class="youtube" type="text/html"
+        src="https://www.youtube.com/embed/hnQQDMK8WVw"
+        allowfullscreen frameborder="0">
+    </iframe>
+</div>
+</p>
+<h2 id="vimeo">Vimeo&nbsp;<a class="anchor" href="#vimeo"><i class="small linkify icon"></i></a> </h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://player.vimeo.com/video/146022717" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<h2 id="figure">Figure&nbsp;<a class="anchor" href="#figure"><i class="small linkify icon"></i></a> </h2>
+<p>Figure is an extension of the image syntax in markdown.  You can use multiple arguments. Displays as a flat image with no shadow background.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>
+<figure><img src="/images/cards/camping-clear-springs-640x420.jpg"/><figcaption>
+            <h4>Clear Springs Campground</h4>
+        </figcaption>
+</figure>
+</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><figure class="floatright"><img src="/images/cards/default2.jpg"/><figcaption>
+            <h4>Scaled down, float right.</h4>
+        </figcaption>
+</figure>
+ Here is a same size image using the figure command with a floatright argument. It works nicely, scaling down the fullsize image (no thumbnail required) and provides a buffer from the text. Probably too much buffer space. Again, it is flat styled with no shadowing.<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum.</p>
+<h2 id="regular-image-insert">Regular image insert&nbsp;<a class="anchor" href="#regular-image-insert"><i class="small linkify icon"></i></a> </h2>
+<p>The theme&rsquo;s CSS adds the shadow and centers the image.
+<img src="/images/woodyavatar.jpg" alt="Woody the Dog" title="Woody is my silly puppy."></p>
+<h2 id="insert-an-instagram-image">Insert an Instagram image&nbsp;<a class="anchor" href="#insert-an-instagram-image"><i class="small linkify icon"></i></a> </h2>
+<p>The Instagram shortcode is now broken as of 11/29/2020, and probably a while before that. It seems Instagram is blocking the downloading of images.</p>
+<h2 id="audio-file-player">audio file player&nbsp;<a class="anchor" href="#audio-file-player"><i class="small linkify icon"></i></a> </h2>
+<p>Be cautious using this because I fear I&rsquo;d have to host the audio files on my virtual server which could consume valuable disk space. There must be a more efficient way to embed audio hosted elsewhere. Here is a 3MB Sky Tour podcast.
+
+
+<audio controls style="width: 100%; margin-bottom: 20px">
+    
+    <source src="/audio/SkyTour-February-2019.mp3" type="audio/mpeg">
+    
+    Your browser does not support the audio element.
+</audio></p>
+<h2 id="google-map">Google Map&nbsp;<a class="anchor" href="#google-map"><i class="small linkify icon"></i></a> </h2>
+<p>Below should be a single point google map iframe locating our house. It pulls my Google API key from the toml file. Woops, looks like the gmaps function has closed down. Thanks Google&hellip;<br>
+
+
+<div class="shortcode shortcode--google-maps">
+	<iframe
+		src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCQZIlCX8VwDdET-ctYMJVtHS8Iqarpqew&q=4932%20Front%20Royal%20Dr%2c%20Baton%20Rouge%2c%20LA'
+		frameborder="0"
+		scrolling="no"
+		width="100%"
+		height='300'>
+	</iframe>
+</div>
+</p>
+<p>An embedded &ldquo;Google My Map&rdquo; - my Bucket List. I have to intentionally define the maps zoom by appending &ldquo;&amp;zoom=6&rdquo; to the src= .\</p>
+<iframe src="https://www.google.com/maps/d/embed?mid=1UaY6uD_OlvffgJuvMOv0roz6N-s&zoom=6" width="100%" height="480"></iframe>
+<h2 id="gallery-slider">Gallery Slider&nbsp;<a class="anchor" href="#gallery-slider"><i class="small linkify icon"></i></a> </h2>
+<p>An image slider with customizable features. See <a href="https://github.com/tbiering/hugo-slider-shortcode">https://github.com/tbiering/hugo-slider-shortcode</a>  It displays scaled images but cannot allow visitors to click to enlarge an image - such as with lightbox. Also, it is not mobile friendly; it doesn&rsquo;t scale to fit the width of small screens correctly.</p>
+<p>Default use-case</p>
+
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+#slides-list {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 300px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.nav:hover {
+    opacity: 1.0;
+}
+#left {
+    left: 3%;
+    float: left;
+}
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/FEMA-Community_Resilience_training_cert-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/FEMA-Community_Resilience_training_cert.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/HQS_certificate-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/HQS_certificate.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/StTammany-CRT-Excellence-Plan_APA-LA-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/StTammany-CRT-Excellence-Plan_APA-LA.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/commitment-to-planning_medal-2019-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/commitment-to-planning_medal-2019.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/leadership-experience-APA-LA_James-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/leadership-experience-APA-LA_James.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/outstanding-service-planning-2015-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/outstanding-service-planning-2015.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/outstanding-service-planning-2017-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/planning/recognition/gallery/outstanding-service-planning-2017.jpg);"></li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+        $.global.item = 0;
+        $.global.total = slideCount;
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+    });
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+        $.global.item = nextSlideId;
+    }
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script>
+<p>Set width and height. This isn&rsquo;t working. It always displays the same size regardless of the values I feed it for width and height.
+
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+#slides-list {
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 150px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.nav:hover {
+    opacity: 1.0;
+}
+#left {
+    left: 3%;
+    float: left;
+}
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/3d-modeling-01-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/3d-modeling-01.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/3d-modeling-02-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/3d-modeling-02.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/3d-modeling-03-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/3d-modeling-03.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky-1-drawers-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky-1-drawers-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky-1-loaded-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky-1-loaded-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky1-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky1.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky2-pre-paint-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/Chucky2-pre-paint.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/chuckbox-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/chuckbox.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/my-chuckbox_06-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/my-chuckbox_06-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/my-chuckbox_11-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/mine/my-chuckbox_11-1024.jpg);"></li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+        $.global.item = 0;
+        $.global.total = slideCount;
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+    });
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+        $.global.item = nextSlideId;
+    }
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script></p>
+<p>Set left and right icon. This example uses the double chevron icons. These are pulled from FontAwesome.
+
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+#slides-list {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 300px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.nav:hover {
+    opacity: 1.0;
+}
+#left {
+    left: 3%;
+    float: left;
+}
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/2-door-chuck-box-loaded-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/2-door-chuck-box-loaded.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/2-door-chuck-box-loaded2-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/2-door-chuck-box-loaded2.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/2-door-chuck-box-loaded3-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/2-door-chuck-box-loaded3.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/Johnson-box-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/Johnson-box.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/LeftFront-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/LeftFront.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/Outdoorsman-Camp-Kitchen-7-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/Outdoorsman-Camp-Kitchen-7.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/camp_kitchen_etsy-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/camp_kitchen_etsy.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/chuckbox-commercial-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/chuckbox-commercial.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/kitbox-colman-whitegas-stove-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/kitbox-colman-whitegas-stove.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/shelf_support-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/shelf_support.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/swing-open-doors-chuckbox-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/swing-open-doors-chuckbox.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/woodcraft-com_plans_avail-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/chuckbox/others/woodcraft-com_plans_avail.jpg);"></li>
+    </ol>
+    <span class="nav fa fa-angle-double-left fa-3x" id="left"></span>
+    <span class="nav fa fa-angle-double-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+        $.global.item = 0;
+        $.global.total = slideCount;
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+    });
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+        $.global.item = nextSlideId;
+    }
+    
+      var autoSlide = parseInt("0", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script></p>
+<p>Set automatic sliding duration of 200ms. Doesn&rsquo;t work.
+
+
+
+
+
+
+
+
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script>
+
+
+<style>
+#slide-window {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+#slides-list {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    height: 300px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+.nav:hover {
+    opacity: 1.0;
+}
+#left {
+    left: 3%;
+    float: left;
+}
+#right {
+    right: 3%;
+    float: right;
+}
+</style>
+
+
+<div id="slide-window">
+    <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/FallingWatersSP_swimming-pond-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/FallingWatersSP_swimming-pond.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Falling_Waters_SP_campsite20-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Falling_Waters_SP_campsite20-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns08-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns08-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns39-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns39-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns44-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns44-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns47-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Florida_Caverns47-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/FtPickens-beach-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/FtPickens-beach.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/FtPickens-cannon-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/FtPickens-cannon.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Morrison_Springs01-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Morrison_Springs01.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs01-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs01-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs04-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs04-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs11-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs11-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs12-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/Pitt_Springs12-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/bluesprings_camp_site_nwfwma-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/bluesprings_camp_site_nwfwma.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/boys-at-Myakka-SP_2011-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/boys-at-Myakka-SP_2011.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_04_4492876335_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_04_4492876335_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_06_4492875127_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_06_4492875127_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_10_4492876899_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_10_4492876899_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_24_4493523092_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_24_4493523092_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_34_best_group_shot_4492892611_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping2010-04_34_best_group_shot_4492892611_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping_myakka_2011-01_01_5362088778_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping_myakka_2011-01_01_5362088778_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping_myakka_2011-01_06_5362091016_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping_myakka_2011-01_06_5362091016_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping_myakka_2011-01_10_5362097720_o-1024-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/camping_myakka_2011-01_10_5362097720_o-1024.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/campsite-BigLagoonSP_2019-04-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/campsite-BigLagoonSP_2019-04.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/ichetucknee_springhead-thumb.jpg);"></li>
+                <li class="slide" style="background-image:url(https://howisjt.com/images/hobby/camping/florida/ichetucknee_springhead.jpg);"></li>
+    </ol>
+    <span class="nav fa fa-chevron-left fa-3x" id="left"></span>
+    <span class="nav fa fa-chevron-right fa-3x" id="right"></span>
+</div>
+
+<script>
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+    $(document).ready(function () {
+        var slideWindowWidth = $('#slide-window').width();
+        var slideCount = $('#slides-list li').length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+        $.global.item = 0;
+        $.global.total = slideCount;
+        $('.slide').css('width', slideWindowWidth + 'px');
+        $('#slides-list').css('width', totalSlidesWidth + 'px');
+        $('#left').click(function () {
+            resetAutoSlide();
+            performSlide('back');
+        });
+        $('#right').click(function () {
+            resetAutoSlide();
+            performSlide('forward');
+        });
+    });
+    function performSlide(direction) {
+        if (direction == 'back') {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == 'forward') {
+            var nextSlideId = $.global.item + 1;
+        }
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $('#slide-window').width();
+        var margin = slideWindowWidth * nextSlideId;
+        $('#slides-list').css('transform', 'translate3d(-' + margin + 'px,0px,0px)');
+        $.global.item = nextSlideId;
+    }
+    
+      var autoSlide = parseInt("200", 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide('forward');
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+</script></p>
+<h2 id="slide">Slide&nbsp;<a class="anchor" href="#slide"><i class="small linkify icon"></i></a> </h2>
+<p>An image slider drawing from a directory of JPGs. There must be a CSS conflict because it&rsquo;s not displaying the images properly. It displays successive images below the previous, not over the top of the previous, replacing it. Weird.</p>
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider">
+    
+    
+    <img src="/images/travel/batonrouge/BatonRouge-downtown-from-capitol-thumb.jpg" id="image_0" alt="BatonRouge-downtown-from-capitol-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/BatonRouge-downtown-from-capitol.jpg" id="image_1" alt="BatonRouge-downtown-from-capitol.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/Beauregard_Town_plat-1806-thumb.jpg" id="image_2" alt="Beauregard_Town_plat-1806-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/Beauregard_Town_plat-1806.jpg" id="image_3" alt="Beauregard_Town_plat-1806.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/Beauregard_Town_plat-1806_tn-thumb.jpg" id="image_4" alt="Beauregard_Town_plat-1806_tn-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/Beauregard_Town_plat-1806_tn.jpg" id="image_5" alt="Beauregard_Town_plat-1806_tn.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/LSU-Hill-Memorial-Audubon-folio-viewing-thumb.jpg" id="image_6" alt="LSU-Hill-Memorial-Audubon-folio-viewing-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/LSU-Hill-Memorial-Audubon-folio-viewing.jpg" id="image_7" alt="LSU-Hill-Memorial-Audubon-folio-viewing.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/LSU-Tiger-Stadium-band-thumb.jpg" id="image_8" alt="LSU-Tiger-Stadium-band-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/LSU-Tiger-Stadium-band.jpg" id="image_9" alt="LSU-Tiger-Stadium-band.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/batonrouge-skyline-2019-1024px.jpg" id="image_10" alt="batonrouge-skyline-2019-1024px.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/batonrouge-skyline-2019-2500px.JPG" id="image_11" alt="batonrouge-skyline-2019-2500px.JPG" />
+    
+    
+    <img src="/images/travel/batonrouge/caneland-distillery-tour-thumb.jpg" id="image_12" alt="caneland-distillery-tour-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/caneland-distillery-tour.jpg" id="image_13" alt="caneland-distillery-tour.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/canoing-LSU-lake-thumb.jpg" id="image_14" alt="canoing-LSU-lake-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/canoing-LSU-lake.jpg" id="image_15" alt="canoing-LSU-lake.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/levee-walk-the-dog-thumb.jpg" id="image_16" alt="levee-walk-the-dog-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/levee-walk-the-dog.jpg" id="image_17" alt="levee-walk-the-dog.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/lots-for-sale-1806-Beauregardtown-thumb.jpg" id="image_18" alt="lots-for-sale-1806-Beauregardtown-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/lots-for-sale-1806-Beauregardtown.jpg" id="image_19" alt="lots-for-sale-1806-Beauregardtown.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/state_capitol_of_Louisiana-thumb.jpg" id="image_20" alt="state_capitol_of_Louisiana-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/state_capitol_of_Louisiana.jpg" id="image_21" alt="state_capitol_of_Louisiana.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/uss-kidd-and-frigate-replica-thumb.jpg" id="image_22" alt="uss-kidd-and-frigate-replica-thumb.jpg" />
+    
+    
+    <img src="/images/travel/batonrouge/uss-kidd-and-frigate-replica.jpg" id="image_23" alt="uss-kidd-and-frigate-replica.jpg" />
+    
+</div>
+
+<style>
+    .slider {
+        padding-bottom: 70%;
+        width: 100%;
+        height: 0;
+        position: relative;
+    }    
+    .slider img {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        opacity: 0;
+        animation: slide infinite 144s;
+    }
+
+    
+    
+    
+    
+    
+
+    @keyframes slide {
+        0% { opacity: 0; }
+        1.3888888888888888% { opacity: 1; }
+        4.166666666666666% { opacity: 1; }
+        5.555555555555555% { opacity: 0; }
+    }
+
+    
+    
+    .slider img:nth-child(1){animation-delay:0s;}
+    
+    
+    .slider img:nth-child(2){animation-delay:6s;}
+    
+    
+    .slider img:nth-child(3){animation-delay:12s;}
+    
+    
+    .slider img:nth-child(4){animation-delay:18s;}
+    
+    
+    .slider img:nth-child(5){animation-delay:24s;}
+    
+    
+    .slider img:nth-child(6){animation-delay:30s;}
+    
+    
+    .slider img:nth-child(7){animation-delay:36s;}
+    
+    
+    .slider img:nth-child(8){animation-delay:42s;}
+    
+    
+    .slider img:nth-child(9){animation-delay:48s;}
+    
+    
+    .slider img:nth-child(10){animation-delay:54s;}
+    
+    
+    .slider img:nth-child(11){animation-delay:60s;}
+    
+    
+    .slider img:nth-child(12){animation-delay:66s;}
+    
+    
+    .slider img:nth-child(13){animation-delay:72s;}
+    
+    
+    .slider img:nth-child(14){animation-delay:78s;}
+    
+    
+    .slider img:nth-child(15){animation-delay:84s;}
+    
+    
+    .slider img:nth-child(16){animation-delay:90s;}
+    
+    
+    .slider img:nth-child(17){animation-delay:96s;}
+    
+    
+    .slider img:nth-child(18){animation-delay:102s;}
+    
+    
+    .slider img:nth-child(19){animation-delay:108s;}
+    
+    
+    .slider img:nth-child(20){animation-delay:114s;}
+    
+    
+    .slider img:nth-child(21){animation-delay:120s;}
+    
+    
+    .slider img:nth-child(22){animation-delay:126s;}
+    
+    
+    .slider img:nth-child(23){animation-delay:132s;}
+    
+    
+    .slider img:nth-child(24){animation-delay:138s;}
+    
+</style>
+
+				</article>				
+			</section>
+
+			
+			<section class="ui secondary attached segment dream-tags">
+				
+					
+
+
+
+
+	
+		<a class="ui label brown " href="/tags/web-design" title="web design">web design</a>
+	
+
+
+				
+			</section>
+
+			
+			
+				<section class="ui secondary  attached segment share row box">
+					
+
+
+
+
+
+
+
+
+<div class="author">
+	
+	<img class="avatar" src="/images/jctavatar5-color.jpg">
+	
+</div>
+<div class="info grow flexbox">
+	<a href="https://twitter.com/howisjames">
+	<p class="name">James Taylor</p>
+	</a>
+	<p class="desc">AICP planner, landscape designer, technologist, dad.</p>
+</div>
+
+
+<section class="buttons row box">
+	<div class="facebook none flexbox" href="#" onclick="window.open(
+			'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+			'facebook-share-dialog',
+			'width=626,height=436'); return false;">
+		<button class="ui facebook button"><i class="facebook icon"></i>Share</button>
+	</div>
+	<div class="twitter none flexbox" onclick="window.open('https://twitter.com/intent/tweet?text=Read &quot;Shortcodes Test &quot; by @howisjames https:\/\/howisjt.com\/posts\/tech-shortcodes-test\/','_self')">
+		<button class="ui twitter button"><i class="twitter icon"></i>Tweet</button>
+	</div>
+</section>
+
+				</section>
+			
+
+			
+			
+			
+
+			
+			
+				<div class="ui secondary bottom attached stacked segment disqus">
+					
+<div id="disqus_thread"></div>
+<script>
+	var disqus_config = function () {
+		this.page.url = 'https:\/\/howisjt.com\/posts\/tech-shortcodes-test\/';
+		this.page.identifier = '0f475abaf830474deb3069c4e557df0e';
+	};
+	(function() {
+   	var d = document, s = d.createElement('script');
+   	s.src = 'https://' + 'howisjt' + '.disqus.com/embed.js';
+   	s.setAttribute('data-timestamp', +new Date());
+   	(d.head || d.body).appendChild(s);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+				</div>
+			
+		</div>
+	</div>
+
+				</div>
+				<div class="back">
+					
+<nav class="ui top secondary menu bar">
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+			<div class="item">
+				<a href="https://github.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link github icon" title="GitHub"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://twitter.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link twitter icon" title="Twitter"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://youtube.com/channel/UCKa9pxOIcfsWaAEpXSoc1yA" target="	_blank">
+					<i id="ico" class="inverted big link youtube play icon" title="YouTube"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://www.linkedin.com/in/jamestaylorsrq" target="	_blank">
+					<i id="ico" class="inverted big link linkedin icon" title="LinkedIn"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+</nav>
+
+
+
+<div class="ui centered grid about">
+	<div class="sixteen wide mobile fifteen wide tablet fifteen wide computer column about">
+		<section class="ui stacked segments">
+			<div class="ui inverted segment">
+				<article class="twemoji">
+					<h1 id="so-how-is-jt">So, how is J.T.?</h1>
+<hr>
+<p>Well, I&rsquo;m doing great! Thanks for asking.<br>
+<img src="/images/jctavatar4-color.jpg#floatright" alt="James Taylor headshot"><br>
+Early in my career I was presented a &ldquo;Jack of All Trades&rdquo; award which I though was pretty cool. It was just some silly clip art inkjet printed onto cardstock, but I knew it was significant because of who presented it to me. Twenty-five years have passed since since then, and I&rsquo;ve continued to fill many roles for my employers. I find it to be a two-sided coin: One side suggests that I lack specialization in a particular area. But flip that coin over and it reveals I&rsquo;m diverse and a quick learner. I feel that because I&rsquo;m dependable and determined, my employers and co-workers have found me to be indespensible.<br>
+<br>
+All of that to say&hellip;<br>
+I&rsquo;ve spent my carreer growing and adapting. Born in Florida and raised on a small farm in Appalachia, I earned a degree in ornamental horticulture from Clemson University and continued my education at LSU, earning a masters degree in landscape architecture, and after years in the workforce transitioning to urban design and planning. All the while I&rsquo;ve been curious and continuously tinkering with computers. It seems that in every workplace I end up being &ldquo;the IT guy.&rdquo; That&rsquo;s ok. I strive to incorporate the benefits of technology and automation into much of my work.<br>
+<br>
+This website is an outlet for me to express myself and represent some of the varied projects I&rsquo;ve taken on. Perhaps you&rsquo;ll find some of it useful - I hope so. Mostly the site itself is yet another hobby project.<br>
+<br>
+I&rsquo;ve enabled the Disqus commenting functionality on the blog posts - mostly to learn from prospective readers who may know more about these subjects than me. I&rsquo;m happy to correct errors identified, but I&rsquo;ll not tollerate rudeness. Read my <a href="/posts/guidelines/">community commenting guidelines</a>.<br>
+<br>
+Still curious about me?  Use the social links in the page header above to check out my profiles.  Thanks for reading!<br>
+<br>
+<em>James C. Taylor, AICP</em>
+				</article>
+			</div>
+		</section>
+	</div>
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+	
+	
+		<script id="dsq-count-scr" src="//howisjt.disqus.com/count.js" async></script>
+	
+
+		
+
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+
+
+<script src="/js/site.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+
+
+
+
+	<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?2.6"></script>
+
+
+
+
+
+
+
+
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74JZP84Q69"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-74JZP84Q69', { 'anonymize_ip': false });
+}
+</script>
+
+
+	
+	<script src="/__/firebase/7.6.1/firebase-app.js"></script>
+
+	
+	<script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
+
+
+		
+
+
+		
+
+	<script>
+		(function () {
+		  console.log("Twemoji up and making stuff colourful!");
+		  for (var b = document.getElementsByClassName("twemoji"), a = 0; a < b.length; a++) {
+			twemoji.parse(b[a]);
+		  }
+		})();
+	</script>
+
+
+	</body>
+</html>

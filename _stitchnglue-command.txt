@@ -1,0 +1,21 @@
+C:\Users\jamestaylor\Dropbox (Personal)\website\hugo\howisjt
+
+hugo server --config=config-stitchnglue.toml --disableFastRender
+
+hugo --config=config-stitchnglue.toml
+
+hugo --config=config-stitchnglue.toml --cleanDestinationDir
+
+
+hugo --cleanDestinationDir
+
+ERRORS:
+All of my customized partials, etc located in root/layouts is overriding the content in each theme. So, the custom toml file is essentially being overridden. Solution is to push all of my custom code back to the AllinOne theme.
+
+The link in the main site for a foldergallery
+http://localhost:1313/images/travel/texas/2004-austin/Gruene_water-tower.jpg
+
+http://localhost:1313/images/stitchnglue/gallery1/cake-kayak-40yrs-thumb.jpg
+
+Generating Updates:
+No issue when updating only Stitch-g-Glue. But when updating main site the work-around is to temporarily move the “stitchnglue” content directory containing my markdown and jpg files outside of the “content” directory when regenerating my main site.

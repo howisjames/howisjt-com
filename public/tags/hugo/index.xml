@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on HowIsJT</title>
+    <link>https://howisjt.com/tags/hugo/</link>
+    <description>Recent content in hugo on HowIsJT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 01:00:52 +0000</lastBuildDate><atom:link href="https://howisjt.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Theme Site</title>
+      <link>https://howisjt.com/posts/tech-two-hugo-themes/</link>
+      <pubDate>Sun, 03 Jan 2021 01:00:52 +0000</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-two-hugo-themes/</guid>
+      <description>Website themes are great, providing a consistent appearance and layout of all pages in your website. Occasionally the need arises to format a particular section of your webite uniquely. Here I will describe how I&amp;rsquo;ve achieved this using two different themes in this website. I learned about this technique on this Discourse thread As I began implementing this I ran into a few challenges that took me a bit of time to figure out.</description>
+    </item>
+    
+  </channel>
+</rss>

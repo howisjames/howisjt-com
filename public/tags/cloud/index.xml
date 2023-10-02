@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on HowIsJT</title>
+    <link>https://howisjt.com/tags/cloud/</link>
+    <description>Recent content in cloud on HowIsJT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Jan 2019 19:00:52 -0600</lastBuildDate><atom:link href="https://howisjt.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiences with Google Compute Engine</title>
+      <link>https://howisjt.com/posts/tech-cloud/</link>
+      <pubDate>Fri, 04 Jan 2019 19:00:52 -0600</pubDate>
+      
+      <guid>https://howisjt.com/posts/tech-cloud/</guid>
+      <description>I was excited about the possibility of deploying &amp;ldquo;micro&amp;rdquo; webservers hosting sites which cost nothing - due to their tiny resource requirements and ability to fit within Google&amp;rsquo;s &amp;ldquo;always free&amp;rdquo; thresholds. This experimentation, and failures, led me to static site generators.
+WordPress Won&amp;rsquo;t Run Free Initially, I was trying to deploy full-blown SQL-driven CMS sites using WordPress and Drupal. While some of my sites functioned for a while, eventually they all failed as I added content because the load just became overwhelming for GCE&amp;rsquo;s &amp;ldquo;Micro&amp;rdquo; instance.</description>
+    </item>
+    
+  </channel>
+</rss>

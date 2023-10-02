@@ -1,0 +1,55 @@
+/*Hack to Float Images in Posts*/
+img[src$='#center']
+{
+    display: block;
+    margin: 0.2rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+	padding-left: 10px;
+	padding-right: 10px;
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatleft']
+{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+	float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+	/* padding-right: 10px; */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright']
+{
+	height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+	float:right;
+	margin: -0.7rem;      /* this margin is totally up to you */
+	/* padding-left: 20px;*/
+	/* whatever else styles you fancy here */
+}
+
+/*hack to float figure objects */
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+}
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
+
+/*Hack to site.css to elongate box of category choices on homepage*/
+#tag-category .dream-categories {
+  max-height: 14em;
+}

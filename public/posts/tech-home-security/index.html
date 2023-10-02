@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>
+	IP Security Cameras
+</title>
+		<style>
+	body {
+		display: block;
+		--colorBG: "#40e0d0, #ff8c00, #ff0080";
+		
+			background-image: var(--bgImage) !important;
+		
+	}
+
+	body, body.pushable {
+		background-repeat: no-repeat;
+	  	background-attachment: fixed;
+	  	background-size: cover !important;
+	}
+</style>
+
+		<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+	
+	
+	
+	<meta name="author" content="James Taylor" />
+	<meta name="description" content="Deploying MotionEye on OpenMediaVault" />
+
+
+
+<meta name="generator" content="Hugo 0.114.1">
+
+
+<link rel="shortcut icon" href="/images/favicon-palm.ico">
+
+
+
+
+		
+
+
+<script type="text/javascript">
+ 
+var giftofspeed = document.createElement('link');
+giftofspeed.rel = 'stylesheet';
+giftofspeed.href = 'https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css';
+giftofspeed.type = 'text/css';
+var godefer = document.getElementsByTagName('link')[0];
+godefer.parentNode.insertBefore(giftofspeed, godefer);
+
+ 
+var giftofspeed2 = document.createElement('link');
+giftofspeed2.rel = 'stylesheet';
+giftofspeed2.href = 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.css';
+giftofspeed2.type = 'text/css';
+var godefer2 = document.getElementsByTagName('link')[0];
+godefer2.parentNode.insertBefore(giftofspeed2, godefer2);
+</script>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+
+ <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Inconsolata" rel="stylesheet"> 
+ 
+
+
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+
+
+
+
+
+
+	
+		<link rel="stylesheet" type="text/css" href="/css/howisjt.css">
+	
+
+
+
+<style>
+	body.pushable {
+		display: block;
+		
+			background-image: var(--bgImage) !important;
+		 ;
+	}
+</style>
+
+
+
+<script>
+	var colorBG =  false 
+	
+	var isMobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+	console.log("The client device is a "+(isMobile?"mobile":"PC")+".")
+</script>
+
+	</head>
+
+	<body>
+		<script>
+var prevBgIndex = 0;
+var bodyBgSwitchIndex = 0;
+
+
+
+
+
+
+	
+		var bgImage = "url(" + "/images/bg-plaster-wall.jpg" + ")";
+	
+
+	console.log("Current background: " + bgImage.substring(bgImage.indexOf("bg"), bgImage.length));
+	document.body.style.setProperty('--blurEff', "0.2");
+	document.body.style.setProperty('--bgImage', bgImage);
+
+
+	function getRandomInt(min, max) {
+	  min = Math.ceil(min);
+	  max = Math.floor(max);
+	  var random;
+	  while (1) {
+	    random = Math.floor(Math.random() * (max - min)) + min;
+	    if (random !== prevBgIndex) {
+	      prevBgIndex = random;
+	      break;
+	    }
+	  }
+	  return random;
+	}
+
+	function connect(arr) {
+	  var str = '';
+	  for (var i = 0; i < arr.length; i++) {
+	    if (i !== arr.length - 1) {
+	      str += arr[i] + ', ';
+	    } else {
+	      str += arr[i];
+	    }
+	  }
+	  return str;
+	}
+</script>
+
+
+
+	<div class="blur-overlay"></div>
+
+
+		<div id="sidebar" class="ui sidebar inverted vertical menu">
+	
+	<section id="author" class="ui top attached center aligned inverted segment">
+		
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+	</section>
+
+	
+	
+		<section class="ui attached center aligned inverted segment sidebar-dream-tags">
+			
+			
+			
+			
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label orange " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label violet " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label pink " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label pink " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label yellow " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label purple " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label pink " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label violet " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+		</section>
+	
+
+	
+	
+		<section class="ui attached inverted segment sidebar-dream-categories both flexbox">
+			<div class="ui inverted accordion">
+				
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+			</div>
+		</section>
+	
+
+	
+	<section id="footer" class="ui bottom attached center aligned inverted segment">
+		
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+	</section>
+</div>
+
+
+		<div class="pusher">
+			<div class="flipper">
+				<div class="front">
+					
+	<nav class="ui top secondary menu bar">
+	
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+
+	
+	
+		<div class="item">
+			<a href="/">
+				<i class="inverted big link home icon" title="Home"></i>
+			</a>
+		</div>
+	
+
+	
+	
+
+	
+	
+		<div class="item">
+			<a href="/tags">
+				<i class="inverted big link tags icon" title="All Tags"></i>
+			</a>
+		</div>
+	
+
+	
+	
+		<div class="item">
+			<a href="/categories">
+				<i class="inverted big link cubes icon" title="All Categories"></i>
+			</a>
+    	</div>
+	
+
+	
+	
+
+	
+	
+		<div class="ui container tablet computer only grid">
+			<div class="item" onClick="$('.ui.sidebar').sidebar('setting', 'transition', 'overlay').sidebar('toggle');">
+				<i class="inverted big link sidebar icon" title="Show Sidebar"></i>
+			</div>
+		</div>
+	
+
+	
+	
+		<div class="item right">
+			<a href="/posts/index.xml">
+				<i class="inverted big link rss icon" title="RSS Feed"></i>
+			</a>
+		</div>
+	
+</nav>
+
+
+	<div class="ui centered grid">
+		
+		<div class="sixteen wide mobile only column">
+				<div class="ui inverted accordion">
+	<div id="header" class="ui inverted segment column box">		
+		
+		<header id="author" class="ui top attached center aligned inverted segment">
+			
+<div class="ui small circular image">
+	
+		<img src="/images/jctavatar5-color.jpg">
+	
+</div>
+
+
+<h3 class="ui header">
+	James Taylor
+	<div class="sub header">AICP planner, landscape designer, technologist, dad.</div>
+</h3>
+
+		</header>
+
+		
+		<div class=" title header-title">
+			
+				<div id="tag-category-pop" class="ui red right corner label">
+					<i class="hand point icon down" title="Show/hide tags and categories"></i>
+				</div>
+			
+		</div>
+		
+		
+		<div id="tag-category" class=" content">
+			
+				<section class="ui attached center aligned inverted segment dream-tags none flexbox">
+					
+					
+					
+
+
+
+
+	
+	
+		
+			
+			<a class="ui label orange " href="/tags/louisiana" title="louisiana">louisiana</a>
+		
+			
+			<a class="ui label olive " href="/tags/camping" title="camping">camping</a>
+		
+			
+			<a class="ui label brown " href="/tags/florida" title="florida">florida</a>
+		
+			
+			<a class="ui label green " href="/tags/family" title="family">family</a>
+		
+			
+			<a class="ui label blue " href="/tags/paddlesports" title="paddlesports">paddlesports</a>
+		
+			
+			<a class="ui label violet " href="/tags/astronomy" title="astronomy">astronomy</a>
+		
+			
+			<a class="ui label brown " href="/tags/web-design" title="web-design">web-design</a>
+		
+			
+			<a class="ui label brown " href="/tags/alabama" title="alabama">alabama</a>
+		
+	
+
+
+				</section>
+			
+
+			
+				<section class="ui attached inverted segment dream-categories both flexbox">
+					<div class="inverted accordion">
+						
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/design">design</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-alabama-lakefront/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Dadeville Lakehouse Landscape</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/landscape-florida-res-glenridge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>A Florida Home Landscape</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/hobbies">hobbies</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-kayak-build/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Kayak Build</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-santafe-river/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Florida&#39;s Santa Fe River</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-birding/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Birding in the South</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-camping-chuckbox/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping Chuck Box</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-celestron/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Classic Celestron C8</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Paddling</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-dark-sky/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Seeking Dark Skies</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-astronomy-eclipse/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>America&#39;s Great Solar Eclipse of 2017</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-snapper-repower/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Repowering a Snapper Comet</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/planning">planning</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/planning-recognition/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Professional Recognition</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/planning-presentation/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Presenting without PowerPoint</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/tech">tech</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/tech-two-hugo-themes/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Multi-Theme Site</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-home-security/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>IP Security Cameras</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-shortcodes-test/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shortcodes Test</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-hugo-image-gallery/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Hugo Image Gallery</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-cloud/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Experiences with Google Compute Engine</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/tech-web-development/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Web Development Projects</p>
+				</div>
+			</a>
+		
+	</div>
+
+	
+	<div class="title">
+		<i class="dropdown icon"></i>
+		<a class="link" href="/categories/travel">travel</a>
+	</div>
+
+	
+	<div class="content">
+		
+			<a class="item" href="https://howisjt.com/posts/travel-chicago/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Chicago</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-texas-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Texas Campgrounds</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/hobby-paddling-manchac/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Bayou Manchac</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-burnsville/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Yancey County, NC</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-shreveport/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Shreveport Points of Interest</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-bahamas-nassau/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Nassau Bahamas</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-miami-beach/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Miami Beach</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-avery-island/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Avery Island</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-kansas-leavenworth/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Fort Leavenworth</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-alabama-lk-martin/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Lake Martin Alabama</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-florida-sarasota/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Southwest Florida</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-baton-rouge/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Baton Rouge Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in Louisiana</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-mississippi-camping/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Camping in South Mississippi</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-louisiana-new-orleans/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>New Orleans Sights</p>
+				</div>
+			</a>
+		
+			<a class="item" href="https://howisjt.com/posts/travel-dc/">
+				<div>
+					<i class="cocktail icon"></i>
+					<p>Washington DC Trip</p>
+				</div>
+			</a>
+		
+	</div>
+
+
+					</div>
+				</section>
+			
+		</div>
+
+		
+		<footer class="ui bottom attached center aligned inverted segment">
+			
+
+	<p><small>© 2019 - 2023 HowIsJT</br>
+
+
+Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> on <a href="https://firebase.google.com/" target="_blank">Firebase</a>.  <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Theme Credit</a>.</small></p>
+
+		</footer>
+	</div>
+</div>
+
+		</div>
+
+		<div class="sixteen wide mobile fifteen wide tablet twelve wide computer column post-list">
+			
+			<section class="ui secondary top attached black segment post-head">
+				<h1 class="post-title">
+					IP Security Cameras
+				</h1>
+
+				<div class="sub header">
+					<div><span><i class="calendar outline icon"></i>Nov 28, 2020</span></div>
+					
+					<div><span class="disqusComment"><i class="comment outline icon"></i><a href="https://howisjt.com/posts/tech-home-security/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="6570f15ee6570d7ec7fc0b4a92fb9b46"></a></span></div>
+					<div><span><i class="clock outline icon"></i>15 min read</span></div>
+					<div><span><i class="angle double up icon"></i>Last updated on Jul 9, 2022</span></div>
+				</div>
+				<hr>
+
+				
+					<div class="toc">
+						<nav id="TableOfContents">
+  <ul>
+    <li><a href="#software-installation">Software Installation</a></li>
+    <li><a href="#unboxing-and-testing">Unboxing and Testing</a></li>
+    <li><a href="#installing-cameras">Installing Cameras</a></li>
+    <li><a href="#connecting-the-switch">Connecting the Switch</a></li>
+    <li><a href="#software-configuration">Software Configuration</a></li>
+    <li><a href="#aim-the-cameras">Aim the Cameras</a></li>
+    <li><a href="#motion-detection-configuration">Motion Detection Configuration</a></li>
+    <li><a href="#file-storage">File Storage</a></li>
+    <li><a href="#remote-access">Remote Access</a></li>
+    <li><a href="#email-notifications">Email notifications</a></li>
+    <li><a href="#media-files-to-google-photos-or-google-drive">Media files to Google Photos or Google Drive</a></li>
+    <li><a href="#gallery-of-images">Gallery of Images</a></li>
+  </ul>
+</nav>
+					</div>
+				
+
+				<article class="post-content twemoji">
+					<p>Reports of car and home burglaries in and around my neighborhood reported on the NextDoor app persuaded me to investigate a low-cost home security camera system. Many neighbors already have them so I figured &ldquo;why not.&rdquo; Much inspiration for the system I built came from <a href="https://www.youtube.com/c/TechnoDadLife/featured">TechnoDadLife</a> and from <a href="https://peyanski.com/">Peyanski on Tech</a>. Because I already had an older Dell Core 2 Duo desktop set up as a home NAS using <a href="https://www.openmediavault.org/">OpenMediaVault</a>, I decided to simply install a CCTV monitoring application onto that LINUX box since a) it is already running 24/7 and b) its use as a NAS is infrequent - meaning family members rarely access it so the computer has plenty of resources to spare.</p>
+<p><img src="/images/tech/security-cameras/3-cam-webview.jpg" alt="MotionEye web interface"></p>
+<p>My employer had an inexpensive, 8-camera system installed at our office several years ago. The workplace has since suffered a bit of automotive vandalism and glass breakage at the front entry but video coverage by these cameras failed to capture relevant footage. I was convinced that, given advances in technology, I could build a residential system for less and install it myself.</p>
+<p>At first the &ldquo;wireless&rdquo; security cameras interested me until I realized that they&rsquo;re more aptly called &ldquo;WiFi security cameras&rdquo; since you still have to run a wire to them for electric power. Also, their reliability is contingent upon the WiFi router. The only <em>truly</em> wireless surveillance cam requires a solar cell and rechargable battery pack, so they&rsquo;re fairly bulky and it seems they&rsquo;d require a clear view to the sky to maintain a charge. I spent considerable time examining a Raspberry Pi implementation of such a solar powered camera. <a href="https://kaspars.net/blog/solar-raspberry-pi-camera">This example</a> served to capture time lapse photos of the construction of a home, but it did not provide nighttime security. Through continued researched I did learn that IR cams are available for the Raspberry Pi, but when I added up the costs for everything - Pi, camera, solar cell, battery, housing, over-charge protective circuitry - it proved cost prohibitive and likely unreliable. Plus I&rsquo;d have to multiply this cost by the number of cameras required.</p>
+<p>I decided that a series of Power over Ethernet (PoE) IP cameras better served my needs. I found some dome-style cameras which were perfect for mounting beneath the eaves of my house. They are reasonably unobtrusive. A single CAT 5e cable to each camera would provide both power and reliable data connectivity to my LAN after adding a PoE switch in the attic.</p>
+<h1 id="hardware">Hardware&nbsp;<a class="anchor" href="#hardware"><i class="small linkify icon"></i></a> </h1>
+<p><img src="/images/tech/security-cameras/AC_SL1500_cam-thumb.jpg" alt="photo of camera"></p>
+<p>$35 each | <a href="https://smile.amazon.com/gp/product/B07TJT1Z1H/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;psc=1">Anpviz PoE IP Dome Security Camera, 3MP </a></p>
+<ul>
+<li>I&rsquo;m starting with 3 of these. They are ONVIF compliant and provides RTSP (Real Time Streaming Protocol) streams, making them compatible with industry standard and open source software.</li>
+<li>There are also 5 and 8 MP versions of this camera available for a higher price, but read reviews before you buy as some purchasers have found the image of the lower resolution camera to be more vivid and clear. Further, higher resolution video requires corresponding increases in HD space for storage.</li>
+</ul>
+<p>$20 | <a href="https://smile.amazon.com/gp/product/B08997D4BK/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&amp;psc=1">PoE Switch, 4 port + 2 uplink ports</a></p>
+<p>$26 | CAT 5e cabling - two 25&rsquo; lengths and one 50&rsquo; length</p>
+<p>No NVR (Network Video Recorder) is required since I&rsquo;m using my OpenMediaVault NAS box.</p>
+<h1 id="software">Software&nbsp;<a class="anchor" href="#software"><i class="small linkify icon"></i></a> </h1>
+<p><strong><a href="https://github.com/ccrisan/motioneye">MotionEye</a></strong> is the open source security camera motion detection software I chose.</p>
+<p><img src="/images/tech/security-cameras/motion-eye-os-logo-solid.jpg" alt="MotionEye screen cap"></p>
+<p>But there are many choices. I wanted a LAN-based solution that didn&rsquo;t rely on a subscription cloud service. The following options were investigated but subsequently passed over for the reason noted.</p>
+<p><a href="https://www.ispyconnect.com/">iSpy</a> - Server software is open source, app is fee based.<br>
+<a href="https://blueirissoftware.com/">BlueIris</a> - Commercial software for Windows, fee-based cloud service.<br>
+<a href="https://zoneminder.com/">ZoneMinder</a> - Evidently this is &ldquo;the bomb&rdquo;, but some reviewers complained it is taxing on computer resources. I didn&rsquo;t want to overburden my NAS box, but to be fair I&rsquo;ve since read that MotionEye can also be resource hungry. The phone app for ZoneMinder costs $5 but is a one time purchase.<br>
+<a href="https://shinobi.video/">Shinobi</a> - This seems to be the newest entry in this space and is written fully in JavaScript. TechnoDadLife endorses it. The server software is open source, but the smartphone app is a $5 per month subscription, per phone to use.</p>
+<h1 id="tools">Tools&nbsp;<a class="anchor" href="#tools"><i class="small linkify icon"></i></a> </h1>
+<p><img src="/images/tech/security-cameras/tools-thumb.jpg" alt="tools used"></p>
+<ul>
+<li>Electric drill, cordless preferred</li>
+<li>7/8&quot; spade bit (if passing the camera&rsquo;s cable fully through the mounting surface and not using a mounting box.)</li>
+<li>Small ~3/32 drill bit to drill pilot holes for the mounting screws. (I&rsquo;m mounting into wood.)</li>
+<li>#1 Phillips screwdriver (the smaller size &ldquo;star-point&rdquo; screwdriver)</li>
+<li>#1 Phillips bit w/ extension for drill</li>
+<li>Ladder</li>
+<li>Measuring tape or ruler and pencil (optional, to consistently position the cameras under the eaves)</li>
+<li>Fish tape or &ldquo;snake&rdquo; - stiff wire to &ldquo;fish&rdquo; the CAT 5 cable up into the attic space from the eaves. I ended up using a more stiff sewer clean-out snake.</li>
+<li>Masking tape - to temporarily attach the CAT cable to the fish tool wire as I work it up into the attic.</li>
+</ul>
+<h1 id="process">Process&nbsp;<a class="anchor" href="#process"><i class="small linkify icon"></i></a> </h1>
+<p>Conceptually planning the system was my first step. This involved walking around my home envisioning where I wanted to place the cameras and what field of view they would monitor. My focus was the front yard, front door, and my driveway access along the side. In the future I might add a 4th camera to specifically monitor the back door, but for now I decided against it feeling it would be an invasion of our privacy and our dog would trigger the motion detection far too frequently. Also, I investigated the attic, envisioning where I&rsquo;d connect the PoE switch to my wired LAN and the subsequent CAT 5 runs to each camera.</p>
+<p>When I received the cameras and switch, I gathered a few short CAT 5 patch cables, unboxed the equipment and hooked everything together in the living room. This allowed me to complete the software installation on my NAS and preliminarily configure the cameras. I attached a &ldquo;1&rdquo;, &ldquo;2&rdquo; and &ldquo;3&rdquo; label to each camera.</p>
+<h2 id="software-installation">Software Installation&nbsp;<a class="anchor" href="#software-installation"><i class="small linkify icon"></i></a> </h2>
+<p>Recently I had upgraded my OpenMediaVault from v4 to v5. This was appropriate for my NAS, but the upgrade produced changes so that the 2018 <a href="https://www.youtube.com/watch?v=2piou0nFrRY">how-to video by TechnoDadLife</a> for installing MotionEye is somewhat obsolete. Still, it is a good place to start. The process I followed for OMV v5 followed these steps:</p>
+<p>For some of this I needed SSH ( secure shell, command line, terminal) access to my NAS box since it is &ldquo;headless&rdquo;, lacking a monitor and keyboard. I use Putty terminal emulator.</p>
+<ol>
+<li>apply updates to OMV
+<ul>
+<li>Refer to the official <a href="https://openmediavault.readthedocs.io/en/5.x/">documentation</a></li>
+</ul>
+</li>
+<li>install OMV Extras
+<ul>
+<li><a href="https://dannyda.com/2020/01/02/how-to-install-omv-extras-for-open-media-vault-omv/">instructions by DannyDa</a></li>
+</ul>
+</li>
+<li>install Docker for OMV
+<ul>
+<li><a href="https://dannyda.com/2020/04/15/how-to-install-docker-on-openmediavault-5-omv5-easily-how-to-configure-docker-to-use-specific-location-to-store-files-container-images-other-than-default-location-easily/">instructions by DannyDa</a></li>
+</ul>
+</li>
+<li>install Portainer within Docker
+<ul>
+<li>This is done within the OMV web GUI. Navigate to System, OMV-Extras, Docker tab and then click the Portainer menu to install.</li>
+</ul>
+</li>
+<li>Determine the path to your media file storage. Mine was on a data storage HD in the NAS box, not the boot drive. I needed this path in order to begin the following step.</li>
+<li>Install MotionEye within Portainer
+<ul>
+<li>YouTuber <a href="https://dbtechreviews.com/2020/05/how-to-install-motioneye-on-omv-and-docker/">DB Tech offers a video</a> with full instructions. I learned the hard way that you must modify the pair of file paths in this portainer compose script on the line labeled &ldquo;File Storage&rdquo;. This is the same path that you will put into each camera&rsquo;s file storage preferences in MotionEye. I learned that the only path that works in MotionEye is the path entered into the portainer compose script, meaning, you cannot change the path later in MotionEye.</li>
+</ul>
+</li>
+</ol>
+<p>Yes, the above process is a bit convoluted, but I believe it ensures that MotionEye is installed alongside OMV and can function simultaneously on the NAS box.</p>
+<h2 id="unboxing-and-testing">Unboxing and Testing&nbsp;<a class="anchor" href="#unboxing-and-testing"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/security-cameras/camera-box-thumb.jpg" alt="boxes and equipment"></p>
+<p>With MotionEye installed and functioning, I next unboxed the cameras and PoE Switch, connecting everything in my living room with short patch cables to ensure everything worked. I was able to add and view the feed from all cameras through MotionEye. The process for adding a camera is:</p>
+<ol>
+<li>Plug everything up and ensure I&rsquo;ve got ethernet connectivity on all connected ports</li>
+<li>Login to my home router and view the table of all connected devices. Write down the IP addresses of each of the newly listed cameras. They acquire their addresses via DHCP.</li>
+<li>I affixed temporary labels to identify my cameras as &ldquo;1&rdquo;, &ldquo;2&rdquo; and &ldquo;3&rdquo;.</li>
+<li>Login to the MotionEye web GUI and click to add a camera</li>
+<li>Choose &ldquo;network camera&rdquo;, and add the address using the format:
+<ul>
+<li>&ldquo;rtsp://[camera-IP-address]:554/cam/realmonitor?channel=1&rdquo; where I used the corresponding IP address for each camera</li>
+</ul>
+</li>
+<li>Down under &ldquo;Storage&rdquo; settings for each camera I saw that MotionEye defaulted to storing the video in the var/ directory of my NAS&rsquo; boot drive which wasn&rsquo;t desired. Instead, I created a new &ldquo;motioneye&rdquo; folder in a storage volume with plenty of space, and then subfolders &ldquo;camera1&rdquo;, &ldquo;camera2&rdquo;&hellip; for each camera. I pasted this new path into the Storage setting dialog and applied the settings. It is recommended to utilize a separate physical HD exclusively for the security cameras, but I haven&rsquo;t done this yet.</li>
+<li>Continue this process for each camera.</li>
+<li>Satisfied that I could view the feed of all of my cameras, I shut everything off and disconnected the temporary cabling.</li>
+</ol>
+<h2 id="installing-cameras">Installing Cameras&nbsp;<a class="anchor" href="#installing-cameras"><i class="small linkify icon"></i></a> </h2>
+<p>Now the fun part&hellip;</p>
+<p><img src="/images/tech/security-cameras/camera-mounted-thumb.jpg" alt="camera being installed"></p>
+<p>Each camera comes with a sticker template for drilling holes for the cable and 3 screws which I found very handy. I just affixed the sticker to the house eave where I wanted the camera, used a 7/8&quot; spade bit to drill the center hole for the cable, and then a small drill bit to make pilot holes for each of the 3 wood screws. The 7/8&quot; hole would allow me to squeeze the camera&rsquo;s ethernet port into the attic space since I wasn&rsquo;t using electrical mounting boxes for each camera. Using boxes would allow one to drill a much smaller hole - the diameter of the CAT 5e cable - and curl the plug and junction ends up in the box. Realistically, this wouldn&rsquo;t work for me because I&rsquo;m routing the cable from outside up through the eave and into the attic crawl space. This required using an electrician&rsquo;s &ldquo;fish&rdquo; tape to guide the CAT cable around the roof framing and into an accessible portion of the attic.</p>
+<p>I discovered the hard way that it wasn&rsquo;t possible to mount a camera at the corner of an eave because that portion of the roof was fully &ldquo;boxed in&rdquo; with framing and there was no practical way for me to route wire through to the attic crawl space. I would have had to remove the plywood from beneath the eave and drill holes in the roof framing in order to route the wire. This simply wasn&rsquo;t worth it so I shifted the position of my cameras to a location away from the corner, to which I had a clear line-of-sight from up in the attic and was confident I could run the cable.</p>
+<p>In the end, the 1/4&quot; wide electrician&rsquo;s fish tape was too flimsy for me to route the CAT cable. I grabbed my plumber&rsquo;s steel sewer clog tape which at about 1/2&quot; wide is much stiffer and more effective in guiding the wire up into the attic.</p>
+<p>I wanted to seal between the camera base and the 7/8&quot; hole I created in the eave. I had some extra weatherstripping foam with adhesive on one side in my shop. I cut a square that would fit within the camera base, and cut a circular hole in the middle through which I pushed the camera&rsquo;s cable. When the camera base is screwed up to the plywood eave this foam will seal the hole. Alternately, I suppose one could put a bead of latex caulk around the edge of the camera base just prior to screwing it to the wood, but I didn&rsquo;t want anything so permanent. There is a cutout on the camera base to allow the cable to be routed externally to a power source and data cable. This would be useful in flush mounted situations where the cable(s) had to run in conduit along a wall or ceiling. This hole should be sealed after mounting the camera to prevent bugs from gaining entry to the attic.</p>
+<p>I fully connected one end of the CAT 5 cable to the camera using the weatherproof connections provided and set the camera on the ground below the hole in the eave. Then I used masking tape to affix the free end of the cable to the sewer snake / fish tape being careful to protect the clasp on the RJ-45 plug. Routing the cable up into the attic was fairly easy. Next, I went into the attic, grabbed the end of the snake / cable, removed the masking tape and pulled the CAT cable a bit further into the attic, securing it to a rafter so it couldn&rsquo;t accidentally slide back down due to gravity. Finally, I went back outside and carefully retracted the plumber&rsquo;s sewer snake through the hole.</p>
+<p>Now it was just a matter of pushing the slack cable up through the hole and then mounting the camera to the eave plywood with the three supplied screws. I used a #1 Phillips screwdriver to get them started and then finished them off with the corresponding bit in my cordless drill using the bit extension to ensure the chuck of the drill didn&rsquo;t hit the camera dome.</p>
+<h2 id="connecting-the-switch">Connecting the Switch&nbsp;<a class="anchor" href="#connecting-the-switch"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/security-cameras/PoE-switch-thumb.jpg" alt="photo of camera"></p>
+<p>My home is a ranch-style house where the bedroom wing required that I install a second wifi router to ensure coverage throughout the house. The ethernet cabling was already running through my attic, so this second router is where I added the PoE Switch and pulled all of the camera cables to it. The PoE Switch has 2 &ldquo;uplink&rdquo; ports. One was connected to the CAT 5e cable running from my primary router. The second was plugged into the secondary wifi router. My NAS is connected to the primary router so this provided a more direct link to it rather than daisy-chaining first through the secondary router.</p>
+<p>A future improvement will be to place a UPS battery backup there in the attic with the PoE switch and secondary wifi router to keep them running during infrequent brownouts.</p>
+<h2 id="software-configuration">Software Configuration&nbsp;<a class="anchor" href="#software-configuration"><i class="small linkify icon"></i></a> </h2>
+<p>With the worst of the manual labor finished, I grabbed my laptop and returned to the living room couch where I logged into the web GUI of MotionEye on my NAS. This project is a work in progress. Several questions to be answered are:</p>
+<ol>
+<li>
+<p>The cameras retained the IP address they received via DHCP during the test setup in the living room.</p>
+</li>
+<li>
+<p>Each camera has it&rsquo;s own login and password which needs to be changed. Must I install and use the camera&rsquo;s proprietary software to access and modify these settings? No. Just use the web browser to visit each camera&rsquo;s IP address, login with the factory credentials, and then change the password. Afterwards, you&rsquo;ll have to update the password for each in the MotionEye settings.</p>
+</li>
+<li>
+<p>Zones where motion is ignored are really easy to create for each camera. Essentially, MotionEye draws a grid over the field of view and you click to turn boxes red for areas of the image you wish to ignore. Do the next step - aim the cameras - first though.</p>
+</li>
+</ol>
+<h2 id="aim-the-cameras">Aim the Cameras&nbsp;<a class="anchor" href="#aim-the-cameras"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/security-cameras/camera-dome-removed-thumb.jpg" alt="camera photo"></p>
+<p>Pulling up the feed from each camera on my laptop I then went back outside and adjusted the aim of each camera. This requires removing the dome of each casing with the supplied Allen wrench. The dome piece is tethered to the base with a short elastic to prevent it from dropping. After the camera was properly aimed I replaced the dome.</p>
+<h2 id="motion-detection-configuration">Motion Detection Configuration&nbsp;<a class="anchor" href="#motion-detection-configuration"><i class="small linkify icon"></i></a> </h2>
+<p><a href="https://motion-project.github.io/motion_guide.html">MotionEye Documentation</a></p>
+<p>Now it was time to tweak the motion detection functionality of MotionEye.<br>
+Did I set up &ldquo;no monitor&rdquo; zones such as masking the street to ensure every passing car didn&rsquo;t set off a video capture?<br>
+What about automated notifications of motion? Emails, TXT messages? Attached thumbnail images&hellip; Possibly use Zapier?</p>
+<p>Instructional video for MotionEye configuration:
+<a href="https://www.youtube.com/watch?v=e27jyEcE5lU">youtube.com/watch?v=e27jyEcE5lU</a></p>
+<h2 id="file-storage">File Storage&nbsp;<a class="anchor" href="#file-storage"><i class="small linkify icon"></i></a> </h2>
+<p>See step #6 under the Software Installation section above. Essentially, this must be determined before the MotionEye software is installed via Portainer. Once set, the only way to change it is to go back and rebuild the Portainer stack with the revised file path.</p>
+<h2 id="remote-access">Remote Access&nbsp;<a class="anchor" href="#remote-access"><i class="small linkify icon"></i></a> </h2>
+<p><img src="/images/tech/security-cameras/motioneye-smartphone-cam2-thumb.jpg" alt="smartphone screen cap"></p>
+<p>How to view video feeds on your smartphone?</p>
+<ol>
+<li>
+<p>Port Forwarding can be used in conjunction with a a Dynamic DNS service</p>
+<ul>
+<li>If a no cost DDNS service is used this costs nothing to view the website of the MotionEye feeds from the web using any device.</li>
+<li>It does introduce a security vulnerability into the home LAN and NAS box. Some people advise against it.</li>
+<li><a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/">https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/</a></li>
+<li>I implemented it using no-ip and my Netgear router, but connections only work reliably from within my LAN. They usually time out when attempting to connect externally which defeats the purpose of this.</li>
+</ul>
+</li>
+<li>
+<p>Connect using a reverse proxy such as Traefik</p>
+<ul>
+<li><a href="https://dbtechreviews.com/2020/05/how-to-install-motioneye-on-omv-and-docker/">instructions at dbtechreviews.com</a></li>
+<li>Still learning what this does and how this works. <a href="https://github.com/traefik/traefik">github.com/traefik/traefik</a></li>
+</ul>
+</li>
+</ol>
+<h2 id="email-notifications">Email notifications&nbsp;<a class="anchor" href="#email-notifications"><i class="small linkify icon"></i></a> </h2>
+<ol>
+<li>Create a new gmail / Google account just for use with MotionEye.</li>
+<li>Follow these directions to <a href="https://www.paullimitless.com/motioneyeos-e-mail-settings-for-motion-notifications/">activate email motion alerts</a></li>
+<li>You have to configure each camera individually, so you&rsquo;ll get emails from every camera where motion occurs.</li>
+<li>I&rsquo;ve got this working, including attaching images of the motion event. Unfortunately, the cameras do not detect motion reliably. Usually they&rsquo;ll get a car driving up the driveway, but they miss people walking, and driveway cam sometimes even misses cars. Conversely, the cameras on the front of the house sometimes email false positives, where no motion is visible in the photos.</li>
+</ol>
+<h2 id="media-files-to-google-photos-or-google-drive">Media files to Google Photos or Google Drive&nbsp;<a class="anchor" href="#media-files-to-google-photos-or-google-drive"><i class="small linkify icon"></i></a> </h2>
+<p>As above, it is recommended to use a new, single-purpose gmail / Google account only for this functionality with MotionEye because it requires configuring the Google account with weakened security access directly from MotionEye.</p>
+<ol>
+<li>Instructions are <a href="https://github.com/ccrisan/motioneye/issues/1603">here</a></li>
+<li>When I implement this I&rsquo;m getting error messages and it doesn&rsquo;t work. Seeking alternatives&hellip;</li>
+</ol>
+<hr>
+<h2 id="gallery-of-images">Gallery of Images&nbsp;<a class="anchor" href="#gallery-of-images"><i class="small linkify icon"></i></a> </h2>
+
+
+<style>
+    div.gallery {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    div.gallery a {
+        flex-grow: 1;
+        object-fit: cover;
+        margin: 2px;
+        display: flex;
+    }
+    div.gallery a img {            
+        height: 200px;
+        object-fit: cover;
+        flex-grow: 1;
+    }
+</style>
+
+
+
+<link rel="stylesheet" href="/css/jquery.fancybox.min.css" />
+
+    <div class="gallery">
+        
+	
+
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/3-cam-webview.jpg">
+                <img src="/images/tech/security-cameras/3-cam-webview-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/AC_SL1500_cam.jpg">
+                <img src="/images/tech/security-cameras/AC_SL1500_cam-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/PoE-switch-label.jpg">
+                <img src="/images/tech/security-cameras/PoE-switch-label-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/PoE-switch.jpg">
+                <img src="/images/tech/security-cameras/PoE-switch-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/cable-assembly1.jpg">
+                <img src="/images/tech/security-cameras/cable-assembly1-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/cable-assembly2.jpg">
+                <img src="/images/tech/security-cameras/cable-assembly2-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-box-contents.jpg">
+                <img src="/images/tech/security-cameras/camera-box-contents-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-box.jpg">
+                <img src="/images/tech/security-cameras/camera-box-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-cable-ends.jpg">
+                <img src="/images/tech/security-cameras/camera-cable-ends-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-dome-removed.jpg">
+                <img src="/images/tech/security-cameras/camera-dome-removed-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-foam-weatherstrip.jpg">
+                <img src="/images/tech/security-cameras/camera-foam-weatherstrip-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-label.jpg">
+                <img src="/images/tech/security-cameras/camera-label-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-mounted.jpg">
+                <img src="/images/tech/security-cameras/camera-mounted-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-template-installation1.jpg">
+                <img src="/images/tech/security-cameras/camera-template-installation1-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-template-installation2.jpg">
+                <img src="/images/tech/security-cameras/camera-template-installation2-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-template-sticker.jpg">
+                <img src="/images/tech/security-cameras/camera-template-sticker-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/camera-top.jpg">
+                <img src="/images/tech/security-cameras/camera-top-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/motion-eye-os-logo-solid.jpg">
+                <img src="/images/tech/security-cameras/motion-eye-os-logo-solid-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/motioneye-smartphone-cam2.jpg">
+                <img src="/images/tech/security-cameras/motioneye-smartphone-cam2-thumb.jpg">  <br/>            
+            </a>
+	
+	
+            <a data-fancybox="gallery" href="/images/tech/security-cameras/tools.jpg">
+                <img src="/images/tech/security-cameras/tools-thumb.jpg">  <br/>            
+            </a>
+	
+</div>
+
+				</article>				
+			</section>
+
+			
+			<section class="ui secondary attached segment dream-tags">
+				
+					
+
+
+
+
+	
+		<a class="ui label violet " href="/tags/hardware" title="hardware">hardware</a>
+	
+		<a class="ui label pink " href="/tags/open-source" title="open source">open source</a>
+	
+
+
+				
+			</section>
+
+			
+			
+				<section class="ui secondary  attached segment share row box">
+					
+
+
+
+
+
+
+
+
+<div class="author">
+	
+	<img class="avatar" src="/images/jctavatar5-color.jpg">
+	
+</div>
+<div class="info grow flexbox">
+	<a href="https://twitter.com/howisjames">
+	<p class="name">James Taylor</p>
+	</a>
+	<p class="desc">AICP planner, landscape designer, technologist, dad.</p>
+</div>
+
+
+<section class="buttons row box">
+	<div class="facebook none flexbox" href="#" onclick="window.open(
+			'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+			'facebook-share-dialog',
+			'width=626,height=436'); return false;">
+		<button class="ui facebook button"><i class="facebook icon"></i>Share</button>
+	</div>
+	<div class="twitter none flexbox" onclick="window.open('https://twitter.com/intent/tweet?text=Read &quot;IP Security Cameras &quot; by @howisjames https:\/\/howisjt.com\/posts\/tech-home-security\/','_self')">
+		<button class="ui twitter button"><i class="twitter icon"></i>Tweet</button>
+	</div>
+</section>
+
+				</section>
+			
+
+			
+			
+			
+
+			
+			
+				<div class="ui secondary bottom attached stacked segment disqus">
+					
+<div id="disqus_thread"></div>
+<script>
+	var disqus_config = function () {
+		this.page.url = 'https:\/\/howisjt.com\/posts\/tech-home-security\/';
+		this.page.identifier = '6570f15ee6570d7ec7fc0b4a92fb9b46';
+	};
+	(function() {
+   	var d = document, s = d.createElement('script');
+   	s.src = 'https://' + 'howisjt' + '.disqus.com/embed.js';
+   	s.setAttribute('data-timestamp', +new Date());
+   	(d.head || d.body).appendChild(s);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+				</div>
+			
+		</div>
+	</div>
+
+				</div>
+				<div class="back">
+					
+<nav class="ui top secondary menu bar">
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
+	</div>
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+	
+	
+	
+	
+	
+	
+	
+		
+		
+			<div class="item">
+				<a href="https://github.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link github icon" title="GitHub"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://twitter.com/howisjames" target="	_blank">
+					<i id="ico" class="inverted big link twitter icon" title="Twitter"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://youtube.com/channel/UCKa9pxOIcfsWaAEpXSoc1yA" target="	_blank">
+					<i id="ico" class="inverted big link youtube play icon" title="YouTube"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+			<div class="item">
+				<a href="https://www.linkedin.com/in/jamestaylorsrq" target="	_blank">
+					<i id="ico" class="inverted big link linkedin icon" title="LinkedIn"></i>
+				</a>
+			</div>
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+</nav>
+
+
+
+<div class="ui centered grid about">
+	<div class="sixteen wide mobile fifteen wide tablet fifteen wide computer column about">
+		<section class="ui stacked segments">
+			<div class="ui inverted segment">
+				<article class="twemoji">
+					<h1 id="so-how-is-jt">So, how is J.T.?</h1>
+<hr>
+<p>Well, I&rsquo;m doing great! Thanks for asking.<br>
+<img src="/images/jctavatar4-color.jpg#floatright" alt="James Taylor headshot"><br>
+Early in my career I was presented a &ldquo;Jack of All Trades&rdquo; award which I though was pretty cool. It was just some silly clip art inkjet printed onto cardstock, but I knew it was significant because of who presented it to me. Twenty-five years have passed since since then, and I&rsquo;ve continued to fill many roles for my employers. I find it to be a two-sided coin: One side suggests that I lack specialization in a particular area. But flip that coin over and it reveals I&rsquo;m diverse and a quick learner. I feel that because I&rsquo;m dependable and determined, my employers and co-workers have found me to be indespensible.<br>
+<br>
+All of that to say&hellip;<br>
+I&rsquo;ve spent my carreer growing and adapting. Born in Florida and raised on a small farm in Appalachia, I earned a degree in ornamental horticulture from Clemson University and continued my education at LSU, earning a masters degree in landscape architecture, and after years in the workforce transitioning to urban design and planning. All the while I&rsquo;ve been curious and continuously tinkering with computers. It seems that in every workplace I end up being &ldquo;the IT guy.&rdquo; That&rsquo;s ok. I strive to incorporate the benefits of technology and automation into much of my work.<br>
+<br>
+This website is an outlet for me to express myself and represent some of the varied projects I&rsquo;ve taken on. Perhaps you&rsquo;ll find some of it useful - I hope so. Mostly the site itself is yet another hobby project.<br>
+<br>
+I&rsquo;ve enabled the Disqus commenting functionality on the blog posts - mostly to learn from prospective readers who may know more about these subjects than me. I&rsquo;m happy to correct errors identified, but I&rsquo;ll not tollerate rudeness. Read my <a href="/posts/guidelines/">community commenting guidelines</a>.<br>
+<br>
+Still curious about me?  Use the social links in the page header above to check out my profiles.  Thanks for reading!<br>
+<br>
+<em>James C. Taylor, AICP</em>
+				</article>
+			</div>
+		</section>
+	</div>
+</div>
+
+				</div>
+			</div>
+		</div>
+		
+	
+	
+		<script id="dsq-count-scr" src="//howisjt.disqus.com/count.js" async></script>
+	
+
+		
+
+<script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+
+
+<script src="/js/site.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+
+
+
+
+	<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?2.6"></script>
+
+
+
+
+
+
+
+
+	
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74JZP84Q69"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-74JZP84Q69', { 'anonymize_ip': false });
+}
+</script>
+
+
+	
+	<script src="/__/firebase/7.6.1/firebase-app.js"></script>
+
+	
+	<script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
+
+
+		
+
+
+		
+
+	<script>
+		(function () {
+		  console.log("Twemoji up and making stuff colourful!");
+		  for (var b = document.getElementsByClassName("twemoji"), a = 0; a < b.length; a++) {
+			twemoji.parse(b[a]);
+		  }
+		})();
+	</script>
+
+
+	</body>
+</html>
