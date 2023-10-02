@@ -2,6 +2,10 @@
 mp4
 *.mp4
 
+# EXEs
+exe
+*.exe
+
 # Logs
 logs
 *.log
