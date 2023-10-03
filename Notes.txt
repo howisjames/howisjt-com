@@ -1,0 +1,10 @@
+
+Find and remove Firebase js code from howisjt.
+
+Separate the Stitchnglue site from the howisjt site.
+Create new Git repository for Stitchnglue.
+
+Add a subdomain in Cloudflare
+https://developers.cloudflare.com/fundamentals/basic-tasks/manage-subdomains/
+
+link new subdomain "stitchnglue.howisjt.com" to the stitchnglue blog content.
