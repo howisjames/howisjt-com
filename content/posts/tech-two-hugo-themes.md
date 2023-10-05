@@ -1,7 +1,7 @@
 ---
 title: Multi-Theme Site
 date: 2021-01-03T01:00:52.000Z
-lastmod: 2022-01-6T01:00:52.000Z
+lastmod: 2023-10-3T01:00:52.000Z
 cover: /images/cards/multitheme-card_640x420.jpg
 draft: false
 categories:
@@ -11,6 +11,8 @@ tags:
     - themes
 description: Use an alternate theme for a section of a Hugo site.
 ---
+>I have abandoned this technique as of October 2023, instead separating the two blog feeds into an apex domain and subdomain content respectively. Each is now a separate Hugo project set generated and updated independently through two differet GitHub repositories and published to Cloudflare Pages.
+
 Website themes are great, providing a consistent appearance and layout of all pages in your website. Occasionally the need arises to format a particular section of your webite uniquely. Here I will describe how I've achieved this using two different themes in this website. I learned about this technique on this [Discourse thread](https://discourse.gohugo.io/t/two-themes-as-separate-hugo-directories-deployed-to-the-same-website/27899/4) As I began implementing this I ran into a few challenges that took me a bit of time to figure out. I'm providing a detailed account of my solution in hopes of assisting others.
 
 >This broke (as of 12/2021) when I noticed that when I build my main site Hugo does not ignore the content of the secondary blog. Specifically, the ignoreFiles setting in the config.toml of the main site simply does not ignore the content within "stitchnglue", which is my subdirectory of posts within "content". The problem is that Hugo pulls all of the tags and categories specific to my sub-blog about kayak building and includes them with those of the main blog site where they are not applicable. It doesn't seem to build the sub-blog pages, however, as the links to them don't work. Refer to step #3 below...and to the [GoHugo.io documentation](https://gohugo.io/getting-started/configuration/#ignore-content-and-data-files-when-rendering).  For now, my work-around is to temporarily move the "stitchnglue" content directory containing my markdown and jpg files outside of the "content" directory when regenerating my main site. Perhaps the issue is that Hugo [cannot ignoreFiles recursively](https://github.com/gohugoio/hugo/issues/7748).

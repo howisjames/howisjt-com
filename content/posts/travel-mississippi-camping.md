@@ -1,7 +1,7 @@
 ---
 title: Camping in South Mississippi
 date: 2019-01-04T19:00:52-06:00
-lastmod: 2019-06-07T19:00:52-06:00
+lastmod: 2023-10-04T19:00:52-06:00
 cover: "/images/cards/camping-clear-springs-640x420.jpg"
 draft: false
 categories:
@@ -32,3 +32,17 @@ I camped alone here for one night, in pursuit of finding another dark sky site. 
 
 ## Buccaneer Park near Pass Christian
 During a visit to the Gulf beaches several while still in college at LSU I spent the night at Buccaneer State Park. This was years before Katrina so the tree canopy I recall likely no longer exists. Since the main point of my trip was beach time down the road in Gulfport or Biloxi, I didn't spend much time at Buccaneer, took no photos (this was before cell phones), and have limited memory of it. I know that the park has been rebuilt after Katrina so perhaps it is again time for another visit.
+
+## Deer Island off Biloxi
+
+I finally got to combine two of my hobbies - camping and kayaking! After completing my [home-built recreational kayak](https://stitchnglue.howisjt.com) I yearned to go on an overnight paddle, forcing me to pack everything I needed into my boat. I waited out the long, hot summer and undertook this journey in late September. This being my first time on such a trip, a  forgiving and short distance was appropriate. I parked at the Kuhn St. boat ramp in Biloxi and paddled across the channel to the west end of Deer Island. Though skies were nearly cloudless, an east wind had kicked up so there were whitecaps on the water. My kayak cut through it with ease despite being loaded with gear, and I made it to the island in about 20 minutes. I decided to haulover the spit of sand at the west end rather than paddling considerably further west around the rock jetty protecting the harbor channel. 
+
+{{< foldergallery src="images/travel/deer-island" >}}
+
+
+### Deer Island Resources by others
+
+- [2016 circumnavigation paddle](https://www.southeasternlouisianapaddling.com/2016/04/kayak-around-deer-island.html)
+- [2013 paddle-camping trip account](http://neworleansoutdoorcompanion.blogspot.com/2013/02/deer-island-ms-wilderness-hiding-in.html)
+- [Deer Island history by Kathleen Robison](https://www.kathleenjrobison.com/restored-grace-deer-island-mississippi/)
+- [Deer Island Coastal Preserve Historical Marker](https://www.hmdb.org/m.asp?m=102183)
