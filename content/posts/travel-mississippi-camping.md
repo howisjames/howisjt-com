@@ -31,7 +31,7 @@ I camped alone here for one night, in pursuit of finding another dark sky site. 
 [Janice Landing photo album](https://photos.app.goo.gl/QrmHCTJ3Po36vSvF9) {{< figure src="/images/logo-google-photos-24px.png" >}}
 
 ## Buccaneer Park near Pass Christian
-During a visit to the Gulf beaches several while still in college at LSU I spent the night at Buccaneer State Park. This was years before Katrina so the tree canopy I recall likely no longer exists. Since the main point of my trip was beach time down the road in Gulfport or Biloxi, I didn't spend much time at Buccaneer, took no photos (this was before cell phones), and have limited memory of it. I know that the park has been rebuilt after Katrina so perhaps it is again time for another visit.
+During a visit to the Gulf beaches while in graduate school at LSU I spent the night at Buccaneer State Park. This was years before Katrina so the tree canopy I recall no longer exists. Since the main point of my trip was beach time down the road in Gulfport or Biloxi, I didn't spend much time at Buccaneer, took no photos (this was before cell phones), and have limited memory of it. I know that the park has been rebuilt after Katrina so perhaps it is again time for another visit.
 
 ## Deer Island off Biloxi
 
