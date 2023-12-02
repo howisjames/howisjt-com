@@ -8,3 +8,10 @@ Add a subdomain in Cloudflare
 https://developers.cloudflare.com/fundamentals/basic-tasks/manage-subdomains/
 
 link new subdomain "stitchnglue.howisjt.com" to the stitchnglue blog content.
+
+Instructions
+https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#create-a-github-repository
+
+
+https://dash.cloudflare.com/
+

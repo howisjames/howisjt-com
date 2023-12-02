@@ -34,3 +34,7 @@ The fire tower, which can be seen from the lake once you paddle out from my pare
 My dog loves playing in the lake at the boat ramp or shore line with a gradual slope. He's not so crazy about getting in from a dock.
 
 {{< youtube 8QNabdvQvFQ >}}
+
+Having completed my project of building 3 homemade kayaks, my sons and I enjoy going on paddling trips and Lake Martin is particularly wonderful. Here is a short video from the Thanksgiving holidays of 2023 where we enjoyed perfect weather paddling on Lake Martin.
+
+{{< youtube GB1gEp8VZgI >}}
