@@ -18,7 +18,7 @@ My wife, sons and I spent four fantastic days exploring downtown Chicago visitin
 
 Perhaps it is a result of lingering COVID precautions or maybe it is standard crowd control practice, but several museums and galleries are regulating entry by requiring ticket holders to schedule their time of arrival. Also, I found some attractions are not open every weekday. Not understanding these facts a month ago, I procrastinated until the day before our departure to do the detailed trip planning. Honestly, I thought we could be lazy and just play it by ear, but I soon realized that wouldn't work out to our satisfaction. I was able to use our CityPass purchase to acquire digital tickets and schedule arrival times for all four attractions which required them and kept track of this on a Google calendar ensuring nothing overlapped and there was sufficient time between attractions for dining or travel between destinations.
 
-This was our first visit to Chicago and we knew little about the city. Normally I take time to read a history or travel guide about cities I visit before the trip so I can make informed choices. This time I didn't have that luxury so I used Google MyMaps to create my own custom [tourist destination map](https://www.google.com/maps/d/edit?mid=1TTC_WRzIA5W9VDNP1_Wd4FxE509NO_pO&ll=41.96894894073665%2C-87.74603190000002&z=10). Next, I determined transportation requirements to get from one attraction to the next. We used public transit, Uber and walking...lots of walking. The best deal is to buy full day or 3-day paper transit passes from the Ventra transit kiosk at the airport. We didn't take the time to find the Ventra kiosk at the airport so we missed this opportunity. I ended up purchasing a Ventra plastic card at a Walgreens and loading it with a 1-day pass and some cash. Each transit trip was $2.25 per person, with transfers to 2nd or 3rd buses or trains being no additional cost for the trip. When I registered my [Ventra account online](https://www.ventrachicago.com/) I was given the opportunity to convert the $5 purchase price of the card to an equal value of transit credit. We shared the 1 card among all family members, ensuring the card was loaded with sufficient cash to cover the number of trips we'd make that day. There is a CTA app which would have been beneficial, but I made do with Google Transit (Google Maps) and the Ventra pass. 
+This was our first visit to Chicago and we knew little about the city. Normally I take time to read a history or travel guide about cities I visit before the trip so I can make informed choices. This time I didn't have that luxury so I used Google MyMaps to create my own custom [tourist destination map](https://www.google.com/maps/d/edit?mid=1TTC_WRzIA5W9VDNP1_Wd4FxE509NO_pO&ll=41.96894894073665%2C-87.74603190000002&z=10). Next, I determined transportation requirements to get from one attraction to the next. We used public transit, Uber and walking...lots of walking. The best deal is to buy full day or 3-day paper transit passes from the Ventra transit kiosk at the airport. We didn't take the time to find the Ventra kiosk at the airport so we missed this opportunity. I ended up purchasing a Ventra plastic card at a Walgreen's and loading it with a 1-day pass and some cash. Each transit trip was $2.25 per person, with transfers to 2nd or 3rd buses or trains being no additional cost for the trip. When I registered my [Ventra account online](https://www.ventrachicago.com/) I was given the opportunity to convert the $5 purchase price of the card to an equal value of transit credit. We shared the 1 card among all family members, ensuring the card was loaded with sufficient cash to cover the number of trips we'd make that day. There is a CTA app which would have been beneficial, but I made do with Google Transit (Google Maps) and the Ventra pass. 
 
 ![Preliminary Itinerary](/images/travel/chicago/itinerary-preliminary-sm.jpg)
 
@@ -32,7 +32,7 @@ This was our first visit to Chicago and we knew little about the city. Normally 
 
 Hungry and tired from an early morning flight, we Ubered from the airport to our accomodations at the [Omni Chicago Hotel](https://www.omnihotels.com/hotels/chicago?utm_source=gmblisting&utm_medium=organic), checked our bags and headed out for a hearty lunch at [Giordanos's restaurant](https://giordanos.com/) where we enjoyed our first deep dish pizza. Reenergized, we set off walking in the light rain several blocks south crossing the Chicago river to the [Architecture Center](https://www.architecture.org/). A coworker gifted me a pair of adult passes here, so we had only to purchase a pair for the boys. We learned a bit about skyscrapers, both in Chicago and worldwide, but otherwise there was a bunch of information about climate change, energy efficiency, and building materials and techniques that we found generally uninteresting or that we already knew. So, we didn't waste much time here and instead walked back north to the historic Chicago Water Tower where we hoped to sneak in viewing of the historical exhibits. Unfortunately, the small museum was closed. 
 
-By now the cool front had pushed east and rain was barely a drizzle so we  walked east past a portion of Northwestern University to the lakefront. Turning south, we walked along the Lake Michigan shoreline down to the Navy Pier. Here we were underwhelmed, as all attractions at the Navy Pier were fee-based or - in the case of the conservatory which I was looking forward to touring - were closed for maintenance. We skipped the pricy goldola ride on the ferris wheel. With sparse crowds likely due to the day's rain we suspected there would be no fireworks at the pier this Saturday night so we caught an Uber back to our hotel where we ordered dinner in our room. I ran an errand to a nearby Walgreens to purchase a transit card and a few sundries.
+By now the cool front had pushed east and rain was barely a drizzle so we  walked east past a portion of Northwestern University to the lakefront. Turning south, we walked along the Lake Michigan shoreline down to the Navy Pier. Here we were underwhelmed, as all attractions at the Navy Pier were fee-based or - in the case of the conservatory which I was looking forward to touring - were closed for maintenance. We skipped the pricy gondola ride on the Ferris wheel. With sparse crowds likely due to the day's rain we suspected there would be no fireworks at the pier this Saturday night so we caught an Uber back to our hotel where we ordered dinner in our room. I ran an errand to a nearby Walgreens to purchase a transit card and a few sundries.
 
 {{< foldergallery src="images/travel/chicago/day1" >}}
 
@@ -50,15 +50,15 @@ Next we Ubered north to [Corcoran's Grill and Pub](https://corcoransoldtown.com/
 
 Monday greeted us again with clear skies and cool temperatures which was good because we had five attractions on our list today. 
 
-### Millenium Park
+### Millennium Park
 
-We grabbed breakfast on the run from the world's largest (3-story) Starbucks and caught a bus south to Millenium Park where we did the obligatory photos of Cloud Gate "the bean" sculpture, Buckingham Fountain and many other attractions within the park as we walked south towards the aquarium.
+We grabbed breakfast on the run from the world's largest (3-story) Starbucks and caught a bus south to Millennium Park where we did the obligatory photos of Cloud Gate "the bean" sculpture, Buckingham Fountain and many other attractions within the park as we walked south towards the aquarium.
 
 ### Shed Aquarium in Grant Park
 
-We were all quite impressed by the Shed Aquarium. We've visited Seaworld in Orlando and the Florida Aquarium in Tampa, the Aquarium of the Americas in New Orleans, and as a kid I toured Marineland in St. Augustine Florida. Chicago's Shed aquarium's location on the lakefront is spectacular. The view through the window wall behind the baluga whale show auditorium is just spectacular. The exhibits seem to go on forever, ranging from cold salt water to Amazon fresh. From jellyfish to tetras, sharks and rays to penguins - YES! penguins! - we had an amazing visit.
+We were all quite impressed by the Shed Aquarium. We've visited Seaworld in Orlando and the Florida Aquarium in Tampa, the Aquarium of the Americas in New Orleans, and as a kid I toured Marineland in St. Augustine Florida. Chicago's Shed aquarium's location on the lakefront is spectacular. The view through the window wall behind the beluga whale show auditorium is just spectacular. The exhibits seem to go on forever, ranging from cold salt water to Amazon fresh. From jellyfish to tetras, sharks and rays to penguins - YES! penguins! - we had an amazing visit.
 
-Afterwards, we grabbed a terrific lunch from a tex-mex food truck outside the aquarium, and afterwards caught a bus north to the Art Institute.
+Next, we grabbed a terrific lunch from a tex-mex food truck outside the aquarium, and afterward that caught a bus north to the Art Institute.
 
 ### Art Institute
 
@@ -66,11 +66,12 @@ Plan for a full day here. We severely handicapped our experience at the Art Inst
 
 ### Boat Tour
 
-We rode the bus a few mor blocks north to [Wendella Boat Tours](https://www.wendellaboats.com/boat-tours/?gclid=CjwKCAjwp7eUBhBeEiwAZbHwkenBfGkvl4Qbyfd5JenqXIXKxCtRpIDTtHd8GS2VSSBLgsWdbaRPFxoCH4cQAvD_BwE) at the Chicago River. The 90 minute trip traveled up (down? - they reversed the flow right?) the Chicago River, first up the north branch, and then turning around and heading down the south branch. The guide "Joe" was very personable and knowledgable about the architecture, the architects, and engineers involved in the many spectacular buildings of downtown Chicago visible from the river. Of course there was some background history on the settlement and early expansion of the city, and of the great fire and lessons learned during the rebuilding process. We enjoyed this tour despite the fact that clouds rolled in as the boat tour got underway, temperatures dropped and the wind grew cold. This was the only time during our trip when we were uncomfortable.
+We rode the bus a few more blocks north to [Wendella Boat Tours](https://www.wendellaboats.com/boat-tours/?gclid=CjwKCAjwp7eUBhBeEiwAZbHwkenBfGkvl4Qbyfd5JenqXIXKxCtRpIDTtHd8GS2VSSBLgsWdbaRPFxoCH4cQAvD_BwE) at the Chicago River. The 90 minute trip traveled up (down? - they reversed the flow right?) the Chicago River, first up the north branch, and then turning around and heading down the south branch. The guide "Joe" was very personable and knowledgeable about the architecture, the architects, and engineers involved in the many spectacular buildings of downtown Chicago visible from the river. Of course there was some background history on the settlement and early expansion of the city, and of the great fire and lessons learned during the rebuilding process. We enjoyed this tour despite the fact that clouds rolled in as the boat tour got underway, temperatures dropped and the wind grew cold. This was the only time during our trip when we were uncomfortable.
 
 After the boat tour we walked a few blocks back to our hotel to warm up, and then a few further to enjoy a dinner at [Friends Sushi](https://www.friendssushi.com/rush/home) restaurant. The food was delicious and the atmosphere of this "shotgun" style little restaurant unique and inviting. Our sons were particularly happy with this meal.
 
 >>Architect Jeanne Gang interviewed by NPR's Scott Simon. 
+
 <iframe src="https://www.npr.org/player/embed/1104368932/1104368933" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
 
 
@@ -100,11 +101,13 @@ We rushed and saw a lot of the major exhibits. We saw another 3D movie about dee
 
 {{< foldergallery src="images/travel/chicago/day4" >}}
 
+
 ### Billy Goat Tavern
 
-Today we skipped lunch so after leaving MSI we were quite hungry. Arriving downtown at the river we walked down beneath street level to the original Billy Goat Tavern. Yes, this is the one upon which Saturday Night Live personalities John Belushi, Bill Murray, Gilda Radner, and Dan Akroyd based their comedy skit ["The Olympia Restaurant: Cheeseburger, Chips and Pepsi"](https://www.youtube.com/watch?v=puJePACBoIo) where restaurant staff offered their patrons a limited menu. 
+Today we skipped lunch so after leaving MSI we were quite hungry. Arriving downtown at the river we walked down beneath street level to the original Billy Goat Tavern. Yes, this is the one upon which Saturday Night Live personalities John Belushi, Bill Murray, Gilda Radner, and Dan Aykroyd based their comedy skit ["The Olympia Restaurant: Cheeseburger, Chips and Pepsi"](https://www.youtube.com/watch?v=puJePACBoIo) where restaurant staff offered their patrons a limited menu. 
 
 {{< youtube puJePACBoIo >}}
+
 
 The Goat still serves only burgers - the fried thin-patty kind - and chips - no fries - so of course we all enjoyed double cheeseburgers, chips and sodas. They hit the spot...almost. Afterwards we were craving milk shakes or ice cream. (We missed the frozen rolled ice cream in Chinatown earlier in the day.) So, we headed to Ghirardelli Chocolate Company for ice cream or shakes. This was our cap-off for our four days in Chicago.
 
@@ -112,19 +115,22 @@ The Goat still serves only burgers - the fried thin-patty kind - and chips - no 
 
 This morning we flew home. Unfortunately, I had a poor Uber experience where I used the reservation option to reserve a larger vehicle (XL) the evening prior to our morning ride to the airport. It confirmed, so I though all was well. The morning of departure we were packed, ready and on the curb in front of the hotel 10 minutes before the scheduled Uber pick up. Ten minutes passed and I looked at the app, seeing that the driver was 40 minutes north of the city and not moving. Clearly, he/she had stood me up. It took three more attempts to request an Uber XL that morning. Two failed because initially their ETA was shown to be just a few minutes away, but upon confirmation it reset to a half hour away. Finally, the third driver arrived with a suitable vehicle and, while we were behind schedule, we did arrive at O'Hare airport with sufficient time.
 
-My observation is that the transportation options to/from O'Hare have not been restored since COVID. Shuttle busses to downtown are not yet operational. Our options were a pricy private SUV shuttle, inexpensive public transit train (which we didn't want to do with luggage), or somewhat expensive Uber. The Uber XL we used was a comfortable minivan and was less expensive than the private "GO" SUV option, though only marginally after numerous fees tacked on by the City.
+My observation is that the transportation options to/from O'Hare have not been restored since COVID. Shuttle buses to downtown are not yet operational. Our options were a pricy private SUV shuttle, inexpensive public transit train (which we didn't want to do with luggage), or somewhat expensive Uber. The Uber XL we used was a comfortable minivan and was less expensive than the private "GO" SUV option, though only marginally after numerous fees tacked on by the City.
+
 
 ![As Experienced Itinerary](/images/travel/chicago/itinerary-as-experienced-sm.jpg)
 
+
 ---
+
 
 ## What We Missed
 
 It is no surprise that four days isn't enough time to see all that Chicago has to offer. Attractions we missed that I had hoped to see are:
  
- - Wriggley Field
+ - Wrigley Field
  - Soldier Field (we saw it, but tours are offered)
- - Chicago Botanical Garden up at County Line Rd.
+ - Chicago Botanical Garden (up at County Line Rd.)
  - Chicago History Museum
  - Frank Lloyd Wright House
  - A swimming beach at Lake Michigan (too chilly during our visit)
