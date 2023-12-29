@@ -70,9 +70,7 @@ We rode the bus a few more blocks north to [Wendella Boat Tours](https://www.wen
 
 After the boat tour we walked a few blocks back to our hotel to warm up, and then a few further to enjoy a dinner at [Friends Sushi](https://www.friendssushi.com/rush/home) restaurant. The food was delicious and the atmosphere of this "shotgun" style little restaurant unique and inviting. Our sons were particularly happy with this meal.
 
->>Architect Jeanne Gang interviewed by NPR's Scott Simon. 
-
-<iframe src="https://www.npr.org/player/embed/1104368932/1104368933" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player">
+>>Listen to Architect Jeanne Gang [interviewed by NPR's Scott Simon](https://www.npr.org/player/embed/1104368932/1104368933). 
 
 
 ### Sky Deck
