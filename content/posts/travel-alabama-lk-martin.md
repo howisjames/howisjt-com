@@ -1,7 +1,7 @@
 ---
 title: Lake Martin Alabama
 date: 2019-01-13T19:00:52-06:00
-lastmod: 2019-06-11T19:00:52-06:00
+lastmod: 2023-11-24T19:00:52-06:00
 cover: "/images/cards/lake-martin-640x420.jpg"
 draft: false
 categories:

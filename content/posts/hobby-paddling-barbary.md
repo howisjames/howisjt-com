@@ -1,7 +1,7 @@
 ---
 title: Paddling Bayou Barbary
 date: 2023-10-15
-lastmod: 2023-10-15
+lastmod: 2023-12-27
 cover: "/images/hobby/paddling/barbary_951x693.jpg"
 draft: false
 categories: ["hobbies"]
@@ -9,7 +9,7 @@ tags: ["paddlesports", "Louisiana"]
 description: A trip from Pete's Landing.
 ---
 
-Pete's Landing is a boat ramp ($5 launch fee) into scenic Bayou Barbary, a tributary of the Amite River located in Livingston Parish south of I-12. Pete's is on hwy. 444, about midway between French Settlement and Killian, a little east of Hwy. 63. From the launch Barbery extends approximately 2 miles to the Amite.
+Pete's Landing is a boat ramp ($5 launch fee) into scenic Bayou Barbary, a tributary of the Amite River located in Livingston Parish south of I-12. Pete's is on hwy. 444, about midway between French Settlement and Killian, a little east of Hwy. 63. From the launch Barbary extends approximately 2 miles to the Amite.
 
 # First Visit
 
@@ -25,4 +25,5 @@ A highlight of the trip was spotting a limpkin near the boat ramp. I had seen nu
 
 # Future Visits
 
-As this bayou is scenic an only a half hour from home I look forward to visiting it again, when I have more time to paddle its full length.
+We visited again about a month later and paddled the length of the bayou down to the Amite River and back. We spent two hours paddling down and back, plus up and back on a scenic side channel.
+
