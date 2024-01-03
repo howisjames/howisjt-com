@@ -27,7 +27,7 @@ I chose Jarvis Boards' 11'-4" long **San Marcos** model as it seemed geared towa
 - Although I haven't unrolled it, I'm pretty sure I have enough **4 oz fiberglass cloth** to fully encase the board.
 - Okoume marine-grade **plywood** is the material of choice for the framing members, but since it is not available locally I elected to go with a sheet of 5 mm [RevolutionPly]() from my local Lowes store. Comprised primarily of Poplar, RevolutionPly is purported to be more "green" and sustainable than tropical woods such as Okoume, Meranti or Luan. Also, Revolution is a fraction of the cost. So far while working with the plywood I've encountered no knots or voids. Since the board framing members remain straight and are not twisted or contorted within the board, this bending strength was not a concern as it would be for a stitch-n-glue kayak hull or deck. 
 - **Paulownia** is the lumber of choice for the skin of the paddleboard. Paulownia is the second lightest weight commercially available wood next to balsa, and it is much stronger. Originating in Asia, Paulownia is grown commercially in tree farms worldwide and is purported to be a sustainable product. I shopped around several specialty lumber yards in my area but could not find Paulownia. My best local option was Western Red Cedar lumber. Thankfully, Jarvis decided to shift their warehousing operations and rather than move it they deeply discounted their remaining stock of Paulownia lumber so I jumped at the opportunity.
-- The **glue** recommended by Jarvis (and some other builders) is a polyurethane glue such as Gorilla :tm: glue because it is strong, fast drying, and foams up to fill voids within bonds. Others recommend Polyvinyl Acetate (PVA) which is what most folks recognize as standard wood glue. A hot glue gun is recommended for certain steps in construction where an immediate bond is needed and that can be cut or melted apart at a future step in the process. So, I'll probably use each of these, in addition to occasional epoxy mixed with a wood flour thickener.
+- The **glue** recommended by Jarvis (and some other builders) is a polyurethane glue such as Gorilla &trade; glue because it is strong, fast drying, and foams up to fill voids within bonds. Others recommend Polyvinyl Acetate (PVA) which is what most folks recognize as standard wood glue. A hot glue gun is recommended for certain steps in construction where an immediate bond is needed and that can be cut or melted apart at a future step in the process. So, I'll probably use each of these, in addition to occasional epoxy mixed with a wood flour thickener.
 
 ---
 
@@ -39,7 +39,7 @@ Photo below: I'm preparing to cut the 5 mm plywood in half lengthwise.
 
 ## Using the Patterns
 
-The plans or patterns for the structural pieces are plotted on 2' x 8' paper, so I began by ripping the 4 x 8 sheet of plywood in half lengthwise. Then I diluted Elmer's glue 50% in water to affix the paper patterns to the plywood. A foam brush was used to apply diluted glue to the wood in sections as I rolled and smoothed out the paper. It dried overnight and in the process many of the wrinkles disappeared.
+The plans or patterns for the structural pieces are plotted on 2' x 8' paper, so I began by ripping the 4 x 8 sheet of plywood in half lengthwise. Then I diluted Elmer's &trade; glue 50% in water to affix the paper patterns to the plywood. A foam brush was used to apply diluted glue to the wood in sections as I rolled and smoothed out the paper. It dried overnight and in the process many of the wrinkles disappeared.
 
 ![Paddleboard frame member pattern sheet](/images/hobby/paddling/sup/0000-paddleboard-frame-plans.jpg)
 
@@ -69,4 +69,5 @@ Comparing Jarvis' plans with those of other paddleboards, the Jarvis plans are c
 
 ### Continue Cutting
 
-This weekend I continue cutting out the internal frame pieces from the plywood sheets with a jigsaw along the curves and a circular saw for the straight edges. 
+This weekend I continue cutting out the internal frame pieces from the plywood sheets with a jigsaw along the curves and with a circular saw for the straight edges. Builders who purchase frame kits are bypassing this step and receiving components recisely cut by CNC router machines, saving a tremendous amount of time and perhaps challenging labor in exchange for some cash. I'm cost conscious so elected to do the work.
+
