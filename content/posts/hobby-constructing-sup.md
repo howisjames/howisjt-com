@@ -76,7 +76,7 @@ It required three more afternoons of effort over two weekends to complete the cu
 
 ![all frame pieces are cut out](/images/hobby/paddling/sup/gallery/0010-paddleboard-frame-pieces.jpg)
 
-By the end of the MLK Day holiday all of my interior frame components were precisely cut out. You see them above, stacked on top of the 5 boxes of Paulownia strips I purchased from Jarvis Boards. An extreme cold front has reached south Louisiana which will prevent 
+By the end of the MLK Day holiday all of the interior frame components for the SUP were precisely cut and shaped. You see them above, stacked on top of the 5 boxes of Paulownia strips which I purchased from Jarvis Boards. An extreme (for us) cold front has reached south Louisiana to be followed this weekend with a reinforcing cold front. These cold temperatures will prevent any gluing, but I will be able to 1) clean out my storage room / workshop space, 2) set up my long workshop table, and 3) make the scarf joint cuts in preparation for gluing. I suppose I could try to put an electric heater in my shop, but I don't believe I have one big enough to warm the space. 
 
 
 ## Project Thumbnail Gallery
