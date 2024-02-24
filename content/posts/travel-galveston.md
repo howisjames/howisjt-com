@@ -2,7 +2,7 @@
 title: Easter in Galveston
 date: 2024-02-23T19:00:52-06:00
 lastmod: 2024-02-24T19:00:52-06:00
-cover: "/images/cards/galveston-640x425.jpg"
+cover: "/images/cards/galveston-640-425.jpg"
 draft: false
 categories: ["travel"]
 tags: ["Texas", "family"]
@@ -18,9 +18,9 @@ As we settled on Galveston, I started checking out travel library books, reading
 
 _LEGEND_
 >> **Red** = our accomodatins
->> **Blue** = historic or cultural attraction
->> **Green** = park or outdoor attraction
->> **Orange** = eateries
+**Blue** = historic or cultural attraction
+**Green** = park or outdoor attraction
+**Orange** = eateries
 
 ![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map.jpg)
 
