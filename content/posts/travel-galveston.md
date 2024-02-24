@@ -22,7 +22,7 @@ As we settled on Galveston, I started checking out travel library books, reading
 > - **Green** = park or outdoor attraction
 > - **Orange** = eateries
 
-![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map.jpg)
+![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map_tn.jpg)
 
 ## Historic Resources
 
