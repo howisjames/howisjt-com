@@ -16,11 +16,11 @@ As we settled on Galveston, I started checking out travel library books, reading
 
 [View map](https://howisjames.github.io/maps/galveston/)
 
-_LEGEND_
->> **Red** = our accomodatins
-**Blue** = historic or cultural attraction
-**Green** = park or outdoor attraction
-**Orange** = eateries
+**LEGEND**
+> - **Red** = our accomodatins
+- **Blue** = historic or cultural attraction
+- **Green** = park or outdoor attraction
+- **Orange** = eateries
 
 ![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map.jpg)
 
