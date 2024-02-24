@@ -14,13 +14,13 @@ Our family spring trip this year will be to Galveston, Texas for Easter weekend.
 ## Trip Prep
 As we settled on Galveston, I started checking out travel library books, reading blogs and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built another web-map of attractions we may wish to see during our stay.
 
-[View map](https://howisjames.github.io/maps/galveston/)
+[View Interactive Map](https://howisjames.github.io/maps/galveston/)
 
 **LEGEND**
 > - **Red** = our accomodatins
-- **Blue** = historic or cultural attraction
-- **Green** = park or outdoor attraction
-- **Orange** = eateries
+> - **Blue** = historic or cultural attraction
+> - **Green** = park or outdoor attraction
+> - **Orange** = eateries
 
 ![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map.jpg)
 
