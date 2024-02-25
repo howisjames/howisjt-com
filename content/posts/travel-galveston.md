@@ -18,7 +18,6 @@ Our family spring trip this year will be to Galveston, Texas for Easter weekend.
 ![Our Air B&B](/images/travel/galveston/google-street-view-320px.jpg#floatright)
 As we settled on Galveston, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built another web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet.
 
-![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map_tn.jpg#floatleft)
 **View my [Interactive Map](https://howisjames.github.io/maps/galveston/)**
 
 > __LEGEND__
@@ -26,6 +25,8 @@ As we settled on Galveston, I started searching for travel library books, readin
 > - **Blue** = historic or cultural attraction
 > - **Green** = park or outdoor attraction
 > - **Orange** = eateries
+
+![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map_tn.jpg)
 
 ## Researching History & Culture
 
