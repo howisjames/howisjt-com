@@ -15,15 +15,15 @@ Our family spring trip this year will be to Galveston, Texas for Easter weekend.
 ## Trip Prep
 As we settled on Galveston, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built another web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet.
 
-**LEGEND**
+**View [Interactive Map](https://howisjames.github.io/maps/galveston/)**
+
+> __LEGEND__
 > - **Red** = our accomodatins
 > - **Blue** = historic or cultural attraction
 > - **Green** = park or outdoor attraction
 > - **Orange** = eateries
 
 ![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map_tn.jpg)
-
-[View Interactive Map](https://howisjames.github.io/maps/galveston/)
 
 ## Researching History & Culture
 
@@ -33,6 +33,9 @@ I discovered and soon got hooked on listening to J.R. Shaw's [Galveston Unscript
 [Galveston.com](https://www.galveston.com/) has its own set of resources for visitors including a [blogs](https://www.galveston.com/blogs/) section, a [self-guided tour](https://www.galveston.com/whattodo/tours/self-guided-tours/) section and more. The site seems to have loads of free content, but on the whole the website seems to load slowly, which I find off-putting. 
 
 I searched my local library system here in Louisiana, but despite Galveston's proximity, I was surprised to find almost no history or travel guide books aside from one children's book.
+
+**S.I.T.** is the [Seawall Interpretive Trail](https://www.galveston.com/whattodo/tours/self-guided-tours/seawall-interpretive-trail/) consisting of 70 concrete benches -- formerly plain and ugly -- now decorated with colorful tile mosaic artwork.
+
 
 ## Getting Around
 
