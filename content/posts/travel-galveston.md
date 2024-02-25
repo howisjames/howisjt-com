@@ -14,7 +14,7 @@ Our family spring trip this year will be to Galveston, Texas for Easter weekend.
 
 ## Trip Prep
 
-Once we settled on Galveston as our destination, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. ![Our Air B&B](/images/travel/galveston/google-street-view-320px.jpg#floatleft)I found some real jewels which I'll share here,. Using these resources, and after reserving our accomodations, I built a web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet, as I've created for previous trips to [Nassau]({{< relref "travel-bahamas-nassau.md" >}}), [North Carolina]({{< relref "travel-burnsville.md" >}}), and  a wish list of [campgrounds in Texas]({{< relref "travel-texas-camping.md" >}}). I like these because they are geographically specific, enabling us to make efficient use of our vacation time, and the information is always available on anyone's cellphone. And you've guessed that as an urban planner I like learning about the history of places and people.
+Once we settled on Galveston as our destination, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here,. Using these resources, and after reserving our accomodations, I built a web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet, as I've created for previous trips to [Nassau]({{< relref "travel-bahamas-nassau.md" >}}), [North Carolina]({{< relref "travel-burnsville.md" >}}), and  a wish list of [campgrounds in Texas]({{< relref "travel-texas-camping.md" >}}). I like these because they are geographically specific, enabling us to make efficient use of our vacation time, and the information is always available on anyone's cellphone. And you've guessed that as an urban planner I like learning about the history of places and people.
 
 **View my [Interactive Map](https://howisjames.github.io/maps/galveston/)**
 
@@ -50,7 +50,7 @@ During and following our trip a selection of interesting notes and photos will b
 
 ### The Air B&B House
 
-How were our accomodations?
+![Our Air B&B](/images/travel/galveston/google-street-view-320px.jpg#floatright) How were our accomodations?
 
 ### Galveston Beach
 
