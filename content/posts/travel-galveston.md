@@ -11,12 +11,12 @@ description: Discovering the beaches and history of the island
 ---
 
 ![View of church steeple, rooftops and Gulf in the distance.](/images/travel/galveston/galveston-320px.jpg#floatright)
-Our family spring trip this year will be to Galveston, Texas for Easter weekend. As they attend different schools, our son's spring breaks didn't coincide, so four days at Easter was the best we could do. Galveston Island is roughly a 5-hour drive from home, so we will be able to get three nights, two full days, and two half-days of fun out of this family trip. We rented an Air B&B cottage next to Galveston's "Silk Stocking" district. It is pet-friendly and has a fenced backyard so our dog Woody can travel with us. I think he will love exploring nearby Kempner Park just two blocks away.
+Our family spring trip this year will be to Galveston, Texas for Easter weekend. Galveston Island is roughly a 5-hour drive from home, so we will be able to get three nights, two full days, and two half-days of fun out of this family trip. This will be our first pleasure trip into Texas as a family. We rented an Air B&B cottage next to Galveston's "Silk Stocking" district. The rental is pet-friendly and has a fenced backyard so our dog Woody can travel with us. I think he will love exploring nearby Kempner Park just two blocks away. We will be halfway between the beach and the historic downtown and seaport. Considering the maritime past, there are lots of connections to New Orleans and south Louisiana. We expect some things will be familiar, but hope many others will be new and interesting.
 
 ## Trip Prep
 
 ![Our Air B&B](/images/travel/galveston/google-street-view-320px.jpg#floatright)
-As we settled on Galveston, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built another web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet.
+Once we settled on Galveston as our destination, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built another web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet.
 
 **View my [Interactive Map](https://howisjames.github.io/maps/galveston/)**
 
