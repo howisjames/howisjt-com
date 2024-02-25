@@ -15,8 +15,6 @@ Our family spring trip this year will be to Galveston, Texas for Easter weekend.
 ## Trip Prep
 As we settled on Galveston, I started searching for travel library books, reading blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built another web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet.
 
-[View Interactive Map](https://howisjames.github.io/maps/galveston/)
-
 **LEGEND**
 > - **Red** = our accomodatins
 > - **Blue** = historic or cultural attraction
@@ -24,6 +22,8 @@ As we settled on Galveston, I started searching for travel library books, readin
 > - **Orange** = eateries
 
 ![Tourist Attractions Map](/images/travel/galveston/galveston-pin-map_tn.jpg)
+
+[View Interactive Map](https://howisjames.github.io/maps/galveston/)
 
 ## Researching History & Culture
 
@@ -36,9 +36,11 @@ I searched my local library system here in Louisiana, but despite Galveston's pr
 
 ## Getting Around
 
-Our accommodations are two blocks from the trolley line on Rosenberg Ave. (25th Street) which links us both to the seawall beach at Pleasure Pier and also to The Strand and Seaport area downtown. I doubt the trolleys will be dog-friendly, so we'll likely be driving everywhere.
+Our accommodations are two blocks from the [trolley line](https://www.galvestontx.gov/1209/Trolleys) on Rosenberg Ave. (25th Street) which links us both to the seawall beach at Pleasure Pier and also to The Strand and Seaport area downtown. I doubt the trolleys will be dog-friendly, so we'll likely be driving everywhere.
 
-## Trip Recap
+---
+
+# Trip Recap
 
 During and following our trip a selection of interesting notes and photos will be posted below. I'll "pencil in" an outline to make it easier for me to post content on the go.
 
