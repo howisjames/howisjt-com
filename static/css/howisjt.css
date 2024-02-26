@@ -37,13 +37,9 @@ img[src$='#floatright']
     max-width: 300px; 
     max-height: 300px;
 	float:right;
-	margin: 0.5em auto 0.5em 1em;      /* margin: top right bottom left */
+	margin: 0.2em auto 0.5em 1em;      /* margin: top right bottom left */
 	/* padding-left: 20px;*/
 	/* whatever else styles you fancy here */
-}
-
-p > img:not(.emoji), li > img {
-  margin: 0.5em 1em 0.5em 1em !important; 
 }
 
 /*hack to float figure objects */
