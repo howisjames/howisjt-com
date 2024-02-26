@@ -42,6 +42,10 @@ img[src$='#floatright']
 	/* whatever else styles you fancy here */
 }
 
+p > img:not(.emoji), li > img {
+  margin: 0.5em 1em 0.5em 1em;
+}
+
 /*hack to float figure objects */
 figure.floatright {
 	max-width: 30%;
