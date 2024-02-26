@@ -1,3 +1,11 @@
+/* CSS from theme:
+p > img:not(.emoji), li > img {
+  -webkit-box-shadow: 1px -1px 10px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 1px -1px 20px 0px rgba(0, 0, 0, 1);
+  box-shadow: 1px -1px 10px 0px rgba(0, 0, 0, 1);
+  margin: 1em auto 1em auto;
+}*/
+
 /*Hack to Float Images in Posts*/
 img[src$='#center']
 {
@@ -17,7 +25,8 @@ img[src$='#floatleft']
     max-width: 300px; 
     max-height: 300px;
 	float:left;
-    margin: 0.7rem;      /* this margin is totally up to you */
+    margin: 0.5em 1em 0.5em auto;  /* this margin is totally up to you */
+	/* margin: top right bottom left */
 	/* padding-right: 10px; */
     /* whatever else styles you fancy here */
 }
@@ -29,7 +38,7 @@ img[src$='#floatright']
     max-width: 300px; 
     max-height: 300px;
 	float:right;
-	margin: -0.7rem;      /* this margin is totally up to you */
+	margin: 0.5em auto 0.5em 1em;      /* this margin is totally up to you */
 	/* padding-left: 20px;*/
 	/* whatever else styles you fancy here */
 }
@@ -49,7 +58,7 @@ figure.floatleft {
 	float: left;
 }
 
-/*Hack to site.css to elongate box of category choices on homepage*/
+/*Hack to override site.css to elongate box of category choices on homepage*/
 #tag-category .dream-categories {
   max-height: 14em;
 }
