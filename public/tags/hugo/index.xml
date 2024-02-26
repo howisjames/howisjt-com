@@ -13,7 +13,8 @@
       <pubDate>Sun, 03 Jan 2021 01:00:52 +0000</pubDate>
       
       <guid>https://howisjt.com/posts/tech-two-hugo-themes/</guid>
-      <description>Website themes are great, providing a consistent appearance and layout of all pages in your website. Occasionally the need arises to format a particular section of your webite uniquely. Here I will describe how I&amp;rsquo;ve achieved this using two different themes in this website. I learned about this technique on this Discourse thread As I began implementing this I ran into a few challenges that took me a bit of time to figure out.</description>
+      <description>I have abandoned this technique as of October 2023, instead separating the two blog feeds into an apex domain and subdomain content respectively. Each is now a separate Hugo project set generated and updated independently through two differet GitHub repositories and published to Cloudflare Pages.
+Website themes are great, providing a consistent appearance and layout of all pages in your website. Occasionally the need arises to format a particular section of your webite uniquely.</description>
     </item>
     
   </channel>
