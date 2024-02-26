@@ -25,8 +25,7 @@ img[src$='#floatleft']
     max-width: 300px; 
     max-height: 300px;
 	float:left;
-    margin: 0.5em 1em 0.5em auto;  /* this margin is totally up to you */
-	/* margin: top right bottom left */
+    margin: 0.2em 1em 0.5em auto;  /* margin: top right bottom left - this margin is totally up to you */
 	/* padding-right: 10px; */
     /* whatever else styles you fancy here */
 }
@@ -38,7 +37,7 @@ img[src$='#floatright']
     max-width: 300px; 
     max-height: 300px;
 	float:right;
-	margin: 0.5em auto 0.5em 1em;      /* this margin is totally up to you */
+	margin: 0.5em auto 0.5em 1em;      /* margin: top right bottom left - this margin is totally up to you */
 	/* padding-left: 20px;*/
 	/* whatever else styles you fancy here */
 }
