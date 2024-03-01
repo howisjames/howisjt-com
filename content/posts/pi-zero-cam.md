@@ -12,7 +12,7 @@ I bought my first (and so far only) [Raspberry Pi computer](https://www.raspberr
 
 ## The Backstory
 
-My newly acquired high resolution Arducam sat on a shelf for over a year for several reasons. First, my "Pi Zero W" computer is one of the lowest power models and I read it was not sufficient to handle the high resolution video produced by the 16 MP camera. Second, I learned the Arducam brand camera was not compatible with the open source software - MotionOS - which I installed on the Pi to run the camera. And lastly, I finished my woodworking project and hadn't started anything new. Things changed recently when I decided to start a new woodworking project and wanted to create another timelapse video to document the process. 
+![Arducam 16MP autofocus](/images/tech/pi-cam/arducam16mp.jpg#floatright)My newly acquired high resolution Arducam sat on a shelf for over a year for several reasons. First, my "Pi Zero W" computer is one of the lowest power models and I read it was not sufficient to handle the high resolution video produced by the 16 MP camera. Second, I learned the Arducam brand camera was not compatible with the open source software - MotionOS - which I installed on the Pi to run the camera. And lastly, I finished my woodworking project and hadn't started anything new. Things changed recently when I decided to start a new woodworking project and wanted to create another timelapse video to document the process. 
 
 ## Arducam Upgrade for Raspberry Pi
 
