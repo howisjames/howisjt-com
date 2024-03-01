@@ -30,7 +30,7 @@ I wanted to use the new camera to take advantage of higher resolution images so 
 
 The libcamera software allows one to control the camera via code instructions. I was hoping to find what I considered to be thorough documentation and "recipies" of appropriate code snippets for various photographic situations. So far I haven't found much other than code snippets and resulting photos from the efforts of a few hobbiests. If you know of more, I'd love to hear about it! Below is a list of the resources I've found so far:
 
-#    | Site
+No.    | Site
 --------|------
 1       | [Waveshare.com](https://www.waveshare.com/wiki/Template:RPi_Camera_Libcamera_Guide#libcamera-still)
 2       | [Arducam commands](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/Libcamera-User-Guide/)
