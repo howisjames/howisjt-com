@@ -59,7 +59,7 @@ This partial example of code sets the camera to focus on infinity, bumps up shar
 
 ### Daylight Timelapse
 
-Test number two was a daylight time lapse sequence at comparatively close distance observing the bluebirds nesting in my new bluebird house. No motion detection was involved. The camera simply captured a full 16MP image once every 5 minutes. That night I visually scanned through the photos and discarded all without a bird in the frame. I batch renamed the images with sequential numbers, and then Photoshop was used to process the sequence into a very short video shown below.
+Test number two was a daylight timelapse sequence at comparatively close distance (about 5 feet) observing the bluebirds nesting in my backyard bluebird house. No motion detection was involved. The camera simply captured a full 16MP image once every 5 minutes. That night I visually scanned through the photos and discarded all without a bird in the frame. I batch renamed the images with sequential numbers, and then Photoshop was used to process the sequence into a very short video shown below.
 
 {{< youtube LuZukTHq7KY >}}
 
@@ -100,4 +100,4 @@ I took notes, but it is taking me a bit to decipher them and put things in a log
 
 ## Future Improvements
 
-I'd like to get one of the new Raspberry Pi 5 computers to pair with my 16 MP Arducam. This would have plenty of processing power, allowing me to capture full resolution video. I'm certain there are other things I could do with it that I presently can't even imagine.
+I'd like to get one of the new Raspberry Pi 5 computers to pair with my 16 MP Arducam. This would have plenty of processing power, allowing me to capture full resolution video. I'm certain there are other things I could do with it that I presently can't even imagine. In fact, Arducam is promoting their new AI-enabled camera hat [PiNSIGHT](https://www.arducam.com/arducam-pinsight/).
