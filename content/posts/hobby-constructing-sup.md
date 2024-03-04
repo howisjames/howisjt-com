@@ -83,7 +83,7 @@ By the end of the MLK Day holiday all of the interior frame components for the S
 
 ## Weekends #4
 
-This was the weekend to join the central spine of the board's frame and the edge rails together. Jarvis Boards recommends butt block joints but I decided on scarf joints to save a tad bit of weight. I used my belt sander to create the scarfs on the thin plywood, then glued them with epoxy thickened with silica powder.
+This was the weekend to join the central spine of the board's frame and the edge rails together. Jarvis Boards recommends butt block joints but I decided on scarf joints to save a tad bit of weight and it just looks cleaner. I used my belt sander to create the scarfs on the thin plywood, then glued them with epoxy thickened with silica powder.
 
 ![prep for sanding](/images/hobby/paddling/sup/scarf-joints_03-800.jpg)
 
@@ -91,13 +91,14 @@ This was the weekend to join the central spine of the board's frame and the edge
 
 ## Weekend #5
 
-Weekend 5 tasks included some sanding and dry fitting the frame pieces together. I cut scarf joints on a dozen strips and began gluing them together. 
+Weekend 5 tasks included some sanding and dry fitting the frame pieces together. I drew a center line down the strongback table. Scarf joints were cut on over a dozen strips and I began gluing them together. I revisited the [video tutorials](https://www.youtube.com/@jarvisboards/playlists) to ensure I understood the next steps for coming weekends and had all necessary materials.
+
+![dry fit frame](/images/hobby/paddling/sup/dri-fit-frame_02-800.jpg)
 
 ![glued strip scarfs](/images/hobby/paddling/sup/scarf-joint-strips_02-800.jpg)
 
 ![gluing strips](/images/hobby/paddling/sup/scarf-joint-strips_04-800.jpg)
 
-![dry fit frame](/images/hobby/paddling/sup/dri-fit-frame_02-800.jpg)
 
 ---
 
