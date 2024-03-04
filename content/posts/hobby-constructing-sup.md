@@ -81,6 +81,24 @@ It required three more afternoons of effort over two weekends to complete the cu
 
 By the end of the MLK Day holiday all of the interior frame components for the SUP were precisely cut and shaped. You see them above, stacked on top of the 5 boxes of Paulownia strips which I purchased from Jarvis Boards. An extreme (for us) cold front has reached south Louisiana to be followed this weekend with a reinforcing cold front. These sub-freezing temperatures will prevent any gluing, but I will be able to 1) clean out my storage room / workshop space, 2) set up my long workshop table, and 3) make the scarf joint cuts in preparation for gluing. I suppose I could try to use an electric heater or an incandescent light bulb to warm the work area, but in south Louisiana it will warm up soon enough. 
 
+## Weekends #4
+
+This was the weekend to join the central spine of the board's frame and the edge rails together. Jarvis Boards recommends butt block joints but I decided on scarf joints to save a tad bit of weight. I used my belt sander to create the scarfs on the thin plywood, then glued them with epoxy thickened with silica powder.
+
+![prep for sanding](/images/hobby/paddling/sup/scarf-joints_03-800.jpg)
+
+![scarfs cut](/images/hobby/paddling/sup/scarf-joints_04-800.jpg)
+
+## Weekend #5
+
+Weekend 5 tasks included some sanding and dry fitting the frame pieces together. I cut scarf joints on a dozen strips and began gluing them together. 
+
+![glued strip scarfs](/images/hobby/paddling/sup/scarf-joint-strips_02-800.jpg)
+
+![gluing strips](/images/hobby/paddling/sup/scarf-joint-strips_04-800.jpg)
+
+![dry fit frame](/images/hobby/paddling/sup/dri-fit-frame_02-800.jpg)
+
 ---
 
 ## Project Thumbnail Gallery

@@ -12,7 +12,7 @@ I bought my first (and so far only) [Raspberry Pi computer](https://www.raspberr
 
 ## The Backstory
 
-![Arducam 16MP autofocus](/images/tech/pi-cam/arducam16mp.jpg#floatright)My newly acquired high resolution Arducam sat on a shelf for over a year for several reasons. First, my "Pi Zero W" computer is one of the lowest power models and I read it was not sufficient to handle the high resolution video produced by the 16 MP camera. Second, I learned the Arducam brand camera was not compatible with the open source software - MotionOS - which I installed on the Pi to run the camera. And lastly, I finished my woodworking project and hadn't started anything new. Things changed recently when I decided to start a new woodworking project and wanted to create another timelapse video to document the process. 
+![Arducam 16MP autofocus](/images/tech/pi-cam/arducam16mp.jpg#floatright)My newly acquired high resolution Arducam sat on a shelf for over a year for several reasons. First, my "Pi Zero W" computer is one of the lowest power models and I read it was not sufficient to handle the high resolution video produced by the 16 MP camera. Second, I learned the Arducam brand camera was not compatible with the open source software - [MotionEyeOS](https://github.com/motioneye-project/motioneyeos) - which I installed on the Pi to run the camera. And lastly, I finished my woodworking project and hadn't started anything new. Things changed recently when I decided to start a new woodworking project and wanted to create another timelapse video to document the process. 
 
 ## Arducam Upgrade for Raspberry Pi
 
@@ -20,7 +20,7 @@ I wanted to use the new camera to take advantage of higher resolution images so 
 
 ### Solutions
 
-- I found an alternative to the MotionOS - just the Pi OS with libcamera extensions installed;
+- I found an alternative to the MotionEyeOS - just the Pi OS with libcamera extensions installed;
 - I didn't need to capture images at 16 MP to create the time lapse video, lessening stress on the computer;
 - I used spare "go pro" style camera mounts to build a better Pi cam mount.
 
@@ -39,7 +39,7 @@ No.    | Site
 
 ### Overnight Timelapse
 
-My first test of the camera was to capture a sequence of images overnight with the Pi camera pointed at Polaris, the north star. The result will be a "star trails" image which is a composite of all images taken overnight. But, I made a mistake and didn't sufficiently tighten the camera mount. Overnight it slowly, very slowly, drooped towards the ground. The video below shows this error as the image pans down towards the ground. But if you look close (in a dark room), *really* closely, you can see the apparent movement of the stars around Polaris. (Yea, yea astrophysicists - I'm well aware that it is our earth that is rotating and that, comparatively, the stars are stationary.)
+My first test of the camera was to capture a sequence of images overnight with the Pi camera pointed at Polaris, the north star. The result will be a "star trails" image which is a composite of all images taken overnight. But, I made a mistake and didn't sufficiently tighten the camera mount. Overnight it slowly, very slowly, drooped towards the ground. The video below shows this error as the image pans down towards the ground. But if you look close (in a dark room), *really* closely, you can see the apparent movement of the stars around Polaris. (Yea, yea astrophysicists - I'm well aware that it is our earth that is rotating and that, comparatively, the stars are stationary.) "Lame" describes the following video as I've seen many that are much better. This was a first effort, and next time I'll see about exporting as an animated GIF.
 
 {{< youtube NmnWbQiTu-8 >}}
 
