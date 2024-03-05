@@ -72,6 +72,7 @@ This partial example of code sets the camera to macro focus - close up, tells th
 	test.txt")
 
 </br>
+
 The portion of each code snippet above with "date" and "time" is part of the instruction to save each incremental image with a date and time filename. Each is a named variable populated earlier in the process, and it is a raspian OS script that runs everything. The gallery below shows the Pi cam and product images which can be inlarged. Afterward, I'll provide step by step instructions I followed to set it up and full code examples.
 
 ---
@@ -88,13 +89,44 @@ I took notes, but it is taking me a bit to decipher them and put things in a log
 
 ### Hardware
 
+I started with a Raspberry Pi Zero W, a 32 GB micro-SD card, power supply, Arducam 16 MP autofocus IMX519, ribbon cable (standard to small as required by the Zero models of Pis.
 
 ### Software
 
+1. Obtain the OS
+	- download Raspbian OS to any computer's HD from here: https://www.raspberrypi.com/software/operating-systems/
+	- I chose Raspberry Pi OS (Legacy) Lite aka "bullseye"
+	- Arducam claims bullseye has appropriate drivers, while newer "bookworm" does not - or did not for me.
+2. Install the OS
+	- use Balena Etcher to copy the OS image from the downloaded file onto your micro-SD card, inserted into your Windows computer.
+3. Assemble the Pi
+	- connect the HDMI adapter, monitor, USB adapter, and keyboard. Insert the micro SD card, then plug in the Pi. You should see text flying up the screen.
+4. Configure the OS
+	- you will be prompted to set the username and password	
+	- configure location and networking.
+		type: sudo raspi-config
+		select Localisation options menu and choose your country code.  en_US.UTF-8
+	- Networking (wifi) setup instructions can be found here:
+	https://www.raspberrypi.com/documentation/computers/configuration.html#configuring-networking
+
+	or, type: sudo raspi-config
+	go to System Options, Wireless LAN.
+	- select country code US
+	- also specify your time zone ( US Central)
+	- enter the SSID of your wireless network, then enter the password.
+	- test wireless connectivity; ping a valid website.
+	- enable SSH  https://www.raspberrypi.com/documentation/computers/remote-access.html#ssh
+		- Interface Options, SSH enable.
+
+5. Determine the IP of the Pi. Login to your router's control panel and search device list for "raspberrypi".
+192.168.1.127
+
+6. Test connection by SSH using Putty terminal emulator (if using a Windows computer.) Login with your username/password. If this works you can run the Pi "headless", without connection to a monitor and keyboard. You access it by SSH via the Putty application.
+This has the advantage of being able to copy commands and scripts from one window and pasting them into Putty to execute on the Pi, rather than tediously retyping long script commands.
 
 ### Code
 
-
+Content pending...
 
 ---
 

@@ -99,6 +99,7 @@ Weekend 5 tasks included some sanding and dry fitting the frame pieces together.
 
 ![gluing strips](/images/hobby/paddling/sup/scarf-joint-strips_04-800.jpg)
 
+Turns out I botched my epoxy mix - despite having plenty of experience building three stitch-n-glue kayaks - and none of it set up overnight. Splicing the paulownia strips will be a total redo next weekend.
 
 ---
 
