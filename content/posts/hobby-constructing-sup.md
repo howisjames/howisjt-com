@@ -29,6 +29,12 @@ I chose Jarvis Boards' 11'-4" long **San Marcos** model as it seemed geared towa
 - **Paulownia** is the lumber of choice for the skin of the paddleboard. Paulownia is described as being the second lightest weight commercially available wood next to balsa, and it is much stronger. Originating in Asia, Paulownia is grown commercially in tree farms worldwide and is purported to be a sustainable product. I shopped around several specialty lumber yards in my area but could not find Paulownia. My best local option was Western Red Cedar lumber. Thankfully, Jarvis Boards decided to shift their warehousing operations and rather than move it they deeply discounted their remaining stock of Paulownia lumber so I jumped at the opportunity to purchase from them.
 - The **glue** recommended by Jarvis (and some other builders) is a polyurethane glue such as Gorilla &trade; glue because it is strong, fast drying, and foams up to fill voids within bonds. Others recommend Polyvinyl Acetate (PVA) which is what most folks recognize as standard wood glue. A hot glue gun is recommended for certain steps in construction where an immediate bond is needed and that can be cut or melted apart at a future step in the process. So, I'll probably use each of these, in addition to occasional epoxy mixed with a wood flour thickener.
 
+## Cost
+
+I'm keeping track of costs to build this on a [Google sheet](https://docs.google.com/spreadsheets/d/1gAOBM_yaMBiJ-jSxOKjTAU5LB76KTCxHlsrV34FWCiw/edit?usp=sharing)
+
+Surplus materials from my kayak(s) building project is the whole reason I undertook this SUP build. I had over a gallon of extra epoxy resin, some fiberglass cloth, various fillers and thickeners for epoxy, and tools. I thought I could build it very cheap using marine plywood, but decided to go with paulownia strip build technique when I compared costs, considered weight and studied plans.
+
 ---
 
 ## Weekend #1
