@@ -1,8 +1,8 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-015-03T19:00:52-06:00
-cover: "/images/cards/paddleboard-construction-card.jpg"
+lastmod: 2024-03-07T19:00:52-06:00
+cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
 tags: ["paddlesports", "woodworking"]
@@ -19,7 +19,7 @@ Having successfully built [three recreational kayaks](https://stitchnglue.howisj
 
 I spent about a year researching various plans - free and paid - and techniques for wooden board building. I learned what I could from reading and watching videos. As a kid I've surfed in the Atlantic and in lakes behind boats, but I've never used a stand-up paddleboard. How hard could it be? It's all about balance, right? The designs offered by [Jarvis Boards](https://jarvisboards.com/) of Austin appealed to me so I took advantage of a really good Black Friday sale and purchased the printed roll plans (which my sons gave to me as a Christmas gift.) I also purchased Jarvis' kit of plastic parts (deck lashing plugs and fin box) at the same time as it also was deeply discounted.
 
-I chose Jarvis Boards' 11'-4" long **San Marcos** model as it seemed geared towards casual users and offers stability. In my mind's eye I could see me and my dog paddling around the lake. He loves riding in our canoe, but can't fit in or on the kayaks and feels left out.
+I chose Jarvis Boards' 11'-4" long **San Marcos** model as it seemed geared towards casual users and offers stability. In my mind's eye I could see me and my dog paddling around a lake. He loves riding in our canoe, but can't fit in or on the kayaks and he's left out.
 
 ## Materials
 
@@ -33,7 +33,7 @@ I chose Jarvis Boards' 11'-4" long **San Marcos** model as it seemed geared towa
 
 I'm keeping track of costs to build this on a [Google sheet](https://docs.google.com/spreadsheets/d/1gAOBM_yaMBiJ-jSxOKjTAU5LB76KTCxHlsrV34FWCiw/edit?usp=sharing)
 
-Surplus materials from my kayak(s) building project is the whole reason I undertook this SUP build. I had over a gallon of extra epoxy resin, some fiberglass cloth, various fillers and thickeners for epoxy, and tools. I thought I could build it very cheap using marine plywood, but decided to go with paulownia strip build technique when I compared costs, considered weight and studied plans.
+Surplus materials from my kayak(s) building project is the whole reason I undertook this SUP build. I thought about a 4th kayak, but decided we might enjoy a stand up paddleboard. I thought I could build it very cheaply using Meranti plywood, but decided to go with paulownia strip build technique when I compared costs, considered weight and studied plans. Because of the size the board weights start at 40 lbs and increase depending on materials and technique used. I'll now journal about my build process.
 
 ---
 
@@ -107,9 +107,18 @@ Weekend 5 tasks included some sanding and dry fitting the frame pieces together.
 
 Turns out I botched my epoxy mix - despite having plenty of experience building three stitch-n-glue kayaks - and none of it set up overnight. Splicing the paulownia strips will be a total redo next weekend.
 
+## Weekend #6
+
+It started out rainy again, so my work had to take place within my carport storage room. Anticipated tasks are to:
+
+1) Coat the frame pieces with epoxy resin. This is to provide some waterproofing recommended by other builders, though not by Jarvis. 
+2) Re-glue the Paulownia strips' scarf joints. Since they're fouled with uncured epoxy I'll have to recut them to get to bare wood again. This time I'm using polyurethane glue.
+3) Mark out pencil lines on strongback table in preparation for frame assembly and glue-down.
+
+
 ---
 
-## Project Thumbnail Gallery
+## Project Images
 
 Photos from my SUP project are presented in a gallery format below. Click any thumbnail for an enlarged version.
 
