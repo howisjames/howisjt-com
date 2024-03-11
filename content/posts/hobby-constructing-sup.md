@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-03-07T19:00:52-06:00
+lastmod: 2024-03-10T19:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -56,24 +56,24 @@ Jarvis' plans come only as patterns with absolutely no instructions. I watched e
 
 ![Edge matching patterns](/images/hobby/paddling/sup/gallery/0005-edge-matching-patterns.jpg)
 
-During my kayak build I learned about the benefits of a scarf joint (depicted below) and I am determined to join these longitudinal frame pieces with scarf joints rather than with butt block joints, which was depicted in all of the paddleboard construction videos I viewed. The butt blocks add unnecessary weight. The scarf joint is essentially a pair of matched wedges of wood with a large shared surface area between them to accept glue, making a strong joint.
+During my kayak build I learned about the benefits of a scarf joint (depicted below) and I am determined to join these longitudinal frame pieces with scarf joints rather than with butt block joints, which was described in all of the paddleboard construction videos I viewed. The butt block is quick and easy, but adds unnecessary weight. The scarf joint is essentially a pair of matched wedges of wood with a large shared surface area between them to accept glue, making a strong joint.
 
 ![woodworking scarf joint drawing](/images/hobby/paddling/sup/woodworking-joint-scarf.gif)
 
-To accommodate the length required for the joints, I measured and added 3/4" to the length of each of the pieces, sketching it on the pattern sheet with a pencil. Original outlines of the components were maintained so I'll be able to confirm the final overall length is correct. When building my kayaks, the scarf joints were across 2' wide plywood sheets prior to cutting out the hull shapes. I cut these scarfs using a circular saw and a wooden jig to hold the saw at an acute angle, then cleaned them up with a block plane. [See related blog post.](https://stitchnglue.howisjt.com/blog/2021-02c/) For these paddleboard frame members I'll just use a block plane and perhaps a belt sander. 
+To accommodate the length required for the joints, I measured and added 3/4" to the length of each of the pieces, sketching it on the pattern sheet with a pencil. Original outlines of the components were maintained so I'll be able to confirm the final overall length is correct. When building my kayaks, the scarf joints were across 2' wide plywood sheets prior to cutting out the hull shapes. I cut these scarfs using a circular saw and a wooden jig to hold the saw at an acute angle, then cleaned them up with a block plane. [See related blog post.](https://stitchnglue.howisjt.com/blog/2021-02c/) For these paddleboard frame members I'll use a belt sander. 
 
 >NOTE: I decided to go with 1" scarf joints and so have reduced the added length to just 1/2" rather than 3/4".
 
 
 ### Start Cutting
 
-It seems other scratch builders cut out the voids in the structural members using a jigsaw. I decided to use my hole saw set with a drill in hopes of gaining some precision and maybe some speed. I did have some problems with the hole saw blowing out the material on the underside of the plywood stock, so I learned to go slower and apply less pressure as the drill turned the saw. I'll fill these blowouts with thickened epoxy to ensure structural stability of the frame piece.
+It seems other scratch builders cut out the voids in the structural members using a jigsaw. I decided to use my hole saw set with a drill in hopes of gaining some precision and maybe some speed. I did have some problems with the hole saw blowing out the material on the underside of the plywood stock, so I learned to go slower and apply less pressure as the drill turned the blade. I filled these blowouts with thickened epoxy to ensure structural stability of the frame piece.
 
 ![Cutting voids with hole saw](/images/hobby/paddling/sup/gallery/0006-cutting-voids.jpg)
 
-Comparing Jarvis' plans with those of other paddleboards, the Jarvis plans are conservative in removing less material from the cross members. I took some license in determining how large to make the voids, using the closest sized hole saw. In some cross members (which are not beneath the load bearing area of the finished board where one stands) I removed extra material by drilling additional holes with a smaller blade. Again, the purpose in removing extra material is to reduce weight by creating more and larger voids in the plywood frames. According to Jarvis Boards, the target weight for this San Marcos board is 42 lbs. Other builders on the Facebook group have bragged about less and complained about more weight. It has made me weight conscious now at the beginning of the project when I'm able to do something about it.
+Comparing Jarvis' plans with those of other paddleboards, the Jarvis plans are conservative in removing less material from the cross members. I took some license in determining how large to make the voids, using the closest sized hole saw. In some cross members (which are not beneath the load bearing area of the finished board where one stands) I removed extra material by drilling additional holes with a smaller blade. Again, the purpose in removing extra material is to reduce weight by creating more and larger voids in the plywood frames. According to Jarvis Boards, the target weight for this 11'-6" San Marcos board is 42 lbs. Other builders on the Facebook group have both bragged about less and also complained about excess weight. These remarks have made me weight conscious at the beginning of the project when I'm able to do something about it.
 
-During this first weekend working on the project I completed cutting out all of the voids, but did not start cutting out the frame components.
+During this first weekend working on the project I completed cutting out all of the voids, but did not begin cutting out the frame components.
 
 ---
 
@@ -97,23 +97,27 @@ This was the weekend to join the central spine of the board's frame and the edge
 
 ## Weekend #5
 
-Weekend 5 tasks included some sanding and dry fitting the frame pieces together. I drew a center line down the strongback table. Scarf joints were cut on over a dozen strips and I began gluing them together. I revisited the [video tutorials](https://www.youtube.com/@jarvisboards/playlists) to ensure I understood the next steps for coming weekends and had all necessary materials.
+Weekend 5 tasks included some sanding and dry fitting the frame pieces together. I poped a center line down the strongback table with a chaulk line. Scarf joints were cut on over a dozen strips and I began gluing them together. I revisited the [video tutorials](https://www.youtube.com/@jarvisboards/playlists) to ensure I understood the next steps for coming weekends and had all necessary materials.
 
 ![dry fit frame](/images/hobby/paddling/sup/dri-fit-frame_02-800.jpg)
 
-![glued strip scarfs](/images/hobby/paddling/sup/scarf-joint-strips_02-800.jpg)
+![glued strip scarfs](/images/hobby/paddling/sup/scarf-joint-strips_fail1.jpg)
 
-![gluing strips](/images/hobby/paddling/sup/scarf-joint-strips_04-800.jpg)
-
-Turns out I botched my epoxy mix - despite having plenty of experience building three stitch-n-glue kayaks - and none of it set up overnight. Splicing the paulownia strips will be a total redo next weekend.
+Turns out I botched my epoxy mix - despite having plenty of experience building three stitch-n-glue kayaks - and it didn't set up overnight. Splicing together the paulownia strips will be a total redo next weekend. It is just as well. In hindsight, the epoxy thickened with wood flour is way too dark and I'd never hide that on the finished board. I'll use regular wood glue on future attempts. But watching a video series by [Jenkins Boatworks](https://youtube.com/playlist?list=PLcTGtF1c_Bt7xQ6TQSWx4chD8N35SuRIT&si=DkS4WKLy6gF-F72N) clued me in to the possibility of blending wood flour and silica thickening agents into the epoxy resin to produce a lighter colored paste.
 
 ## Weekend #6
 
-It started out rainy again, so my work had to take place within my carport storage room. Anticipated tasks are to:
+It started out rainy but the weather improved over the weekend. I accomplished the following tasks:
 
 1) Coat the frame pieces with epoxy resin. This is to provide some waterproofing recommended by other builders, though not by Jarvis. 
-2) Re-glue the Paulownia strips' scarf joints. Since they're fouled with uncured epoxy I'll have to recut them to get to bare wood again. This time I'm using polyurethane glue.
-3) Mark out pencil lines on strongback table in preparation for frame assembly and glue-down.
+2) Re-glue the Paulownia strips' scarf joints. Since they're fouled with uncured epoxy I'll have to recut them to get to bare wood again. This time I'm using Gorilla &trade; wood glue.
+
+**Mid-week Tasks**
+
+1) Continue gluing Paulownia strip segments together, two at a time.
+2) Mark pencil lines for SUP frame rib positions (perpendicular to center line) on strongback table.
+3) Frame assembly and glue-down to table.
+4) Align and glue down center strip using contrasting colored wood (mahogany.)
 
 
 ---
