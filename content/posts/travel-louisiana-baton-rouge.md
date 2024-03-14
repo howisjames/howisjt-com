@@ -1,7 +1,7 @@
 ---
 title: Baton Rouge Sights
 date: 2019-01-04T19:00:52-06:00
-lastmod: 2022-08-21T19:00:52-06:00
+lastmod: 2024-03-12T19:00:52-06:00
 cover: "/images/cards/baton-rouge-640x420.jpg"
 draft: false
 categories: 
@@ -101,16 +101,16 @@ The second subdivision of Baton Rouge (1806) was featured in an exhibit at LSU's
 ![Plat of Beauregard Town](/images/travel/batonrouge/Beauregard_Town_plat-1806_tn.jpg)
 At the presentation I learned from librarian and exhibit producer Mark Martin that controversy surrounded these initial land offering because lots began selling before the land surveyor completed his work, so folks were showing up by riverboat in Baton Rouge with a drawing in hand and were not able to definitively see their purchase in the field. Evidently the surveyor was never paid, didn't finish his work, and Louisiana's very first real estate related lawsuit occurred right here in Baton Rouge. The case remained unresolved until the United States took control of the area as the Louisiana Territory at which time the suit involving a Spanish land grant was simply dropped.
 ![Lots for sale! Baton Rouge - circa 1806](/images/travel/batonrouge/lots-for-sale-1806-Beauregardtown.jpg)
-Beauregard Town was developed as a higher class neighborhood than Spanishtown to the north, and it has four diagonal streets meeting at a central green which was supposed to contain a cathedral. The opposite ends of the diagonals were to terminate at significant public buildings at the four corners of the subdivision. Well, the green is long gone, (now occupied by a McDonald's and other businesses), but the diagonal streets remain a unique feature of this neighborhood, portions of which were destroyed by bombardment from river gunboats during the Civil War. An informative history of this neighborhood is here:
+Beauregard Town was developed as a higher class neighborhood than Spanishtown to the north, and it has four diagonal streets meeting at a central square which was supposed to contain a cathedral. The opposite ends of the diagonals were each to terminate at significant public buildings at the four corners of the subdivision. Well, the central square never materialized,(it is occupied by the Bogan Fire Station and Wesley United Methodist Church,) but the diagonal streets remain a unique feature of this neighborhood, portions of which were destroyed by bombardment from river gunboats during the Civil War. An informative history of this neighborhood is here:
 
 https://www.livingplaces.com/LA/East_Baton_Rouge_Parish/Baton_Rouge_City/Beauregard_Town.html
 
-Richard Campanella, author and geography professor at the Tulane School of Architecture, has produced a video exploring the baroque origins of Beauregard Town. The video is posted on the 64 Parishes website at the link below.
+And Richard Campanella, author and geography professor at the Tulane School of Architecture, produced a video exploring the baroque origins of Beauregard Town. The video is posted on the 64 Parishes website at the link below.
 
 https://64parishes.org/grandeur-on-government-street-video
 
 ### Southern University
-Admittedly I have no connection to SU, but I've visited the campus several times for work-related meetings and also simply sightseeing from the bluff. They've got some great athletics at Southern, and the marching band - the "human jukebox" - is a feast for the senses, making two appearances in the Tournament of Roses Parade in Pasadena. For sightseeing, the SU campus (1914) sits atop Scott's Bluff offering spectacular views of the Mississippi River as it flows around the bend to the Baton Rouge Reach. It's an enjoyable place to rest as you sit beneath shade trees.
+Admittedly I have no connection to SU, but I've visited the campus several times for work-related meetings and also simply sightseeing from the bluff. They've got some great athletics at Southern, and the marching band - the "human jukebox" - is a feast for the senses, even making two appearances in the Tournament of Roses Parade in Pasadena. For sightseeing, the SU campus (1914) sits atop Scott's Bluff offering spectacular views of the Mississippi River as it flows around the bend to the Baton Rouge Reach. It's an enjoyable place to rest as you sit beneath shade trees. 
 
 
 ## Parks
