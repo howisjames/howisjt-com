@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-03-10T19:00:52-06:00
+lastmod: 2024-03-17T19:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -25,7 +25,7 @@ I chose Jarvis Boards' 11'-4" long **San Marcos** model as it seemed geared towa
 
 - I had plenty of left over [Raka](https://raka.com/) brand **epoxy resin and hardener** from my kayak builds.
 - Although I haven't unrolled it, I'm pretty sure I have enough **4 oz fiberglass cloth** to fully encase the board.
-- Okoume marine-grade **plywood** is the material of choice for the framing members, but since it is not available locally I elected to go with a sheet of 5 mm [RevolutionPly]() from my local Lowes store. Comprised primarily of Poplar, RevolutionPly is purported to be more "green" and sustainable than tropical woods such as Okoume, Meranti or Luan. Also, Revolution is a fraction of the cost. So far while working with the plywood I've encountered no knots or voids. Since the framing members remain straight and are not twisted or contorted within the board this bending strength of the plywood was not a concern as it would be for a stitch-n-glue kayak hull or deck. 
+- Okoume marine-grade **plywood** is the material of choice for the framing members, but since it is not available locally I elected to go with a sheet of 5 mm [RevolutionPly](https://www.patriottimber.com/RevolutionPly-Plywood.php) from my local Lowes store. Comprised primarily of Poplar, RevolutionPly is purported to be more "green" and sustainable than tropical woods such as Okoume, Meranti or Luan. Also, Revolution is a fraction of the cost. So far while working with the plywood I've encountered no knots or voids. Since the framing members remain straight and are not twisted or contorted within the board this bending strength of the plywood was not a concern as it would be for a stitch-n-glue kayak hull or deck. 
 - **Paulownia** is the lumber of choice for the skin of the paddleboard. Paulownia is described as being the second lightest weight commercially available wood next to balsa, and it is much stronger. Originating in Asia, Paulownia is grown commercially in tree farms worldwide and is purported to be a sustainable product. I shopped around several specialty lumber yards in my area but could not find Paulownia. My best local option was Western Red Cedar lumber. Thankfully, Jarvis Boards decided to shift their warehousing operations and rather than move it they deeply discounted their remaining stock of Paulownia lumber so I jumped at the opportunity to purchase from them.
 - The **glue** recommended by Jarvis (and some other builders) is a polyurethane glue such as Gorilla &trade; glue because it is strong, fast drying, and foams up to fill voids within bonds. Others recommend Polyvinyl Acetate (PVA) which is what most folks recognize as standard wood glue. A hot glue gun is recommended for certain steps in construction where an immediate bond is needed and that can be cut or melted apart at a future step in the process. So, I'll probably use each of these, in addition to occasional epoxy mixed with a wood flour thickener.
 
@@ -118,6 +118,13 @@ It started out rainy but the weather improved over the weekend. I accomplished t
 2) Mark pencil lines for SUP frame rib positions (perpendicular to center line) on strongback table.
 3) Frame assembly and glue-down to table.
 4) Align and glue down center strip using contrasting colored wood (mahogany.)
+
+## Weekend #7
+
+I suspect that assembling precise CNC-cut frame pieces would be easier than working with components hand cut from paper plans. In my case, affixing the side rails to the ribs was a bit slow because of the additional sanding and carving with a utility knife required to get things to fit. Eventually they did fit and I got the rails and the very first stip (center, bottom) glued on using Gorilla &trade; Ultimate wood glue. Various clamps and twisted plastic wrap were used to hold things in place overnight.
+
+
+![side rails and 1st center stip attached](/images/hobby/paddling/sup/0030-center-strip-attached-rear_600px.jpg)
 
 
 ---
