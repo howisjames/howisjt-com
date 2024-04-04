@@ -10,16 +10,16 @@ description: Discovering the beaches and history of the island
 
 ---
 
-![View of church steeple, rooftops and Gulf in the distance.](/images/travel/galveston/galveston-480x319.jpg#floatright)Our family spring trip this year will be to Galveston, Texas for Easter weekend. This is roughly a 5-hour drive from home, so we hope to get two full days, three nights, and two half-days of fun out of the trip. This will be our first pleasure trip into Texas as a family. We found an Air B&B cottage next to Galveston's "Silk Stocking" district. The rental is pet-friendly and has a fenced backyard so our dog Woody will travel with us. I think he will love exploring nearby Kempner Park just two blocks away. Our accomodations will put us halfway between the beach and the historic downtown and seaport. Considering the city's maritime past, there are lots of connections to New Orleans and south Louisiana. We expect some things will be familiar, but hope to find many others new and interesting.
+![View of church steeple, rooftops and Gulf in the distance.](/images/travel/galveston/galveston-480x319.jpg#floatright)Our family spring trip this year will be to Galveston, Texas for Easter weekend. This is roughly a 5-hour drive from home, so we hope to get two full days, three nights, and two half-days of fun out of the trip. This will be our first pleasure trip into Texas as a family. We found an Air B&B cottage next to Galveston's "Silk Stocking" district. The rental is pet-friendly and has a fenced backyard so our dog Woody will travel with us. I think he will love exploring nearby Kempner Park just two blocks away. Our accommodations will put us halfway between the beach and the historic downtown and seaport. Considering the city's maritime past, there are lots of connections to New Orleans and south Louisiana. We expect some things will be familiar, but hope to find many others new and interesting.
 
 ## Trip Prep
 
-Once we settled on Galveston as our destination, I started searching for library books, reading travel blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accomodations, I built a web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet, as I've created for previous trips to [Nassau Bahamas]({{< relref "travel-bahamas-nassau.md" >}}), to [Burnsville NC]({{< relref "travel-burnsville.md" >}}), and a wish list of [campgrounds in Texas]({{< relref "travel-texas-camping.md" >}}). I like these maps because they are geographically specific, enabling us to make efficient use of our vacation time. The information is always available on our cellphones and we can share with friends and family. By now you've guessed that as an urban planner I like learning about the history of places and people.
+Once we settled on Galveston as our destination, I started searching for library books, reading travel blogs, and listening to Galveston-related podcasts. I found some real jewels which I'll share here. Using these resources, and after reserving our accommodations, I built a web-map of attractions we may wish to see during our stay. The points on this map are pulled from a Google Sheet, as I've created for previous trips to [Nassau Bahamas]({{< relref "travel-bahamas-nassau.md" >}}), to [Burnsville NC]({{< relref "travel-burnsville.md" >}}), and a wish list of [campgrounds in Texas]({{< relref "travel-texas-camping.md" >}}). I like these maps because they are geographically specific, enabling us to make efficient use of our vacation time. The information is always available on our cellphones and we can share with friends and family. By now you've guessed that as an urban planner I like learning about the history of places and people.
 
 **View my [Interactive Map](https://howisjames.github.io/maps/galveston/)**
 
 > __LEGEND__
-> - **Red** = our accomodatins
+> - **Red** = our accommodations
 > - **Blue** = historic or cultural attraction
 > - **Green** = park or outdoor attraction
 > - **Orange** = eateries
@@ -40,31 +40,51 @@ I searched my local library system here in Louisiana, but despite Galveston's pr
 
 ## Getting Around
 
-Our accommodations are two blocks from the [trolley line](https://www.galvestontx.gov/1209/Trolleys) on Rosenberg Ave. (25th Street) which links us both to the seawall beach at Pleasure Pier and also to The Strand and Seaport area downtown. A second trolley route runs for miles up and down Seawall Blvd. I doubt the trolleys will be dog-friendly, so we'll likely be driving everywhere.
+Our accommodations are two blocks from the [trolley line](https://www.galvestontx.gov/1209/Trolleys) on Rosenberg Ave. (25th Street) which links us both to the seawall beach at Pleasure Pier and also to The Strand and Seaport area downtown. A second trolley route runs for miles up and down Seawall Blvd. I doubt the trolleys will be dog-friendly, so we'll likely be driving everywhere. Regrettably, we did not get an opportunity to ride the trolly.
 
 ---
 
 # Trip Recap
 
-During and following our trip a selection of interesting notes and photos will be posted below. I'll "pencil in" an outline to make it easier for me to post content on the go.
+All agreed that our family trip to Galveston was terrific. The lodging was wonderful in comfort, cleanliness, peacefulness and in location. The weather was what should be expected in spring: not hot, but generally overcast and windy. Fortunately our intent was to experience the area's architecture, culture, history, food...and sure, to walk on the beach a bit. We achieved all of these things, wishing we had time for more.
 
 ### The Air B&B House
 
-![Our Air B&B](/images/travel/galveston/google-street-view-320px.jpg#floatright) How were our accomodations?
+![Our Air B&B](/images/travel/galveston/google-street-view-320px.jpg#floatright) Our recently renovated Air B&B cottage was perfect for us. Master bedroom was spacious and comfortable. Fold-put beds for the boys were adequate, not a "real" mattress but still better than the old pull-out sofa. Kitchen and baths were clean and adequately stocked. Fenced yard was great for our dog, and the host did not impose an additional pet fee. We enjoyed meals at the backyard table and played cornhole. There is a gas grill, but we didn't get a chance to use it. Televisions were of course there, but there was no subscription programming (one was connected to an OTA antenna for poor reception of a few local channels.) I recommend guests bring a TV streaming stick or connect a laptop via HDMI as we did to utilize our own streaming service accounts.
+
+![Silk Stocking District Home](/images/travel/galveston/gallery/2024-03_galveston_03-silk-stocking-thumb.jpg)
+Our lodging was just one block west of the Silk Stocking District featuring a collection of historic and ritzy homes, and also near the high school football stadium, Kepner Park and two icons of community history the first "colored high school" and what is believed to be the first AME Church in the state. Walks with my dog around the neighborhood and to the park and back were scenic and enjoyable.
 
 ### Galveston Beach
 
-Impressions of Seawall Beach, East End, and any other beach areas we visit.
+We visited Seawall Beach briefly on several days. The weather was sunny and warmest on our arrival day and the beach was active with people though not crowded. Parallel parking along the seawall requires hourly payment via app. Some free parking exists in parallel spaces across the street, but surface lots are paid parking also. We enjoyed walking along the beach and out onto the rock groins, and we dipped our toes into the water but being late March it was still quite cold. Cloud cover was prevalant on subsequent days and the wind picked up even more so beach activities were curtailed.
+
+![Pleasure Pier](/images/travel/galveston/gallery/2024-03_galveston_08-pleasure-pier-thumb.jpg)
+We did enjoy(?) Pleasure Pier for several hours on our second day in Galveston. The boys enjoyed many of the rides, dad rode a few (too many), and we all got soaked riding the log flume on our last ride. We walked home wet. 
 
 ### Historic Downtown
 
-Impressions of Galveston's historic downtown.
+Walking, window shopping and eating at a restaurant in **The Strand** downtown area was enjoyed by all of us. The architecture and historic markers were beautiful and interesting, highlighting the street's history as "the Wall Street of the Southwest." Views of Galveston harbor included the *Mosquito Fleet* of shrimp boats from our patio table at Katie's Seafood restaurant. We saw dolphins swimming through the harbor and sculpture along our walk. The boys especially enjoyed the free arcade upstairs of the axe throwing establishment. Playing most of the games really was free! Lunch one day at the outdoor Brewchachos Tex-Mex restaurant was fun and delicious, though quite spicy.
+
+![The Strand historic building](/images/travel/galveston/gallery/2024-03_galveston_17-hutchings-sealy-bldg-thumb.jpg)
+
+On subsequent days we did more walking downtown and driving through the **East End Historic District** enjoying the views of grand historic homes. Most of the churches in downtown Galveston were spectacular also. Of particular note were the multiple buildings designed by noted architect **[Nicholas Clayton](https://en.wikipedia.org/wiki/Nicholas_J._Clayton)** including "Old Red" medical college, First Presbyterian, Bishop's Palace, St. Patrick's Catholic, Hutchings & Sealy Buildings, and many others.
+
+The only "museum" we got to visit was the free exhibits on the top floor of the public library. They were quite interesting, recapping the devastation of the 1900 hurricane and showcasing area politicians and socialites. My wife and I toured this Saturday morning as our sons continued to sleep... I hated that we missed the **Bryan Museum** of Texas History, but it is closed Mondays and Tuesdays, and of course Easter Sunday. 
+
 
 ### Bolivar Ferry
 
-I'm hoping either to arrive or depart via the Bolivar Peninsula, which allows us to cross the ship channel on the free Bolivar auto ferry.
+![Bolivar ferry](/images/travel/galveston/gallery/2024-03_galveston_00-bolivar-ferry-thumb.jpg#floatright)We exited I-10 at Winnie and proceeded down to the coast to enjoy the scenic drive down the Bolivar Peninsula through Crystal Beach to the ferry. Though windy, at least the day was mostly sunny and we enjoyed the ferry ride (no toll either direction) across the ship channel to Galveston. This was a first for our sons. On the return trip home we stuck to the mainland route which saved about 30 minutes though tolls were incurred.
 
 ### The Food
 
-We're pretty spoiled with good food here at home in south Louisiana. I wonder how Galveston's restaurants will compare?
+Seafood was enjoyed twice (at Shrimp N Stuff and Katie's) and Tex-Mex once during our holiday in Galveston. The Air B&B's kitchen allowed us to enjoy a leisure breakfast each morning. We purchased some steaks at the Kroger intending to grill them in "our" backyard, but ended up eating such a large and late lunch that day that we simply weren't hungry so the steaks came home with us in the cooler.
 
+![Kepner Park](/images/travel/galveston/gallery/2024-03_galveston_07-garten-verein-thumb.jpg#floatright)One afternoon mom crafted a delicious charcuterie board of cold-cuts, cheeses, crackers and fruit which were purchased at Kroger. We carried this with us as we walked two blocks to Kepner Park where we dined on a picnic table under the shady oaks and played cards. Our dog of course joined us and was well behaved, though he did keep an eye on some squirrels and noisy grackles. 
+
+## Gallery
+
+The above and additional photos from our trip are provided in the gallery format below where you can click to enlarge and zoom in.
+
+{{< foldergallery src="images/travel/galveston/gallery" >}}
