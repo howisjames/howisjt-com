@@ -1,7 +1,7 @@
 ---
 title: Easter in Galveston
 date: 2024-02-23T19:00:52-06:00
-lastmod: 2024-02-24T19:00:52-06:00
+lastmod: 2024-03-23T19:00:52-06:00
 cover: "/images/cards/galveston-640-425.jpg"
 draft: false
 categories: ["travel"]
@@ -60,7 +60,7 @@ Our lodging was just one block west of the Silk Stocking District featuring a co
 We visited Seawall Beach briefly on several days. The weather was sunny and warmest on our arrival day and the beach was active with people though not crowded. Parallel parking along the seawall requires hourly payment via app. Some free parking exists in parallel spaces across the street, but surface lots are paid parking also. We enjoyed walking along the beach and out onto the rock groins, and we dipped our toes into the water but being late March it was still quite cold. Cloud cover was prevalant on subsequent days and the wind picked up even more so beach activities were curtailed.
 
 ![Pleasure Pier](/images/travel/galveston/gallery/2024-03_galveston_08-pleasure-pier-thumb.jpg)
-We did enjoy(?) Pleasure Pier for several hours on our second day in Galveston. The boys enjoyed many of the rides, dad rode a few (too many), and we all got soaked riding the log flume on our last ride. We walked home wet. 
+We did enjoy Pleasure Pier for several hours on our second day in Galveston. The boys enjoyed many of the rides, dad rode a few (too many), and we all got soaked riding the log flume on our last ride. We walked home wet. I did ride the Texas Star Flyer which swings riders around 200 feet in the air. I was fine while it was rotating slowly, but as it sped up and centrifugal forces came into play old dad got uncomfortable, a feeling made worse when I looked down to see the top of the Ferris wheel...
 
 ### Historic Downtown
 
@@ -75,13 +75,14 @@ The only "museum" we got to visit was the free exhibits on the top floor of the 
 
 ### Bolivar Ferry
 
-![Bolivar ferry](/images/travel/galveston/gallery/2024-03_galveston_00-bolivar-ferry-thumb.jpg#floatright)We exited I-10 at Winnie and proceeded down to the coast to enjoy the scenic drive down the Bolivar Peninsula through Crystal Beach to the ferry. Though windy, at least the day was mostly sunny and we enjoyed the ferry ride (no toll either direction) across the ship channel to Galveston. This was a first for our sons. On the return trip home we stuck to the mainland route which saved about 30 minutes though tolls were incurred.
+![Bolivar ferry](/images/travel/galveston/gallery/2024-03_galveston_00-bolivar-ferry-thumb.jpg)We exited I-10 at Winnie and proceeded down to the coast to enjoy the scenic drive down the Bolivar Peninsula through Crystal Beach to the ferry. Though windy, at least the day was mostly sunny and we enjoyed the ferry ride (no toll either direction) across the ship channel to Galveston. This was a first for our sons. On the return trip home we stuck to the mainland route which saved about 30 minutes though tolls were incurred.
 
 ### The Food
 
 Seafood was enjoyed twice (at Shrimp N Stuff and Katie's) and Tex-Mex once during our holiday in Galveston. The Air B&B's kitchen allowed us to enjoy a leisure breakfast each morning. We purchased some steaks at the Kroger intending to grill them in "our" backyard, but ended up eating such a large and late lunch that day that we simply weren't hungry so the steaks came home with us in the cooler.
 
-![Kepner Park](/images/travel/galveston/gallery/2024-03_galveston_07-garten-verein-thumb.jpg#floatright)One afternoon mom crafted a delicious charcuterie board of cold-cuts, cheeses, crackers and fruit which were purchased at Kroger. We carried this with us as we walked two blocks to Kepner Park where we dined on a picnic table under the shady oaks and played cards. Our dog of course joined us and was well behaved, though he did keep an eye on some squirrels and noisy grackles. 
+![Kepner Park](/images/travel/galveston/gallery/2024-03_galveston_07-garten-verein-thumb.jpg)
+One afternoon mom crafted a delicious charcuterie board of cold-cuts, cheeses, crackers and fruit which were purchased at Kroger. We carried this with us as we walked two blocks to Kepner Park where we dined on a picnic table under the shady oaks and played cards. Our dog of course joined us and was well behaved, though he did keep an eye on some squirrels and noisy grackles. 
 
 ## Gallery
 
