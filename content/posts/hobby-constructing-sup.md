@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-03-17T19:00:52-06:00
+lastmod: 2024-04-06T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -126,6 +126,11 @@ I suspect that assembling precise CNC-cut frame pieces would be easier than work
 
 ![side rails and 1st center stip attached](/images/hobby/paddling/sup/0030-center-strip-attached-rear_600px.jpg)
 
+## Weekends #8 - #10
+
+Following a break from working on the project during the Easter weekend, I've resumed splicing together 5' strips to make long 12 foot strips and gluing them to the bottom of the paddleboard frame. For me this is a slow process as I'm only able to glue two strips on per day - one in the morning and a second in the evening. Of course some days life or work prevents me from keeping up this schedule. At the end of this weekend (April 6 & 7) I will have glued 19 strips, leaving I predict 6 more pairs of strips to complete the bottom. I anticipate gluing the last strip to the bottom next Sunday night.
+
+![progress of stripping the board](/images/hobby/paddling/sup/2024-04-06_paddleboard-strips_600px.jpg)
 
 ---
 

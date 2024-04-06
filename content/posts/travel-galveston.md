@@ -1,7 +1,7 @@
 ---
 title: Easter in Galveston
 date: 2024-02-23T19:00:52-06:00
-lastmod: 2024-03-23T19:00:52-06:00
+lastmod: 2024-04-05T19:00:52-06:00
 cover: "/images/cards/galveston-640-425.jpg"
 draft: false
 categories: ["travel"]
@@ -44,10 +44,7 @@ Our accommodations are two blocks from the [trolley line](https://www.galvestont
 
 ---
 
-So how did our trip go?
-
-
-# Trip Recap
+## Trip Recap
 
 All agreed that our family trip to Galveston was terrific. The lodging was wonderful in comfort, cleanliness, peacefulness and in location. The weather was what should be expected in spring: not hot, but generally overcast and windy. Fortunately our intent was to experience the area's architecture, culture, history, food...and sure, to walk on the beach a bit. We achieved all of these things, wishing we had time for more.
 
