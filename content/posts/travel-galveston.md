@@ -10,7 +10,7 @@ description: Discovering the beaches and history of the island
 
 ---
 
-![View of church steeple, rooftops and Gulf in the distance.](/images/travel/galveston/galveston-480x319.jpg#floatright)Our family spring trip this year will be to Galveston, Texas for Easter weekend. This is roughly a 5-hour drive from home, so we hope to get two full days, three nights, and two half-days of fun out of the trip. This will be our first pleasure trip into Texas as a family. We found an Air B&B cottage next to Galveston's "Silk Stocking" district. The rental is pet-friendly and has a fenced backyard so our dog Woody will travel with us. I think he will love exploring nearby Kempner Park just two blocks away. Our accommodations will put us halfway between the beach and the historic downtown and seaport. Considering the city's maritime past, there are lots of connections to New Orleans and south Louisiana. We expect some things will be familiar, but hope to find many others new and interesting.
+![View of church steeple, rooftops and Gulf in the distance.](/images/travel/galveston/galveston-480x319.jpg#floatright)This year's family spring trip was to Galveston, Texas for Easter weekend. This is roughly a 5-hour drive from home, so we enjoyed two full days and three nights on the island. This was be our first pleasure trip into Texas as a family. We found an Air B&B cottage next to Galveston's "Silk Stocking" district, midway between the beach and downtown. The rental is pet-friendly and has a fenced backyard so our dog Woody traveled with us. He enjoyed walks around the neighborhood and exploring  Kempner Park just two blocks away. Considering the city's maritime past, there are lots of connections to New Orleans and south Louisiana. We found many things familiar, but also discovered many new and interesting characteristics.
 
 ## Trip Prep
 
@@ -43,6 +43,9 @@ I searched my local library system here in Louisiana, but despite Galveston's pr
 Our accommodations are two blocks from the [trolley line](https://www.galvestontx.gov/1209/Trolleys) on Rosenberg Ave. (25th Street) which links us both to the seawall beach at Pleasure Pier and also to The Strand and Seaport area downtown. A second trolley route runs for miles up and down Seawall Blvd. I doubt the trolleys will be dog-friendly, so we'll likely be driving everywhere. Regrettably, we did not get an opportunity to ride the trolly.
 
 ---
+
+So how did our trip go?
+
 
 # Trip Recap
 
