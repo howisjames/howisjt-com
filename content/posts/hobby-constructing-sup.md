@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-04-06T10:00:52-06:00
+lastmod: 2024-04-15T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -38,6 +38,8 @@ Surplus materials from my kayak(s) building project is the whole reason I undert
 ---
 
 ## Weekend #1
+
+*December 29, 2023*
 
 As you can see below I'm preparing to cut the 5 mm plywood sheets in half lengthwise.
 
@@ -79,6 +81,8 @@ During this first weekend working on the project I completed cutting out all of 
 
 ## Weekends #2 and #3
 
+*January 6 to 15 , 2024*
+
 ### Continued Cutting...
 
 It required three more afternoons of effort over two weekends to complete the cutting out of the internal frame pieces from the plywood sheets. I used a jigsaw along the curves and a circular saw for the straight edges. The rough cutting was two afternoons (one for each plywood sheet,) then the third day was spent sanding all pieces down to their precise shapes as defined by the paper patterns. I used 80 grit on a belt sander for most of this task, with some use of a Japanese pull saw and of course a hand sanding block. Builders who purchase frame kits are really missing out by skipping this super fun step! They receive their components precisely cut by CNC router machines, saving a lot of time and perhaps some challenging labor. I invested sweat equity and a sore lower back.
@@ -87,7 +91,9 @@ It required three more afternoons of effort over two weekends to complete the cu
 
 By the end of the MLK Day holiday all of the interior frame components for the SUP were precisely cut and shaped. You see them above, stacked on top of the 5 boxes of Paulownia strips which I purchased from Jarvis Boards. An extreme (for us) cold front has reached south Louisiana to be followed this weekend with a reinforcing cold front. These sub-freezing temperatures will prevent any gluing, but I will be able to 1) clean out my storage room / workshop space, 2) set up my long workshop table, and 3) make the scarf joint cuts in preparation for gluing. I suppose I could try to use an electric heater or an incandescent light bulb to warm the work area, but in south Louisiana it will warm up soon enough. 
 
-## Weekends #4
+## Weekend #4
+
+*February 24 , 2024*
 
 This was the weekend to join the central spine of the board's frame and the edge rails together. Jarvis Boards recommends butt block joints but I decided on scarf joints to save a tad bit of weight and it just looks cleaner. I used my belt sander to create the scarfs on the thin plywood, then glued them with epoxy thickened with silica powder.
 
@@ -96,6 +102,8 @@ This was the weekend to join the central spine of the board's frame and the edge
 ![scarfs cut](/images/hobby/paddling/sup/scarf-joints_04-800.jpg)
 
 ## Weekend #5
+
+*March 2, 2024*
 
 Weekend 5 tasks included some sanding and dry fitting the frame pieces together. I poped a center line down the strongback table with a chaulk line. Scarf joints were cut on over a dozen strips and I began gluing them together. I revisited the [video tutorials](https://www.youtube.com/@jarvisboards/playlists) to ensure I understood the next steps for coming weekends and had all necessary materials.
 
@@ -106,6 +114,8 @@ Weekend 5 tasks included some sanding and dry fitting the frame pieces together.
 Turns out I botched my epoxy mix - despite having plenty of experience building three stitch-n-glue kayaks - and it didn't set up overnight. Splicing together the paulownia strips will be a total redo next weekend. It is just as well. In hindsight, the epoxy thickened with wood flour is way too dark and I'd never hide that on the finished board. I'll use regular wood glue on future attempts. But watching a video series by [Jenkins Boatworks](https://youtube.com/playlist?list=PLcTGtF1c_Bt7xQ6TQSWx4chD8N35SuRIT&si=DkS4WKLy6gF-F72N) clued me in to the possibility of blending wood flour and silica thickening agents into the epoxy resin to produce a lighter colored paste.
 
 ## Weekend #6
+
+*March 9, 2024*
 
 It started out rainy but the weather improved over the weekend. I accomplished the following tasks:
 
@@ -121,6 +131,8 @@ It started out rainy but the weather improved over the weekend. I accomplished t
 
 ## Weekend #7
 
+*March 17, 2024*
+
 I suspect that assembling precise CNC-cut frame pieces would be easier than working with components hand cut from paper plans. In my case, affixing the side rails to the ribs was a bit slow because of the additional sanding and carving with a utility knife required to get things to fit. Eventually they did fit and I got the rails and the very first stip (center, bottom) glued on using Gorilla &trade; Ultimate wood glue. Various clamps and twisted plastic wrap were used to hold things in place overnight.
 
 
@@ -128,9 +140,33 @@ I suspect that assembling precise CNC-cut frame pieces would be easier than work
 
 ## Weekends #8 - #10
 
+*thru April 7, 2024*
+
 Following a break from working on the project during the Easter weekend, I've resumed splicing together 5' strips to make long 12 foot strips and gluing them to the bottom of the paddleboard frame. For me this is a slow process as I'm only able to glue two strips on per day - one in the morning and a second in the evening. Of course some days life or work prevents me from keeping up this schedule. At the end of this weekend (April 6 & 7) I will have glued 19 strips, leaving I predict 6 more pairs of strips to complete the bottom. I anticipate gluing the last strip to the bottom next Sunday night.
 
 ![progress of stripping the board](/images/hobby/paddling/sup/2024-04-06_paddleboard-strips_600px.jpg)
+
+## Weekend #11
+
+*April 13 - 16, 2024*
+
+This seemed like a milepost in the SUP construction journey as I completed the gluing of strips to the bottom, and rough-cut the overhanging strips to the shape of the board with a jigsaw. I used my block plane to clean up the edges and also to remove lumps of glue from the surface of the strips, and then used the belt sander to give the bottom a rough sanding and remove most of the waste glue. It seems the builder videos I've seen all featured cutting the board free from the construction surface, and then trimming off the overhanging wood strips. I felt it would be advantageous to use the jigsaw while the board was still firmly secured (hot glued) to the table, preventing it from shifting during work.
+
+Anticipating future work, I cut scarf joints on two dozen paulownia strips so I can resume the process of glueing them together, two per day, over the coming weeks to create full length strips for the top of the board. At least 32 will be required for the top. Additional strips will be required to cover the sides / edges.
+
+During this week I will cut the board free from the work surface, trim down the "feet" or tabs on the frame, and sand it smooth. 
+
+## Weekend #12
+
+*April 20, 2024*
+
+### Next Tasks
+
+1. Clean and prep interior (bottom) of board to receive waterproofing
+2. Apply waterproofing to interior of bottom and to frame: either diluted epoxy or varnish or polyeuathane
+3. Blocking for fin box
+4. Blocking for deck anchors, leash anchor, and air vent
+5. Continue stripping top of paddleboard
 
 ---
 
