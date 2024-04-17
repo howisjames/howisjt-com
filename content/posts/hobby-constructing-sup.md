@@ -150,7 +150,9 @@ Following a break from working on the project during the Easter weekend, I've re
 
 *April 13 - 16, 2024*
 
-This seemed like a milepost in the SUP construction journey as I completed the gluing of strips to the bottom, and rough-cut the overhanging strips to the shape of the board with a jigsaw. I used my block plane to clean up the edges and also to remove lumps of glue from the surface of the strips, and then used the belt sander to give the bottom a rough sanding and remove most of the waste glue. It seems the builder videos I've seen all featured cutting the board free from the construction surface, and then trimming off the overhanging wood strips. I felt it would be advantageous to use the jigsaw while the board was still firmly secured (hot glued) to the table, preventing it from shifting during work.
+This weekend was a milepost in the SUP construction journey as I completed the gluing of strips to the bottom, and rough-cut the overhanging strips to the shape of the board with a jigsaw. I used my block plane to clean up the edges and also to remove lumps of glue from the surface of the strips, and then used the belt sander to give the bottom a rough sanding and remove most of the waste glue. It seems the builder videos I've seen all featured cutting the board free from the construction surface, and then trimming off the overhanging wood strips. I felt it would be advantageous to use the jigsaw while the board was still firmly secured (hot glued) to the table, preventing it from shifting during work.
+
+![paddleboard takes shape!](/images/hobby/paddling/sup/2024-04-15_SUP_takes_shape_tn.jpg)
 
 Anticipating future work, I cut scarf joints on two dozen paulownia strips so I can resume the process of glueing them together, two per day, over the coming weeks to create full length strips for the top of the board. At least 32 will be required for the top. Additional strips will be required to cover the sides / edges.
 
