@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-04-15T10:00:52-06:00
+lastmod: 2024-04-19T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -162,13 +162,20 @@ During this week I will cut the board free from the work surface, trim down the 
 
 *April 20, 2024*
 
-### Next Tasks
+*Blocking* was the word for this weekend. I installed styrofoam blocking for the four foreward anchor plug locations. These will provide tie downs for bungee cord to make an "X" for holding gear on the paddleboard's deck. For the fin box blocking I used strips of paulownia glued together with thickened epoxy. This will provide a firm reinforcement for installing the plastic fin box on the bottom after routing out a void - which will also remove much of the weight of the wood. Lastly, I bonded some scraps of pine to the center spine at the center for securing the carry handle on the top of the board.
 
-1. Clean and prep interior (bottom) of board to receive waterproofing
-2. Apply waterproofing to interior of bottom and to frame: either diluted epoxy or varnish or polyeuathane
-3. Blocking for fin box
-4. Blocking for deck anchors, leash anchor, and air vent
-5. Continue stripping top of paddleboard
+![blocking for fin box](/images/hobby/paddling/sup/2024-04-19_fin-box-1-600px.jpg)
+
+![blocking for carry handle](/images/hobby/paddling/sup/2024-04-20_blocking-carry-handle-2-600px.jpg)
+
+The less enjoyable task I accomplished Saturday was the waterproofing of the interior bottom of the board strips with epoxy resin. On Sunday I trimmed the carry handle blocking flush with the top of the frame ribs, and then glued down the center dark mahogany stip to begin the deck of the board.
+
+### Upcomming Tasks
+
+1. Blocking for leash anchor and air vent
+2. Continue stripping the top of the paddleboard - roughly 32 strips
+3. Begin stripping the sides / edges
+4. Sand, sand, sand...
 
 ---
 
