@@ -19,6 +19,7 @@ I've been fortunate to visit Miami and Miami Beach three or four times back in t
 
 Below is a chronology of the development and growth of Miami Beach. Information sources include the timeline at miamibeach411.com/History; *The Life and Times of Miami Beach* by Ann Armbruster; and *Miami: A Cultural History* by Anthony Maingot. This list is far from exhaustive and omits numerous interesting stories you'll only get by reading the books, but it provides a framework for understanding the place.
 
+Alternate [Interactive timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wm6d44ORPWi9kye9KSPtGrGNr1EkPopLT2vFWd6rgU0&font=Default&lang=en&initial_zoom=3&height=550)
 
 | YEAR | EVENT |
 |-----|------------------|
