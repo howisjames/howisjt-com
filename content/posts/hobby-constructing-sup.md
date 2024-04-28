@@ -175,9 +175,9 @@ The less enjoyable task I accomplished Saturday was the waterproofing of the int
 
 Three pairs of strips were glued down during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size so I decided to put them side-by-side near the tail of the board. For the air vent I glued a 2-1/2" circular piece of 3mm Okoume plywood to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area to bond with epoxy at a future step in the process. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap until I found the correct size.
 
-![Interior blocking for the air vent and leash anchor](/images/hobby/paddling/sup/2024-04-26_3_blocking-for-vent-and-leash-600px.jpg)
+![Interior blocking for the air vent and leash anchor](/images/hobby/paddling/sup/2024-04-26_3_blocking-for-vent-and-leash-lb-600px.jpg)
 
-![center bolt compresses blocking for air vent](/images/hobby/paddling/sup/2024-04-26_5_blocking-for-vent-600px.jpg)
+![center bolt compresses blocking for air vent](/images/hobby/paddling/sup/2024-04-26_5_blocking-for-vent-lb-600px.jpg)
 
 
 All of the instructional videos show the use of styrofoam as the blocking material. I did use this for the fore deck anchors, but it seemed pointless for the rear anchors, air vent and fin box. There were some gaps and looseness along the side rails where the slots were cut for insertion of the frame ribs so I filled these voids with epoxy thickened with wood flour.
