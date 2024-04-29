@@ -171,27 +171,29 @@ During this week I will cut the board free from the work surface, trim down the 
 The less enjoyable task I accomplished Saturday was the waterproofing of the interior bottom of the board strips with epoxy resin. On Sunday I trimmed the carry handle blocking flush with the top of the frame ribs, and then glued down the center dark mahogany stip to begin the deck of the board.
 
 ## Weekend #13
-*April 27, 2024
 
-Three pairs of strips were glued down during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size so I decided to put them side-by-side near the tail of the board. For the air vent I glued a 2-1/2" circular piece of 3mm Okoume plywood to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area to bond with epoxy at a future step in the process. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap until I found the correct size.
+*April 27, 2024*
+
+Three pairs of strips were glued down during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size so I decided to put them side-by-side near the tail of the board. For the air vent a 2-1/2" circular piece of 3mm Okoume plywood was glued to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area to bond with epoxy at a future step in the process. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap to find the correct size.
 
 ![Interior blocking for the air vent and leash anchor](/images/hobby/paddling/sup/2024-04-26_3_blocking-for-vent-and-leash-lb-600px.jpg)
 
 ![center bolt compresses blocking for air vent](/images/hobby/paddling/sup/2024-04-26_5_blocking-for-vent-lb-600px.jpg)
 
 
-All of the instructional videos show the use of styrofoam as the blocking material. I did use this for the fore deck anchors, but it seemed pointless for the rear anchors, air vent and fin box. There were some gaps and looseness along the side rails where the slots were cut for insertion of the frame ribs so I filled these voids with epoxy thickened with wood flour.
+All of the instructional videos show the use of styrofoam as the blocking material. I did use this for the fore deck anchors, but it seemed pointless for the rear anchors, air vent and fin box. 
+Along the side rails there were some gaps and looseness where the slots were cut for insertion of the frame ribs. I filled these voids with epoxy thickened with wood flour.
 
 
 ### Upcoming Tasks
 
-1. Continue stripping the top of the paddleboard - roughly 32 strips
-2. Begin stripping the sides / edges
+1. Continue stripping the top of the paddleboard - roughly 32 strips total
+2. Begin stripping the sides / edges of the paddleboard
 3. Sand, sand, sand...
 
 ---
 
-## Project Images
+## Project Image Gallery
 
 Photos from my SUP project are presented in a gallery format below. Click any thumbnail for an enlarged version.
 
