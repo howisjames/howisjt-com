@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-04-28T10:00:52-06:00
+lastmod: 2024-05-07T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -174,7 +174,7 @@ The less enjoyable task I accomplished Saturday was the waterproofing of the int
 
 *April 27, 2024*
 
-Three pairs of strips were glued down during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size so I decided to put them side-by-side near the tail of the board. For the air vent a 2-1/2" circular piece of 3mm Okoume plywood was glued to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area to bond with epoxy at a future step in the process. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap to find the correct size.
+Three pairs of strips were glued to the deck during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size so I decided to put them side-by-side near the tail of the board. For the air vent a 2-1/2" circular piece of 3mm Okoume plywood was glued to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area to bond with epoxy at a future step in the process. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap to find the correct size.
 
 ![Interior blocking for the air vent and leash anchor](/images/hobby/paddling/sup/2024-04-26_3_blocking-for-vent-and-leash-lb-600px.jpg)
 
@@ -184,12 +184,26 @@ Three pairs of strips were glued down during the preceding week and two more pai
 All of the instructional videos show the use of styrofoam as the blocking material. I did use this for the fore deck anchors, but it seemed pointless for the rear anchors, air vent and fin box. 
 Along the side rails there were some gaps and looseness where the slots were cut for insertion of the frame ribs. I filled these voids with epoxy thickened with wood flour.
 
+## Weekend #14
+
+*May 5, 2024*
+
+The weekend was spent splicing Paulownia strips end-to-end to make long strips and then gluing / clamping these to the deck of the paddleboard frame, two or three per day. During the coming week I will complete this process. I borrowed my neighbor's table saw to rip one strip lengthwise, allowing me to glue down a half-width strip on each side before I got to the very edge of the board. I felt it would be stronger if that last strip on both sides was a full-width strip (leaving a slight surplus overhang) rather than a very narrow strip. Adding that last strip - the **whiskey strip** - is within sight!
+
+**Or is it?** Builders seem to celebrate adding that last strip to the deck of their boards with a shot of bourbon, but then they've still got to do the two sides, so we're not really done here are we?
 
 ### Upcoming Tasks
 
-1. Continue stripping the top of the paddleboard - roughly 32 strips total
-2. Begin stripping the sides / edges of the paddleboard
-3. Sand, sand, sand...
+1. Rough cut excess overhanging deck strips to the shape of the board
+2. Glue strips to the sides / edges of the paddleboard
+3. Sand, sand, sand... plane off dried glue and shape the board
+4. Fabricate and install nose and tail blocks of solid mahogany
+5. Final shaping and sanding of paddleboard
+6. Envelope the board in fiberglass and clear epoxy resin; additional coats of epoxy to fill the weave
+7. Install deck hardware and fin box
+8. Mask plastic parts and begin varnishing - goal is 5 coats
+
+**GOAL**: Substantial completion by first week of June for maiden voyage at family reunion
 
 ---
 
