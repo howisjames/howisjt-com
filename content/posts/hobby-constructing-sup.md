@@ -192,16 +192,25 @@ The weekend was spent splicing Paulownia strips end-to-end to make long strips a
 
 **Or is it?** Builders seem to celebrate adding that last strip to the deck of their boards with a shot of bourbon, but then they've still got to do the two sides, so we're not really done here are we?
 
+## Weekend #15
+
+*May 11, 2023 - Mother's Day weekend*
+
+Saturday was productive beginning with trimming of the overhanging strips from the paddleboard deck using a jigsaw. I also used a circular saw to cut excess length off the nose and tail and used a belt sander with 80 grit to remove glue globs and smooth out the deck. This isn't the final cut before gluing on nose and tail blocks, but simply a cut to remove overhanging strips. After a bit of planning and laying out tests, I glued a single strip down the middle of each side rail. Other tasks include making four additional long Paulownia strips to complete covering the rails by gluing shorter lengths together with scarf joints.
+
+On Mother's Day Sunday I glued two more strips to the rails as shown in the photo below. That leaves another strip each on Monday and Tuesday, then Wednesday to trip off excess overhangs and maybe Thursday to begin working on the tail and nose blocks.
+
+![Gluing strips onto the rails](/images/hobby/paddling/sup/2024-05-12-stripping-rails-600px.jpg)
+
 ### Upcoming Tasks
 
-1. Rough cut excess overhanging deck strips to the shape of the board
-2. Glue strips to the sides / edges of the paddleboard
-3. Sand, sand, sand... plane off dried glue and shape the board
-4. Fabricate and install nose and tail blocks of solid mahogany
-5. Final shaping and sanding of paddleboard
-6. Envelope the board in fiberglass and clear epoxy resin; additional coats of epoxy to fill the weave
-7. Install deck hardware and fin box
-8. Mask plastic parts and begin varnishing - goal is 5 coats
+1. Glue strips to the sides / edges of the paddleboard
+2. Sand, sand, sand... plane off dried glue and shape the board
+3. Fabricate and install nose and tail blocks of solid mahogany
+4. Final shaping and sanding of paddleboard
+5. Envelope the board in fiberglass and clear epoxy resin; additional coats of epoxy to fill the weave
+6. Install deck hardware and fin box
+7. Mask plastic parts and begin varnishing - goal is 5 coats
 
 **GOAL**: Substantial completion by first week of June for maiden voyage at family reunion
 
@@ -209,6 +218,6 @@ The weekend was spent splicing Paulownia strips end-to-end to make long strips a
 
 ## Project Image Gallery
 
-Photos from my SUP project are presented in a gallery format below. Click any thumbnail for an enlarged version.
+Photos from my SUP project are presented in a gallery format below. Click any thumbnail for an enlarged version and to click through them.
 
 {{< foldergallery src="images/hobby/paddling/sup/gallery" >}}
