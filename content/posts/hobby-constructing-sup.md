@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-05-12T10:00:52-06:00
+lastmod: 2024-05-15T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -213,6 +213,12 @@ On Mother's Day Sunday I glued two more strips to the rails as shown in the phot
 7. Mask plastic parts and begin varnishing with a goal of 5 coats.
 
 **GOAL**: Substantial completion by first week of June for maiden voyage at [family reunion](https://howisjt.com/posts/travel-alabama-lk-martin/)!
+
+### First Weigh-In!
+
+The weight of the paddleboard at this stage of construction is approximately 36 lbs. This was somewhat of a relief as moving this bulky thing in and out of my workshop isn't exactly easy. The final target weight is approximately 42 lbs. which I believe is achievable. Nose and tail blocks will add a little as they are heavier teak wood so I'll strive to make them no larger than necessary. The fiberglass / epoxy wrap will likely add the most weight as multiple coats of epoxy will be necessary to fill the weave of the cloth. Plastic deck and fin box components should almost be a wash as wood will be removed when they are installed. Rather than a foam deck pad I plan to simply rub on surfboard wax to save weight and expense. 
+
+![First weigh-in before nose & tail blocks](/images/hobby/paddling/sup/2024-05-15_SUP_first-weigh-in_36lbs-600px.jpg)
 
 ---
 
