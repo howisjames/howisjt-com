@@ -194,23 +194,13 @@ The weekend was spent splicing Paulownia strips end-to-end to make long strips a
 
 ## Weekend #15
 
-*May 11, 2023 - Mother's Day weekend*
+*May 11, 2024 - Mother's Day weekend*
 
 Saturday was productive beginning with trimming the overhanging strips from the paddleboard deck using a jigsaw. I also used a circular saw to cut excess length off the nose and tail and used a belt sander with 80 grit to remove glue globs and smooth out the deck. This isn't the final cut before gluing on nose and tail blocks, but simply a cut to tidy up the overhanging strips. After a bit of planning and laying out tests, I glued and clamped a single strip down the middle of each side rail. Other tasks include making four additional long Paulownia strips to complete covering the rails.
 
 On Mother's Day Sunday I glued two more strips to the rails as shown in the photo below. That leaves another strip each on Monday and Tuesday, then Wednesday to trim off excess overhangs and maybe Thursday to begin working on the tail and nose blocks. Work this coming weekend will be abbreviated due to a trip to visit family.
 
 ![Gluing strips onto the rails](/images/hobby/paddling/sup/2024-05-12-stripping-rails-600px.jpg)
-
-### Upcoming Tasks
-
-1. Finish gluing strips to the sides / rails of the paddleboard
-2. Install 1/4 - 20 "rivit nuts" into center of deck at nose and tail (for future camera mounts.)
-3. Fabricate and install nose and tail blocks of solid mahogany
-4. Sand, sand, sand... plane off dried glue and shape the board
-5. Envelope the board in fiberglass and clear epoxy resin; additional coats of epoxy to fill the weave
-6. Install deck hardware and fin box. (Note blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
-7. Mask plastic parts and begin varnishing with a goal of 5 coats.
 
 **GOAL**: Substantial completion by first week of June for maiden voyage at [family reunion](https://howisjt.com/posts/travel-alabama-lk-martin/)!
 
@@ -219,6 +209,57 @@ On Mother's Day Sunday I glued two more strips to the rails as shown in the phot
 The weight of the paddleboard at this stage of construction is approximately 36 lbs. This was somewhat of a relief as moving this bulky thing in and out of my workshop isn't exactly easy. The final target weight is approximately 42 lbs. which I believe is achievable. Nose and tail blocks will add a little as they are heavier teak wood so I'll strive to make them no larger than necessary. The fiberglass / epoxy wrap will likely add the most weight as multiple coats of epoxy will be necessary to fill the weave of the cloth. Plastic deck and fin box components should almost be a wash as wood will be removed when they are installed. Rather than a foam deck pad I plan to simply rub on surfboard wax to save weight and expense. 
 
 ![First weigh-in before nose & tail blocks](/images/hobby/paddling/sup/2024-05-15_SUP_first-weigh-in_36lbs-600px.jpg)
+
+## Weekend #16
+
+*May 19, 2024 - photos will be inserted soon*
+
+Having only one day to work on the paddleboard this weekend due to family commitments out of town, I installed "rivet nuts" fore and aft to serve as GoPro camera mounts, cut and squared the nose and tail of the board to receive end blocks, and then cut and glued the nose and tail blocks to the board.
+
+### Install Camera Mounts
+
+[Rivet nuts](https://www.amazon.com/dp/B077GQLQZ8?ref=ppx_yo2ov_dt_b_product_details&th=1) are stainless steel 1/4" - 20 thread nuts with a flange at one end inserted up through the deck at the nose and tail from within the board. Their purpose is to serve as points of attachment for photography / videography mounts which standardize with the same nut and bold size and thread. The nuts are almost twice as tall as the thickness of the Paulownia strips, so I needed a scrap of Paulownia as backing beneath the deck at each attachment point to provided needed reinforcement for the nuts. The workspace was pretty tight inside the nose and tail of the board so here are the steps I took to get the nuts installed.
+
+1. Cut nose and tail of board to final length (prior to attaching blocks.)
+2. Scrape / sand point of attachment inside board - ensure no globs of glue, etc. are in the way.
+3. Spring clamp a short scrap of strip to underside of deck.
+4. Drill pilot hole for 1/4" nut down through deck and through blocking scrap. Enlarge with 3/8" bit and round file to allow tight fit of stainless nut.
+5. Apply glue to top surface of blocking scrap, insert flange nut up from bottom, and then insert both up against / through deck.
+6. Apply glue to inside of hole in deck.
+7. A spare 2" x 1/4" bolt with spare nut and washer was then screwed down into the rivet nut and the nut/washer tightened to pull the rivet nut firmly up into the hole through the deck, it's flange seated up against the bottom of the blocking material.
+8. Allow to dry for an hour.
+9. Remove temporary 2" bolt used to compress rivet nut up into wood. This leaves a hole in the board through each rivet nut - a point of potential water entry to be addressed.
+10. Apply a piece of masking tape to seal off the hole in the rivet nut inside the board.
+11. Drip melted wax from a candle into each rivet nut, filling its threads to the top. This protects the threads from glue, epoxy, varnish or other materials from fouling the threads. Leave the wax in until varnishing is complete. Then, remove wax by melting it with a soldering iron and sucking it out with a syringe or wipe with a Q-tip.
+
+When no camera mount is attached to one of these rivet nuts they will be sealed with a [D-ring stainless bolt and rubber washer](https://www.amazon.com/dp/B07Z89N2N8?psc=1&ref=ppx_yo2ov_dt_b_product_details). The D-ring provides further functionality fore and aft as a place to tie a line.
+
+### Installing Nose and Tail Blocks
+
+I purchased a ~3' length of approximately 2 x 3" mahogany lumber during my trip to the specialty lumber yard in New Orleans several months ago. This dense wood is being used at the nose and tail of the paddleboard for resilience to dings and the beautiful contrasting color. The tail will be a simple straight piece of block squarely attached to the back of the board. The nose will be two short lengths of mahogany attached at an angle to allow for a more rounded nose and to form a dark "arrow" where they meet the mahogany center stip. I clamped a scrap of wood to the deck of the board to provide a straight line each time I used the circular saw to make the final cuts off the board. The saw rode up on top of this guide, ensuring the blade was cutting truly vertically across the board. During earlier cuts I realized simply running the circular saw across the rounded deck of the paddleboard did not result in a uniform vertical / square cut across the board which is necessary for attaching blocks. The miter box saw was of course used to cut the mahogany blocks and the appropriate angle for them to meet which was approximately 15 degrees.
+
+*How will I provide compression to hold the blocks up against the board as it is gluing?*  Various solutions were provided in YouTube videos by Jarvis Boards, Jenkins Boatworks, and others. I tried using only painter's tape to hold the tail block in place but felt compression was inadequate. An anchor point midway up the board was needed so I could wrap the plastic wrap cords around the end block. I ended up using two 6" C-clamps and some wood scraps to protect the board. I affixed a clamp to either side of the board at the rails which provided a sturdy anchor for the elastic plastic-wrap "ropes" to secure the tail block against the board while the glue set. The same technique was used for attaching the nose blocks.
+
+But first, I decided to pre-glue the nose blocks together at the angle (to ensure a tight fit) and I drilled and inserted two dowels within the angled surface to help hold them together and strengthen the bond. This was then glued to the board and allowed to set up securely for a day.
+
+Progress continued early this week with rough cutting of the surplus material around the nose and tail blocks. After first creating a notch at each cut point with a hand saw, a reciprocating saw was used to speed up the process of removing surplus wood.
+
+The nose blocks joined by glued dowels worked out reasonably well, except I misjudged the final thickness of the nose piece and after cutting and sanding off surplus, one of the softwood dowels was exposed on the underside of the board. Oh well, I'll think of it as a beauty mark on Cindy Crawford's face... I also over-drilled the hole for this dowel on one side, and rough sanding of the nose to shape revealed a pocket of glue. This was not a beauty mark. To remedy, I cut out the glue with a knife and then fashioned a tiny plug of mahogany to fill in the void, ensuring the grain direction of the plug matched the surrounding stock. This was glued in place with epoxy thickened with wood flour to make it dark and hopefully hide the blemish. Once sanded smooth I'll know if this was successful.
+
+Prior to final sanding this was also my opportunity to vacuum the board and closely inspect all surfaces for cracks and pits. Epoxy thickened with silica powder and a touch of wood flour - to yield a light colored putty matching the Paulownia - was used to fill all cracks and imperfections in the surface.
+
+### Second Weigh-In
+
+Check the board weight after all woodwork is complete but prior to fiberglassing.
+
+### Upcoming Tasks
+
+1. Sand, sand, sand... shape side rails, remove exposed glue and epoxy to the extent possible, and shape the board.
+2. Envelope the board in fiberglass cloth and clear epoxy resin; additional coats of epoxy will be required to fill the weave of the cloth.
+3. Install deck hardware and fin box. (Note blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
+4. Mask plastic parts and begin varnishing with a goal of 5 coats.
+
+Plan a **launch day!**
 
 ---
 
