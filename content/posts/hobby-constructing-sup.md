@@ -1,12 +1,12 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-05-15T10:00:52-06:00
+lastmod: 2024-05-21T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
 tags: ["paddlesports", "woodworking"]
-description: Constructing a Strip-Built Paddleboard.
+description: Constructing a Strip-Built Paddleboard
 ---
 
 Having successfully built [three recreational kayaks](https://stitchnglue.howisjt.com/) constructed of marine-grade plywood using the stitch-and-glue method I had some surplus materials remaining and decided to pursue another boat project. Stand-up paddleboarding (SUP) appealed to me --- and to my sons also --- so we decided to build a paddleboard rather than another kayak. 
@@ -216,6 +216,8 @@ The weight of the paddleboard at this stage of construction is approximately 36 
 
 Having only one day to work on the paddleboard this weekend due to family commitments out of town, I installed "rivet nuts" fore and aft to serve as GoPro camera mounts, cut and squared the nose and tail of the board to receive end blocks, and then cut and glued the nose and tail blocks to the board.
 
+![pic of rivet nut mount](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-600px.jpg)
+
 ### Install Camera Mounts
 
 [Rivet nuts](https://www.amazon.com/dp/B077GQLQZ8?ref=ppx_yo2ov_dt_b_product_details&th=1) are stainless steel 1/4" - 20 thread nuts with a flange at one end inserted up through the deck at the nose and tail from within the board. Their purpose is to serve as points of attachment for photography / videography mounts which standardize with the same nut and bold size and thread. The nuts are almost twice as tall as the thickness of the Paulownia strips, so I needed a scrap of Paulownia as backing beneath the deck at each attachment point to provided needed reinforcement for the nuts. The workspace was pretty tight inside the nose and tail of the board so here are the steps I took to get the nuts installed.
@@ -232,25 +234,36 @@ Having only one day to work on the paddleboard this weekend due to family commit
 10. Apply a piece of masking tape to seal off the hole in the rivet nut inside the board.
 11. Drip melted wax from a candle into each rivet nut, filling its threads to the top. This protects the threads from glue, epoxy, varnish or other materials from fouling the threads. Leave the wax in until varnishing is complete. Then, remove wax by melting it with a soldering iron and sucking it out with a syringe or wipe with a Q-tip.
 
+![pic of rivet nut before wax](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-top-600px.jpg)
+
 When no camera mount is attached to one of these rivet nuts they will be sealed with a [D-ring stainless bolt and rubber washer](https://www.amazon.com/dp/B07Z89N2N8?psc=1&ref=ppx_yo2ov_dt_b_product_details). The D-ring provides further functionality fore and aft as a place to tie a line.
 
 ### Installing Nose and Tail Blocks
 
 I purchased a ~3' length of approximately 2 x 3" mahogany lumber during my trip to the specialty lumber yard in New Orleans several months ago. This dense wood is being used at the nose and tail of the paddleboard for resilience to dings and the beautiful contrasting color. The tail will be a simple straight piece of block squarely attached to the back of the board. The nose will be two short lengths of mahogany attached at an angle to allow for a more rounded nose and to form a dark "arrow" where they meet the mahogany center stip. I clamped a scrap of wood to the deck of the board to provide a straight line each time I used the circular saw to make the final cuts off the board. The saw rode up on top of this guide, ensuring the blade was cutting truly vertically across the board. During earlier cuts I realized simply running the circular saw across the rounded deck of the paddleboard did not result in a uniform vertical / square cut across the board which is necessary for attaching blocks. The miter box saw was of course used to cut the mahogany blocks and the appropriate angle for them to meet which was approximately 15 degrees.
 
-*How will I provide compression to hold the blocks up against the board as it is gluing?*  Various solutions were provided in YouTube videos by Jarvis Boards, Jenkins Boatworks, and others. I tried using only painter's tape to hold the tail block in place but felt compression was inadequate. An anchor point midway up the board was needed so I could wrap the plastic wrap cords around the end block. I ended up using two 6" C-clamps and some wood scraps to protect the board. I affixed a clamp to either side of the board at the rails which provided a sturdy anchor for the elastic plastic-wrap "ropes" to secure the tail block against the board while the glue set. The same technique was used for attaching the nose blocks.
+![pic of gluing nose block](/images/hobby/paddling/sup/2024-05-19_SUP-nose-block-glue-camp-1-600px.jpg)
+
+*How will I provide compression to hold the blocks up against the board as it is gluing?*  
+Various solutions were provided in YouTube videos by Jarvis Boards, Jenkins Boatworks, and others. I tried using only painter's tape to hold the tail block in place but felt compression was inadequate. An anchor point midway up the board was needed so I could wrap the plastic wrap cords around the end block. I ended up using two 6" C-clamps and some wood scraps to protect the board. I affixed a clamp to either side of the board at the rails which provided a sturdy anchor for the elastic plastic-wrap "ropes" to secure the tail block against the board while the glue set. The same technique was used for attaching the nose blocks.
 
 But first, I decided to pre-glue the nose blocks together at the angle (to ensure a tight fit) and I drilled and inserted two dowels within the angled surface to help hold them together and strengthen the bond. This was then glued to the board and allowed to set up securely for a day.
+
+![pic of nose block dowels](/images/hobby/paddling/sup/2024-05-19_SUP-nose-glue-600px.jpg)
 
 Progress continued early this week with rough cutting of the surplus material around the nose and tail blocks. After first creating a notch at each cut point with a hand saw, a reciprocating saw was used to speed up the process of removing surplus wood.
 
 The nose blocks joined by glued dowels worked out reasonably well, except I misjudged the final thickness of the nose piece and after cutting and sanding off surplus, one of the softwood dowels was exposed on the underside of the board. Oh well, I'll think of it as a beauty mark on Cindy Crawford's face... I also over-drilled the hole for this dowel on one side, and rough sanding of the nose to shape revealed a pocket of glue. This was not a beauty mark. To remedy, I cut out the glue with a knife and then fashioned a tiny plug of mahogany to fill in the void, ensuring the grain direction of the plug matched the surrounding stock. This was glued in place with epoxy thickened with wood flour to make it dark and hopefully hide the blemish. Once sanded smooth I'll know if this was successful.
 
+![pic of sanded nose block](/images/hobby/paddling/sup/2024-05-21_SUP-nose-dowel-flaw-fix-600px.jpg)
+
 Prior to final sanding this was also my opportunity to vacuum the board and closely inspect all surfaces for cracks and pits. Epoxy thickened with silica powder and a touch of wood flour - to yield a light colored putty matching the Paulownia - was used to fill all cracks and imperfections in the surface.
 
 ### Second Weigh-In
 
-Check the board weight after all woodwork is complete but prior to fiberglassing.
+*data pending* Check the board weight after all woodwork is complete but prior to fiberglassing.
+
+![pic of scale, 2nd weigh-in](/images/hobby/paddling/sup/2024-05-21_SUP-weight-check-2-600px.jpg)
 
 ### Upcoming Tasks
 
