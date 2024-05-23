@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-05-21T10:00:52-06:00
+lastmod: 2024-05-22T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -216,7 +216,7 @@ The weight of the paddleboard at this stage of construction is approximately 36 
 
 Having only one day to work on the paddleboard this weekend due to family commitments out of town, I installed "rivet nuts" fore and aft to serve as GoPro camera mounts, cut and squared the nose and tail of the board to receive end blocks, and then cut and glued the nose and tail blocks to the board.
 
-![pic of rivet nut mount](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-600px.jpg)
+![pic of rivet nut mount](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-labels-600px.jpg)
 
 ### Install Camera Mounts
 
@@ -234,7 +234,7 @@ Having only one day to work on the paddleboard this weekend due to family commit
 10. Apply a piece of masking tape to seal off the hole in the rivet nut inside the board.
 11. Drip melted wax from a candle into each rivet nut, filling its threads to the top. This protects the threads from glue, epoxy, varnish or other materials from fouling the threads. Leave the wax in until varnishing is complete. Then, remove wax by melting it with a soldering iron and sucking it out with a syringe or wipe with a Q-tip.
 
-![pic of rivet nut before wax](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-top-600px.jpg)
+![pic of rivet nut filled with wax](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-top-labels-600px.jpg)
 
 When no camera mount is attached to one of these rivet nuts they will be sealed with a [D-ring stainless bolt and rubber washer](https://www.amazon.com/dp/B07Z89N2N8?psc=1&ref=ppx_yo2ov_dt_b_product_details). The D-ring provides further functionality fore and aft as a place to tie a line.
 
@@ -261,7 +261,7 @@ Prior to final sanding this was also my opportunity to vacuum the board and clos
 
 ### Second Weigh-In
 
-*data pending* Check the board weight after all woodwork is complete but prior to fiberglassing.
+A check of the board weight after all woodwork is complete but prior to fiberglassing.
 
 ![pic of scale, 2nd weigh-in](/images/hobby/paddling/sup/2024-05-21_SUP-weight-check-2-600px.jpg)
 
