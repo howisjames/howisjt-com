@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-05-22T10:00:52-06:00
+lastmod: 2024-05-27T10:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -212,7 +212,7 @@ The weight of the paddleboard at this stage of construction is approximately 36 
 
 ## Weekend #16
 
-*May 19, 2024 - photos will be inserted soon*
+*May 19, 2024*
 
 Having only one day to work on the paddleboard this weekend due to family commitments out of town, I installed "rivet nuts" fore and aft to serve as GoPro camera mounts, cut and squared the nose and tail of the board to receive end blocks, and then cut and glued the nose and tail blocks to the board.
 
@@ -265,10 +265,31 @@ A check of the board weight after all woodwork is complete but prior to fibergla
 
 ![pic of scale, 2nd weigh-in](/images/hobby/paddling/sup/2024-05-21_SUP-weight-check-2-600px.jpg)
 
+## Weekend #17
+
+*May 27, 2024 - Memorial Day*
+
+A second round of filling cracks with thickened epoxy was necessary on Friday, which dried overnight allowing me to complete the final sanding Saturday morning. Prior to the very last fine sanding I used a mister to lightly spray the board with water. The wood fibers absorbed it quickly and swelled. After drying a few minutes, I used 220 grit to sand the newly raised bunps leaving the board very smooth.
+
+![pic of scale, 2nd weigh-in](/images/hobby/paddling/sup/2024-05-24_orbital-sander-600px.jpg)
+
+Since I didn't buy quite enough mahogany strips I used some cherry stain to "fake" the mahogany center strip on the bottom of the board around the fin box. I applied two coats of stain with a light sanding in between.
+
+![staining center strip](/images/hobby/paddling/sup/2024-05-26_stain-bottom-center-strip-3-600px.jpg)
+
+Sunday afternoon I applied the fiberglass cloth with epoxy resin to the deck of the board. Blue painters tape was used to mask around the bottom of the rails to force the epoxy to drip off the piece onto the floor rather than sticking to the bottom of the board. 
+
+![deck fiberglassing complete](/images/hobby/paddling/sup/2024-05-26_deck-fiberglassed-600px.jpg)
+
+I named the board *Cocodrie*, which is a south Louisiana placename and is a Cajun word for alligator - (think crocodile.) The graphics were printed using a black laserprinter onto rice paper. When saturated with epoxy resin, the ricepaper disappears, leaving just the graphic. Similarly, the fiberglass cloth, laid over the rice paper, disappears when saturated, allowing the graphic to show through yet be protected.
+
+![graphics ](/images/hobby/paddling/sup/2024-05-26_Cocodrie-fiberglassed-600px.jpg)
+
+
 ### Upcoming Tasks
 
-1. Sand, sand, sand... shape side rails, remove exposed glue and epoxy to the extent possible, and shape the board.
-2. Envelope the board in fiberglass cloth and clear epoxy resin; additional coats of epoxy will be required to fill the weave of the cloth.
+1. Trim overhanging fibertlass cloth and sand smooth. Lightly sand all surfaces.
+2. Apply additional coats of epoxy to fill the weave of the cloth.
 3. Install deck hardware and fin box. (Note blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
 4. Mask plastic parts and begin varnishing with a goal of 5 coats.
 
