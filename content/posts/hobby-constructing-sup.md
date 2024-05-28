@@ -269,7 +269,7 @@ A check of the board weight after all woodwork is complete but prior to fibergla
 
 *May 27, 2024 - Memorial Day*
 
-A second round of filling cracks with thickened epoxy was necessary on Friday, which dried overnight allowing me to complete the final sanding Saturday morning. Prior to the very last fine sanding I used a mister to lightly spray the board with water. The wood fibers absorbed it quickly and swelled. After drying a few minutes, I used 220 grit to sand the newly raised bunps leaving the board very smooth.
+A second round of filling cracks with thickened epoxy was necessary on Friday, which dried overnight allowing me to complete the final sanding Saturday morning. Prior to the very last fine sanding I used a mister to lightly spray the board with water. The wood fibers absorbed it quickly and swelled. After drying a few minutes, I used 220 grit to sand the newly raised bumps leaving the board very smooth.
 
 ![pic of scale, 2nd weigh-in](/images/hobby/paddling/sup/2024-05-24_orbital-sander-600px.jpg)
 
@@ -281,14 +281,14 @@ Sunday afternoon I applied the fiberglass cloth with epoxy resin to the deck of 
 
 ![deck fiberglassing complete](/images/hobby/paddling/sup/2024-05-26_deck-fiberglassed-600px.jpg)
 
-I named the board *Cocodrie*, which is a south Louisiana placename and is a Cajun word for alligator - (think crocodile.) The graphics were printed using a black laserprinter onto rice paper. When saturated with epoxy resin, the ricepaper disappears, leaving just the graphic. Similarly, the fiberglass cloth, laid over the rice paper, disappears when saturated, allowing the graphic to show through yet be protected.
+I named the board *Cocodrie*, which is a south Louisiana placename and is a Cajun word for alligator - (think crocodile.) The graphics were printed using a black laserprinter onto rice paper. When saturated with epoxy resin, the rice paper disappears, leaving just the graphic. Similarly, the fiberglass cloth, laid over the rice paper, disappears when saturated, allowing the graphic to show through yet be protected.
 
 ![graphics ](/images/hobby/paddling/sup/2024-05-26_Cocodrie-fiberglassed-600px.jpg)
 
 
 ### Upcoming Tasks
 
-1. Trim overhanging fibertlass cloth and sand smooth. Lightly sand all surfaces.
+1. Trim overhanging fiberglass cloth and sand smooth. Lightly sand all surfaces.
 2. Apply additional coats of epoxy to fill the weave of the cloth.
 3. Install deck hardware and fin box. (Note blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
 4. Mask plastic parts and begin varnishing with a goal of 5 coats.
