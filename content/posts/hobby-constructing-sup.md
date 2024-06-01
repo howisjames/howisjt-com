@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-05-27T10:00:52-06:00
+lastmod: 2024-06-01T18:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -285,13 +285,43 @@ I named the board *Cocodrie*, which is a south Louisiana placename and is a Caju
 
 ![graphics ](/images/hobby/paddling/sup/2024-05-26_Cocodrie-fiberglassed-600px.jpg)
 
+## Weekend #18
 
-### Upcoming Tasks
+*June 2, 2024*
 
-1. Trim overhanging fiberglass cloth and sand smooth. Lightly sand all surfaces.
-2. Apply additional coats of epoxy to fill the weave of the cloth.
-3. Install deck hardware and fin box. (Note blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
-4. Mask plastic parts and begin varnishing with a goal of 5 coats.
+The completion deadline is rapidly approaching as I intend to put this paddleboard on the water Friday afternoon June 7th during a trip to visit family on Alabama's Lake Martin. I've worked as aggressively as possible over the past week applying a coat of epoxy resin to the top, bottom and sometimes both each day. Last Friday evening I fully completed the 3rd coat of resin and the fiberglass fabric is effectively filled. I'm hesitant to begin varnishing until the epoxy has had time to more fully cure, so in the meantime I'll install the fin box and deck hardware - all of which requires epoxy to glue it into place.
+
+### Deck Pad Choices
+
+I'm considering how to handle the deck padding. And I need to consider where my dog will ride (up front?) and he will need some traction pad. My deck pad options are:
+1. Leave it bare - it will probably be slippery and no padding will induce foot fatigue. Heels could damage the board with no padding at all.
+2. Clear no-slip adhesive patches - clear to help preserve the beauty of the wood and prevents slipping, but zero padding.
+3. Marine foam decking sheet - thin waterproof adhesive-back foam sheets, cut to fit will provide traction and probably would look the best.
+4. Use 3/4" minicel foam - I already have a sheet of this stuff left over from my kayaks. I'd cut to fit. Being thicker it would be the most comfortable, but may add weight. 
+
+### Fin Box Installation
+
+Most of the instructional videos from Jarvis and other designers recommend cutting out the void for the fin box using a router. Jenkins Boatworks' used a "multi tool" to cut the rectangular shaped chunk of wood and blocking material out of the bottom of the paddleboard to insert the plastic fin box. I had neigher tool, so I used a drill, circular saw and chisels. My situation differed from many builders in that I used Paulownia wood strips as blocking rather than foam.
+
+![cutting out for fin box](/images/hobby/paddling/sup/2024-06-01_fin-box-void-600px.jpg)
+
+1. Using a largish bit, I wrapped painter's tape around the bit to show the desired depth - the depth of the plastic fin box. I drilled out each of the four corners of the rectanglular shape on the bottom of the paddleboard.
+2. Using the circular saw, I slowly dropped it down and cut along both sides of the rectangle. Then I made several cuts up and down the middle to remove extra stock and establish the desired depth.
+3. I used wood chisels and a hammer to remove the remainder of the stock, eventually leaving a rectangular void to accept the fin box.
+4. After ensuring a good fit, that I had removed enough, I masked off the area with painters tape and newspaper, and glued the fin box in with clear epoxy. Some recommend thickened epoxy, but I didn't want a color.
+5. I masked the slot in the fin box with painter's tape and stacked some heavy objects onto the fin box to ensure it was forced down as the epoxy cured.
+6. After inital epoxy set up I removed the masking paper and tape, and cleared everything away from the area. Some cracks remailed alongside the plastic fin box, so I mixed up some more epoxy and filled them.
+
+### Deck Hardware Installation
+
+Six plastic disks - bungee cord anchors, leash anchor and an air vent, must be glued into the deck of the paddleboard in areas where blocking had been installed inside the board. Jarvis and other designer's instructional videos again recommended using a router to cut these holes in the deck. Chuck at Jenkins' Boatworks used large spade bits. I'm going to use my hole saw kit. Jenkins had trouble with the spade bit wobbling when he got down into the foam blocking because it didn't hold the point centered. I did use foam blocking beneath the four bungee anchors, so I think the hole saw will be less likely to wobble and result in more uniformly round holes. The blocking at the tail of the board for air vent and leash anchor have wood blocking.
+
+
+### Remaining Tasks
+
+1. Install deck hardware and fin box. (Note the blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
+2. Mask plastic parts and begin varnishing with a goal of 5 coats.
+3. Deck pads
 
 Plan a **launch day!**
 
