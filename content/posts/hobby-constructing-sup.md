@@ -289,28 +289,28 @@ I named the board *Cocodrie*, which is a south Louisiana placename and is a Caju
 
 *June 2, 2024*
 
-The completion deadline is rapidly approaching as I intend to put this paddleboard on the water Friday afternoon June 7th during a trip to visit family on Alabama's Lake Martin. I've worked as aggressively as possible over the past week applying a coat of epoxy resin to the top, bottom and sometimes both each day. Last Friday evening I fully completed the 3rd coat of resin and the fiberglass fabric is effectively filled. I'm hesitant to begin varnishing until the epoxy has had time to more fully cure, so in the meantime I'll install the fin box and deck hardware - all of which requires epoxy to glue it into place.
+The completion deadline is rapidly approaching as I intend to put this paddleboard on the water next Friday afternoon during a trip to visit family on Alabama's Lake Martin. I've worked as aggressively as possible over the past week applying a coat of epoxy resin to the top, bottom and sometimes both each day. Beginning the weekend I had fully completed the 3rd coat of resin and the fiberglass fabric is effectively filled. Next is installation of the fin box and deck hardware - each of which requires epoxy to glue it into place.
 
-### Deck Pad Choices
+### Deck Pad Options
 
-I'm considering how to handle the deck padding. And I need to consider where my dog will ride (up front?) and he will need some traction pad. My deck pad options are:
-1. Leave it bare - it will probably be slippery and no padding will induce foot fatigue. Heels could damage the board with no padding at all.
-2. Clear no-slip adhesive patches - clear to help preserve the beauty of the wood and prevents slipping, but zero padding.
-3. Marine foam decking sheet - thin waterproof adhesive-back foam sheets, cut to fit will provide traction and probably would look the best.
-4. Use 3/4" minicel foam - I already have a sheet of this stuff left over from my kayaks. I'd cut to fit. Being thicker it would be the most comfortable, but may add weight. 
+I'm considering how to handle the deck padding. And, I need to consider where my dog will ride (up front?) because he will need some traction pads. The available deck pad options are:
+1. Leave it bare - it will probably be slippery and no padding will induce foot fatigue. My heels could damage the board with no padding at all.
+2. Clear no-slip adhesive patches - these preserve the beauty of the wood and prevents slipping, but have zero padding for comfort.
+3. Marine foam decking sheet - thin waterproof adhesive-back foam sheets are the standard solution. They can be cut to fit, providing traction and thin padding, and they probably would look the best.
+4. Or, I might use 3/4" minicel foam - I already have a sheet of this stuff left over from my kayak builds. I'd cut it to fit and bevel the edges. Being thicker, it would be the most comfortable and doesn't absorb water, but the thicker foam would add weight. 
 
 ### Fin Box Installation
 
-Most of the instructional videos from Jarvis and other designers recommend cutting out the void for the fin box using a router. Jenkins Boatworks' used a "multi tool" to cut the rectangular shaped chunk of wood and blocking material out of the bottom of the paddleboard to insert the plastic fin box. I had neigher tool, so I used a drill, circular saw and chisels. My situation differed from many builders in that I used Paulownia wood strips as blocking rather than foam.
+Most of the instructional videos from Jarvis and other designers recommend cutting out the void for the fin box using a router. Jenkins Boatworks' used a "multi tool" to cut the rectangular shaped chunk of wood and blocking material out of the bottom of the paddleboard to insert the plastic fin box. I had neither tool, so I used a drill, a circular saw and chisels. My situation differed from many builders in that I used solid wood blocking rather than foam for the fin box.
 
 ![cutting out for fin box](/images/hobby/paddling/sup/2024-06-01_fin-box-void-600px.jpg)
 
-1. Using a largish bit, I wrapped painter's tape around the bit to show the desired depth - the depth of the plastic fin box. I drilled out each of the four corners of the rectanglular shape on the bottom of the paddleboard.
-2. Using the circular saw, I slowly dropped it down and cut along both sides of the rectangle. Then I made several cuts up and down the middle to remove extra stock and establish the desired depth.
+1. First I drilled holes in each of the four corners of the location for the fin box. I used a 3/8" bit, and wrapped painter's tape around the bit to show the desired depth to drill.
+2. Using the circular saw, I slowly dropped it down and cut along both long sides of the rectangle. Then I made several cuts up and down the middle to remove extra stock and establish the desired depth.
 3. I used wood chisels and a hammer to remove the remainder of the stock, eventually leaving a rectangular void to accept the fin box.
-4. After ensuring a good fit, that I had removed enough, I masked off the area with painters tape and newspaper, and glued the fin box in with clear epoxy. Some recommend thickened epoxy, but I didn't want a color.
-5. I masked the slot in the fin box with painter's tape and stacked some heavy objects onto the fin box to ensure it was forced down as the epoxy cured.
-6. After inital epoxy set up I removed the masking paper and tape, and cleared everything away from the area. Some cracks remailed alongside the plastic fin box, so I mixed up some more epoxy and filled them.
+4. After ensuring a good fit - that I had removed enough - I masked off the area with painter's tape and newspaper, and glued the fin box in with clear epoxy. Some recommend thickened epoxy, but I didn't want a colored epoxy to be visible.
+5. I masked the slot in the fin box with painter's tape and stacked some heavy objects onto the fin box to ensure it was forced down into the slot as the epoxy cured.
+6. After inital epoxy set up I removed the masking tape and paper, and cleared everything away from the area. Some cracks remained alongside the plastic fin box, so I mixed a little more epoxy and filled them with a syringe.
 
 ### Deck Hardware Installation
 
@@ -319,7 +319,7 @@ Six plastic disks - bungee cord anchors, leash anchor and an air vent, must be g
 
 ### Remaining Tasks
 
-1. Install deck hardware and fin box. (Note the blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
+1. Install deck hardware. (Note the blocking for vent and leash plug are not the same thickness. They are not interchangeable.)
 2. Mask plastic parts and begin varnishing with a goal of 5 coats.
 3. Deck pads
 
