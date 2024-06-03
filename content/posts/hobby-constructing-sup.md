@@ -54,7 +54,7 @@ The plans or patterns for the structural pieces are plotted on 2' x 8' paper, so
 >This technique of wet gluing paper patterns to plywood may not be appropriate for visible hull pieces of a kayak, but since all of these plywood components for the paddleboard are internal I accepted a bit of paper size expansion or shrinkage due to the wet glue. For my kayaks, I kept the paper patterns dry: taping them to the Okoume plywood and using a pointed awl to transfer the shape outlines to the plywood by punching through the patterns. While cutting out the SUP frame components I learned that either I diluted the glue too much or didn't apply enough - as the paper was separating from the wood in some areas.
 
 
-Jarvis Boards' plans come only as patterns with absolutely no print instructions. A series of videos is provide online. I watched enough to understand the process, but it took a minute to understand all of the pieces on the paper sheets. To Jarvis' credit, one pattern sheet has exclusively longitudinal components (which must be jointed together to form their full length) and the second sheet is exclusively cross members. On the longitudinal center spine and rails sheet I used a highlighter marker to indicate which pieces join other pieces and on which end.
+Jarvis Boards' plans come only as patterns with absolutely no print instructions. A [series of videos](https://www.youtube.com/@jarvisboards/playlists) is provide on their YouTube channel. I watched enough to understand the process, but it took a minute to understand all of the pieces on the paper sheets. To Jarvis' credit, one pattern sheet has exclusively longitudinal components (which must be jointed together to form their full length) and the second sheet is exclusively cross members which require no splicing. On the longitudinal center spine and rails sheet I used a highlighter marker to indicate which ends join each other.
 
 ![Edge matching patterns](/images/hobby/paddling/sup/gallery/0005-edge-matching-patterns.jpg)
 
@@ -142,7 +142,7 @@ I suspect that assembling precise CNC-cut frame pieces would be easier than work
 
 *thru April 7, 2024*
 
-Following a break from working on the project during the Easter weekend, I've resumed splicing together 5' strips to make long 12-foot strips and gluing them to the bottom of the paddleboard frame. For me this is a slow process as I'm only able to glue on two strips per day - one in the morning and a second in the evening. Of course some days life or work prevents me from keeping up this schedule. At the end of this weekend (April 6 & 7) I will have glued 19 strips, leaving I predict 6 more pairs of strips to complete the bottom. I anticipate gluing the last strip to the bottom next Sunday night.
+Following a break from working on the project during the Easter weekend, I've resumed splicing together 5' strips to make long 12-foot strips (two and one half pieces each) and gluing the long strips to the bottom of the paddleboard frame. For me this is a slow process as I'm only able to glue on two strips per day - one in the morning and a second in the evening. Of course on some days life or work prevents me from keeping up this twice daily schedule. At the end of this weekend (April 6 & 7) I will have glued 19 strips, leaving I predict 6 more pairs of strips to complete the bottom. I anticipate gluing the last strip to the bottom next Sunday evening.
 
 ![progress of stripping the board](/images/hobby/paddling/sup/2024-04-06_paddleboard-strips_600px.jpg)
 
@@ -162,7 +162,7 @@ During this week I will cut the board free from the work surface, trim down the 
 
 *April 20, 2024*
 
-*Blocking* was the word for this weekend. I installed styrofoam blocking for the four foreward anchor plug locations. These will provide tie downs for bungee cord to make an "X" for holding gear on the paddleboard's deck. For the fin box blocking I used strips of paulownia glued together with thickened epoxy. This will provide sturdy reinforcement for installing the plastic fin box on the bottom after routing out a void - which will also remove much of the weight of the wood. Lastly, I bonded some scraps of pine to the center spine at the middle of the board for securing the carry handle on the deck.
+*Blocking* was the word for this weekend. I installed styrofoam blocking for the four foreward anchor plug locations. These will provide tie downs for a bungee cord to make an "X" for holding gear on the paddleboard's deck. For the fin box blocking I used strips of paulownia glued together with thickened epoxy. This will provide sturdy reinforcement for installing the plastic fin box on the bottom after routing out a void - which will also remove much of the weight of the wood. Lastly, I bonded some scraps of pine to the center spine at the middle of the board for securing the carry handle on the deck.
 
 ![blocking for fin box](/images/hobby/paddling/sup/2024-04-19_fin-box-1-600px.jpg)
 
@@ -174,23 +174,25 @@ The less enjoyable task I accomplished Saturday was the waterproofing of the int
 
 *April 27, 2024*
 
-Three pairs of strips were glued to the deck during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size so I decided to put them side-by-side near the tail of the board. For the air vent a 2-1/2" circular piece of 3mm Okoume plywood was glued to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area to bond with epoxy at a future step in the process. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap to find the correct size.
+Three pairs of strips were glued to the deck during the preceding week and two more pairs were glued down this weekend. Additionally, I added blocking near the tail beneath the recently installed top strips for future installation of the leash anchor and air vent. Both are the same size (**Not true! See Weekend #18 below**) so I decided to put them side-by-side near the tail of the board. For the air vent a 2-1/2" circular piece of 3mm Okoume plywood was glued to the underside of the Paulownia strips, and for the anchor I built this up to three layers of Okoume plywood circles. This is sufficiently thick so that the recess for the leash anchor won't penetrate the board. In contrast, the air vent must penetrate the hollow board to be of any effect, so one thickness of the plywood provides additional strength and surface area for the epoxy to bond with the edges of the air vent plug. I intend to use hole saws on a drill to cut the recesses for the plastic anchors as I do not own a router. I experimented on a block of scrap to determine the correct size.
 
 ![Interior blocking for the air vent and leash anchor](/images/hobby/paddling/sup/2024-04-26_3_blocking-for-vent-and-leash-lb-600px.jpg)
 
 ![center bolt compresses blocking for air vent](/images/hobby/paddling/sup/2024-04-26_5_blocking-for-vent-lb-600px.jpg)
 
 
-All of the instructional videos show the use of styrofoam as the blocking material. I did use this for the fore deck anchors, but it seemed pointless for the rear anchors, air vent and fin box. 
-Along the side rails there were some gaps and looseness where the slots were cut for insertion of the frame ribs. I filled these voids with epoxy thickened with wood flour.
+The instructional videos I viewed show the use of styrofoam as the blocking material. I did use foam for the fore deck anchors, but it seemed pointless for the rear anchor, air vent and fin box where I used wood blocking. 
+Along the side rails there were some gaps and looseness where the tabs of cross-members fit into slots crudely cut into the rails. I filled these voids with epoxy thickened with wood flour.
 
 ## Weekend #14
 
 *May 5, 2024*
 
-The weekend was spent splicing Paulownia strips end-to-end to make long strips and then gluing / clamping these to the deck of the paddleboard frame, two or three per day. During the coming week I will complete this process. I borrowed my neighbor's table saw to rip one strip lengthwise, allowing me to glue down a half-width strip on each side before I got to the very edge of the board. I felt it would be stronger if that last strip on both sides was a full-width strip (leaving a slight surplus overhang) rather than a very narrow strip. Adding that last strip - the **whiskey strip** - is within sight!
+Weekend #14 was spent splicing Paulownia strips end-to-end to make long strips and then gluing / clamping these to the deck of the paddleboard frame, two or sometimes three per day. During the coming week I will complete "stripping" the deck. I borrowed my neighbor's table saw to rip one strip lengthwise, allowing me to glue down a half-width strip on each side before I got to the very edge of the board. I felt it would be stronger if that last strip on both sides was a full-width strip (leaving a slight surplus overhang) rather than a very narrow strip. Adding that last strip - the **whiskey strip** - is within sight!
 
-*Or is it?* Builders seem to celebrate adding that last strip to the deck of their boards with a shot of bourbon, but then they've still got to do the two side rails, so we're not really done here are we?
+*Or is it?* 
+
+Builders seem to celebrate adding that last strip to the deck of their boards with a shot of bourbon, but then they've still got to cover the plywood side rails, so we're not really done here are we?
 
 ## Weekend #15
 
@@ -198,15 +200,15 @@ The weekend was spent splicing Paulownia strips end-to-end to make long strips a
 
 Saturday was productive beginning with trimming the overhanging strips from the paddleboard deck using a jigsaw. I also used a circular saw to cut excess length off the nose and tail and used a belt sander with 80 grit to remove glue globs and smooth out the deck. This isn't the final cut before gluing on nose and tail blocks, but simply a cut to tidy up the overhanging strips. After a bit of planning and laying out tests, I glued and clamped a single strip down the middle of each side rail. Other tasks include making four additional long Paulownia strips to complete covering the rails.
 
-On Mother's Day Sunday I glued two more strips to the rails as shown in the photo below. That leaves another strip each on Monday and Tuesday, then Wednesday to trim off excess overhangs and maybe Thursday to begin working on the tail and nose blocks. Work this coming weekend will be abbreviated due to a trip to visit family.
+On Mother's Day Sunday (following the appropriate festivities) I glued two more strips to the rails as shown in the photo below. That leaves one more strip each on Monday and Tuesday, then Wednesday to trim off excess overhangs and maybe Thursday to begin working on the tail and nose blocks. Work this coming weekend will be abbreviated due to a family trip out of town.
 
 ![Gluing strips onto the rails](/images/hobby/paddling/sup/2024-05-12-stripping-rails-600px.jpg)
 
-**GOAL**: Substantial completion by first week of June for maiden voyage at [family reunion](https://howisjt.com/posts/travel-alabama-lk-martin/)!
+**GOAL**: Substantial completion by first week of June for maiden voyage at a [family reunion](https://howisjt.com/posts/travel-alabama-lk-martin/)!
 
 ### First Weigh-In!
 
-The weight of the paddleboard at this stage of construction is approximately 36 lbs. This was somewhat of a relief as moving this bulky thing in and out of my workshop isn't exactly easy. The final target weight is approximately 42 lbs. which I believe is achievable. Nose and tail blocks will add a little as they are heavier teak wood so I'll strive to make them no larger than necessary. The fiberglass / epoxy wrap will likely add the most weight as multiple coats of epoxy will be necessary to fill the weave of the cloth. Plastic deck and fin box components should almost be a wash as wood will be removed when they are installed. Rather than a foam deck pad I plan to simply rub on surfboard wax to save weight and expense. 
+The weight of the paddleboard at this stage of construction is approximately 36 lbs. This was somewhat of a relief as moving this bulky thing in and out of my workshop isn't exactly easy. The final target weight is approximately 42 lbs. which I believe is achievable. Nose and tail blocks will add a little as they are heavier teak wood, so I'll strive to make them no larger than necessary. The fiberglass / epoxy wrap will likely add the most weight as multiple coats of epoxy will be necessary to fill the weave of the cloth. Plastic deck and fin box components should almost be a wash as wood will be removed when they are installed. 
 
 ![First weigh-in before nose & tail blocks](/images/hobby/paddling/sup/2024-05-15_SUP_first-weigh-in_36lbs-600px.jpg)
 
@@ -214,25 +216,25 @@ The weight of the paddleboard at this stage of construction is approximately 36 
 
 *May 19, 2024*
 
-Having only one day to work on the paddleboard this weekend due to family commitments out of town, I installed "rivet nuts" fore and aft to serve as GoPro camera mounts, cut and squared the nose and tail of the board to receive end blocks, and then cut and glued the nose and tail blocks to the board.
-
-![pic of rivet nut mount](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-labels-600px.jpg)
+Having only one day to work on the paddleboard this weekend due to family commitments out of town, I installed "rivet nuts" fore and aft to serve as GoPro camera mounts. I also cut and squared the nose and tail of the board to receive mahogany end blocks, and then cut and glued the nose and tail blocks to the board.
 
 ### Install Camera Mounts
 
-[Rivet nuts](https://www.amazon.com/dp/B077GQLQZ8?ref=ppx_yo2ov_dt_b_product_details&th=1) are stainless steel 1/4" - 20 thread nuts with a flange at one end inserted up through the deck at the nose and tail from within the board. Their purpose is to serve as points of attachment for photography / videography mounts which standardize with the same nut and bold size and thread. The nuts are almost twice as tall as the thickness of the Paulownia strips, so I needed a scrap of Paulownia as backing beneath the deck at each attachment point to provided needed reinforcement for the nuts. The workspace was pretty tight inside the nose and tail of the board so here are the steps I took to get the nuts installed.
+![pic of rivet nut mount](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-labels-600px.jpg)
+
+[Rivet nuts](https://www.amazon.com/dp/B077GQLQZ8?ref=ppx_yo2ov_dt_b_product_details&th=1) are stainless steel 1/4" - 20 thread nuts with a flange at one end inserted up through the deck at the nose and tail from within the board. Their purpose is to serve as points of attachment for photography / videography mounts which standardize with the same nut and bold size and thread count. The nuts are almost twice as tall as the thickness of the Paulownia strips, so I needed a scrap of Paulownia as backing beneath the deck at each attachment point to provided needed reinforcement for the nuts. The workspace was pretty tight inside the nose and tail of the board so steps I took to get the rivet nuts installed are listed below.
 
 1. Cut nose and tail of board to final length (prior to attaching blocks.)
-2. Scrape / sand point of attachment inside board - ensure no globs of glue, etc. are in the way.
+2. Scrape / sand point of attachment on underside of deck - ensure no globs of glue, etc. are in the way.
 3. Spring clamp a short scrap of strip to underside of deck.
 4. Drill pilot hole for 1/4" nut down through deck and through blocking scrap. Enlarge with 3/8" bit and round file to allow tight fit of stainless nut.
 5. Apply glue to top surface of blocking scrap, insert flange nut up from bottom, and then insert both up against / through deck.
 6. Apply glue to inside of hole in deck.
 7. A spare 2" x 1/4" bolt with spare nut and washer was then screwed down into the rivet nut and the nut/washer tightened to pull the rivet nut firmly up into the hole through the deck, it's flange seated up against the bottom of the blocking material.
 8. Allow to dry for an hour.
-9. Remove temporary 2" bolt used to compress rivet nut up into wood. This leaves a hole in the board through each rivet nut - a point of potential water entry to be addressed.
-10. Apply a piece of masking tape to seal off the hole in the rivet nut inside the board.
-11. Drip melted wax from a candle into each rivet nut, filling its threads to the top. This protects the threads from glue, epoxy, varnish or other materials from fouling the threads. Leave the wax in until varnishing is complete. Then, remove wax by melting it with a soldering iron and sucking it out with a syringe or wipe with a Q-tip.
+9. Remove temporary bolt used to compress rivet nut up into wood. This leaves a hole in the board through each rivet nut - a point of potential water entry to be addressed.
+10. Apply a piece of masking tape on interior of board to seal off the nut's bottom opening.
+11. Drip melted wax from a candle into each rivet nut from the top, filling its threads. This protects the threads from glue, epoxy, varnish or other materials from fouling the threads. Leave the wax in until I've completed varnishing the deck. Then, remove wax by melting it with a soldering iron and sucking it out with a syringe or wipe with a Q-tip.
 
 ![pic of rivet nut filled with wax](/images/hobby/paddling/sup/2024-05-19_SUP-rivet-nut-installed-top-labels-600px.jpg)
 
@@ -240,12 +242,12 @@ When no camera mount is attached to one of these rivet nuts they will be sealed 
 
 ### Installing Nose and Tail Blocks
 
-I purchased a ~3' length of approximately 2 x 3" mahogany lumber during my trip to the specialty lumber yard in New Orleans several months ago. This dense wood is being used at the nose and tail of the paddleboard for resilience to dings and the beautiful contrasting color. The tail will be a simple straight piece of block squarely attached to the back of the board. The nose will be two short lengths of mahogany attached at an angle to allow for a more rounded nose and to form a dark "arrow" where they meet the mahogany center stip. I clamped a scrap of wood to the deck of the board to provide a straight line each time I used the circular saw to make the final cuts off the board. The saw rode up on top of this guide, ensuring the blade was cutting truly vertically across the board. During earlier cuts I realized simply running the circular saw across the rounded deck of the paddleboard did not result in a uniform vertical / square cut across the board which is necessary for attaching blocks. The miter box saw was of course used to cut the mahogany blocks and the appropriate angle for them to meet which was approximately 15 degrees.
+I purchased a ~3' length of approximately 2 x 3" mahogany lumber during my trip to the [specialty lumber yard](https://www.riversidelumber.com) in New Orleans several months ago. This dense wood is being used at the nose and tail of the paddleboard for resilience to dings and the beautiful contrasting color. The tail will be a simple straight piece of block squarely attached to the back of the board. The nose will be two short lengths of mahogany attached at an angle to allow for a more rounded nose and to form a dark "arrow" where they meet the mahogany center stip. I clamped a scrap of wood to the deck of the board as a guide each time I used the circular saw to make the final cuts off the board. The saw rode up on top of this guide, ensuring the blade was cutting truly vertically across the board. During earlier cuts I realized simply running the circular saw across the rounded deck of the paddleboard did not result in a uniform vertical / square cut across the board which is necessary for attaching blocks. The miter box saw was of course used to cut the mahogany blocks and the appropriate angle for them to join was approximately 15 degrees.
 
 ![pic of gluing nose block](/images/hobby/paddling/sup/2024-05-19_SUP-nose-block-glue-camp-1-600px.jpg)
 
 *How will I provide compression to hold the blocks up against the board as it is gluing?*  
-Various solutions were provided in YouTube videos by Jarvis Boards, Jenkins Boatworks, and others. I tried using only painter's tape to hold the tail block in place but felt compression was inadequate. An anchor point midway up the board was needed so I could wrap the plastic wrap cords around the end block. I ended up using two 6" C-clamps and some wood scraps to protect the board. I affixed a clamp to either side of the board at the rails which provided a sturdy anchor for the elastic plastic-wrap "ropes" to secure the tail block against the board while the glue set. The same technique was used for attaching the nose blocks.
+Various solutions were provided in YouTube videos by [Jarvis Boards](https://youtu.be/LJLQt6bndMs?si=qJfa2Jtxms4DpIE_) and also a [newer playlist](https://youtu.be/LJLQt6bndMs?si=ltftKaUBroamhplj), by [Jenkins Boatworks](https://www.youtube.com/playlist?list=PLcTGtF1c_Bt7xQ6TQSWx4chD8N35SuRIT), and others. I tried using only painter's tape to hold the tail block in place but felt compression was inadequate. An anchor point midway up the board was needed so I could wrap the cords of plastic wrap around the end block. I ended up using two 6" C-clamps and some wood scraps to protect the board. I affixed a clamp to either side of the board at the rails which provided a sturdy anchor for the elastic plastic-wrap "ropes" to secure the tail block against the board while the glue set. The same technique was used for attaching the nose blocks.
 
 But first, I decided to pre-glue the nose blocks together at the angle (to ensure a tight fit) and I drilled and inserted two dowels within the angled surface to help hold them together and strengthen the bond. This was then glued to the board and allowed to set up securely for a day.
 
@@ -277,11 +279,11 @@ Since I didn't buy quite enough mahogany strips I used some cherry stain to "fak
 
 ![staining center strip](/images/hobby/paddling/sup/2024-05-26_stain-bottom-center-strip-3-600px.jpg)
 
-Sunday afternoon I applied the fiberglass cloth with epoxy resin to the deck of the board. Blue painters tape was used to mask around the bottom of the rails to force the epoxy to drip off the piece onto the floor rather than sticking to the bottom of the board. 
+Sunday afternoon I applied the fiberglass cloth with epoxy resin to the deck of the board. Blue painters tape was used to mask around the bottom of the rails to force the epoxy to drip off the piece onto the floor rather than pooling along the bottom edge of the board. 
 
 ![deck fiberglassing complete](/images/hobby/paddling/sup/2024-05-26_deck-fiberglassed-600px.jpg)
 
-I named the board *Cocodrie*, which is a south Louisiana placename and is a Cajun word for alligator - (think crocodile.) The graphics were printed using a black laserprinter onto rice paper. When saturated with epoxy resin, the rice paper disappears, leaving just the graphic. Similarly, the fiberglass cloth, laid over the rice paper, disappears when saturated, allowing the graphic to show through yet be protected.
+I named the board *Cocodrie*, which is a south Louisiana [placename](https://maps.app.goo.gl/r6yorZyywgKDHffK8) and is a Cajun word for alligator - (think crocodile.) The graphics were printed using a monochrome laserprinter onto rice paper. When saturated with epoxy resin, the rice paper disappears, leaving just the graphic. Similarly, the fiberglass cloth, laid over the rice paper, disappears when saturated, allowing the graphic to show through yet be protected.
 
 ![graphics ](/images/hobby/paddling/sup/2024-05-26_Cocodrie-fiberglassed-600px.jpg)
 
@@ -290,14 +292,6 @@ I named the board *Cocodrie*, which is a south Louisiana placename and is a Caju
 *June 2, 2024*
 
 The completion deadline is rapidly approaching as I intend to put this paddleboard on the water next Friday afternoon during a trip to visit family on Alabama's Lake Martin. I've worked as aggressively as possible over the past week applying a coat of epoxy resin to the top, bottom and sometimes both each day. Beginning the weekend I had fully completed the 3rd coat of resin and the fiberglass fabric is effectively filled. Next is installation of the fin box and deck hardware - each of which requires epoxy to glue it into place.
-
-### Deck Pad Options
-
-I'm considering how to handle the deck padding. And, I need to consider where my dog will ride (up front?) because he will need some traction pads. The available deck pad options are:
-1. Leave it bare - it will probably be slippery and no padding will induce foot fatigue. My heels could damage the board with no padding at all.
-2. Clear no-slip adhesive patches - these preserve the beauty of the wood and prevents slipping, but have zero padding for comfort.
-3. Marine foam decking sheet - thin waterproof adhesive-back foam sheets are the standard solution. They can be cut to fit, providing traction and thin padding, and they probably would look the best.
-4. Or, I might use 3/4" minicell foam - I already have a sheet of this stuff left over from my kayak builds. I'd cut it to fit and bevel the edges. Being thicker, it would be the most comfortable and doesn't absorb water, but the thicker foam would add weight. 
 
 ### Fin Box Installation
 
@@ -328,10 +322,20 @@ A hole saw on my drill was used to cut the remaining holes for the five bungee a
 
 ![deck anchors installation](/images/hobby/paddling/sup/2024-06-02_SUP_deck-anchors-installation_900px.jpg)
 
+
+### Deck Pad Options
+
+I'm considering how to handle the deck padding. And, I need to consider where my dog will ride (up front?) because he will need some traction pads. The available deck pad options are:
+1. Leave it bare - it will probably be slippery and no padding will induce foot fatigue. My heels could damage the board with no padding at all.
+2. Clear no-slip adhesive patches - these preserve the beauty of the wood and prevents slipping, but have zero padding for comfort.
+3. Marine foam decking sheet - thin waterproof adhesive-back foam sheets are the standard solution. They can be cut to fit, providing traction and thin padding, and they probably would look the best.
+4. Or, I might use 3/4" minicell foam - I already have a sheet of this stuff left over from my kayak builds. I'd cut it to fit and bevel the edges. Being thicker, it would be the most comfortable and doesn't absorb water, but the thicker foam would add weight.
+5. Temporary bath tub mats - I decided to temporarily use a couple of non-slip shower mats. They are removable, repositionable, and will let me use the board a while to determine where the finished deck pads should be placed and how large they should be.
+
 ### Remaining Tasks
 
 1. Sand extremely smooth and begin varnishing with a goal of 5 coats.
-3. Deck pads. I decided to temporarily use a couple of non-slip shower mats at first. They are removable, repositionable, and will let me use the board a while to determine where the finished deck pads should be placed and how large they should be.
+3. Deck pads. 
 
 Plan a **launch day!**
 
