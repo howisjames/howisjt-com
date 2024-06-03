@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-06-01T18:00:52-06:00
+lastmod: 2024-06-02T18:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -303,7 +303,7 @@ I'm considering how to handle the deck padding. And, I need to consider where my
 
 Most of the instructional videos from Jarvis and other designers recommend cutting out the void for the fin box using a router. Jenkins Boatworks' used a "multi tool" to cut the rectangular shaped chunk of wood and blocking material out of the bottom of the paddleboard to insert the plastic fin box. I had neither tool, so I used a drill, a circular saw and chisels. My situation differed from many builders in that I used solid wood blocking rather than foam for the fin box.
 
-![fin box installation sequence](/images/hobby/paddling/sup/SUP-fin-box-4-up_900px.jpg)
+![fin box creation sequence](/images/hobby/paddling/sup/2024-06-01_SUP_fin-box-cutting_900px.jpg)
 
 1. First I drilled holes in each of the four corners of the location for the fin box. I used a 3/8" bit, and wrapped painter's tape around the bit to show the desired depth to drill.
 2. Using the circular saw, I slowly dropped it down and cut along both long sides of the rectangle. Then I made several cuts up and down the middle to remove extra stock and establish the desired depth.
@@ -312,6 +312,7 @@ Most of the instructional videos from Jarvis and other designers recommend cutti
 5. I masked the slot in the fin box with painter's tape and stacked some heavy objects onto the fin box to ensure it was forced down into the slot as the epoxy cured.
 6. After initial epoxy set up I removed the masking tape and paper, and cleared everything away from the area. Some cracks remained alongside the plastic fin box, so I mixed a little more epoxy and filled them with a syringe.
 
+![fin box installation sequence](/images/hobby/paddling/sup/SUP-fin-box-4-up_900px.jpg)
 
 ### Deck Hardware Installation
 
