@@ -1,7 +1,7 @@
 ---
 title: Baton Rouge Sights
 date: 2019-01-04T19:00:52-06:00
-lastmod: 2024-03-12T19:00:52-06:00
+lastmod: 2024-06-05T19:00:52-06:00
 cover: "/images/cards/baton-rouge-640x420.jpg"
 draft: false
 categories: 
@@ -69,7 +69,9 @@ Baton Rouge (1805-6) is not as old as the Vieux Carre (1721) in New Orleans, but
 > The massive Louisiana Purchase did not include the [neutral strip](https://www.louisianatravel.com/articles/louisianas-no-mans-land) of western Louisiana, nor the "Florida parishes" which were British and then American territory already.
 
 ### State Capitol & Grounds
-![Louisiana Capitol](/images/travel/batonrouge/state_capitol_of_Louisiana.jpg#floatright)Louisiana's state capitol was built by governor Huey P. Long intentionally to be the tallest capitol in the nation. Partly this was to satisfy his ego, but one could also argue that he wanted to create something notable - even remarkable - for all Louisianans to take pride in. Our "new" capitol is full of history. There's a marble (granite?) column at the rear of the ground floor with the sole remaining bullet hole from the Long assassination (he was a US Senator, not governor at the time.) A spray of bullets littered the hallway from trigger-happy guards causing substantial damage. Everything has long since been repaired or replaced, but the hole in the column remains. Also, in 1970 a bomb was set off in the State Senate chambers! Of course all damage has been repaired, but a single No. 2 pencil was left stuck up into the ceiling from the blast. (Hint: Look near the only ceiling light that remains lit all the time. Binoculars help.) Try to visit on a clear weather day so you can enjoy the view from the top!
+![Louisiana Capitol](/images/travel/batonrouge/state_capitol_of_Louisiana.jpg#floatright)Louisiana's state capitol was built by governor Huey P. Long intentionally to be the tallest capitol in the nation. Partly this was to satisfy his ego, but one could also argue that he wanted to create something notable - even remarkable - for all Louisianans to take pride in. Our "new" capitol is full of history. There's a marble (granite?) column at the rear of the ground floor with an unpatched bullet hole from the shooting that occurred there. Note that Huey was a US Senator, not governor at the time. A spray of bullets littered the hallway from trigger-happy guards causing substantial damage. And, recognize that two men died as a result: Senator Long died a day later as a result of one or two wounds, but Dr. Weiss died instantly after receiving over 60 bullet wounds! Marble panels in the hallway have been relocated, repaired or replaced, but the hole in the column remains. 
+
+Also, in 1970 a bomb was set off in the State Senate chambers! Of course all damage has been repaired and noone was present to be injured, but a single No. 2 pencil was left stuck up into the ceiling from the blast. (Hint: Look near the only ceiling light that remains lit all the time. Binoculars help.) Try to visit the capitol on a clear weather day so you can enjoy the view from the top - the 27th floor!
 
 [State Capitol photo album](https://photos.app.goo.gl/ZKeTaL5oAm7mZB6p9) {{< figure src="/images/logo-google-photos-24px.png" >}}
 
