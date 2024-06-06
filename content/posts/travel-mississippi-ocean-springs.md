@@ -1,8 +1,8 @@
 ---
 title: Ocean Springs, MS
-date: 2024-06-06T19:00:52-06:00
-lastmod: 2024-06-06T19:00:52-06:00
-cover: "/images/cards/ocean-springs-640x420.jpg"
+date: 2024-06-05T19:00:52-06:00
+lastmod: 2024-06-05T19:00:52-06:00
+cover: "/images/cards/ocean-springs_640x420.jpg"
 draft: false
 categories:
 - travel
@@ -18,7 +18,7 @@ In times past - during our country's antebellum period - city folk of means from
 
 ![Six Sisters resort cities map](/images/travel/ocean-springs/mississippi-coast-6-sisters-map.jpg)
 
-Here is a 360 degree [drone view of the waterfront](https://maps.app.goo.gl/89i563K8ANGnwxvEA) from above Ocean Springs' Ft. Maurepas City Park. Deer Island can be seen offshore where I camped last year.
+Here is a 360 degree [drone view of the waterfront](https://maps.app.goo.gl/89i563K8ANGnwxvEA) from above Ocean Springs' Ft. Maurepas City Park. Deer Island can be seen offshore where [I camped]({{< relref "travel-mississippi-camping.md" >}}) last year.
 
 ## Lodging
 
