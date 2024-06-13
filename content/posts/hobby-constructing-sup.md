@@ -345,11 +345,14 @@ During the intervening weekend I took the board to my family reunion in Alabama 
 
 Over the past week I've been sanding and applying coats of varnish. I used Pettit Z Spar Flagship 2015 Varnish diluted with turpentine. I had a quart of this [varnish left over from the gallon purchased for my stitch-n-glue kayak building projects](https://stitchnglue.howisjt.com/blog/2022-10a/) completed in 2022. It is great stuff and I applied 4 coats, preparing the surface with steel wool between each coat and wiping down with a microfiber cloth soaked in rubbing alcohol to remove dust.
 
-![varnishing process](/images/hobby/paddling/sup/*2024-06-11_varnish-prep.jpg)
+![varnishing process](/images/hobby/paddling/sup/2024-06-11_varnish-prep.jpg)
 
 ### Installing Deck Hardware
 
-Remove the 
+- Remove the masking tape from the deck inserts and clean.
+- Remove the layer of epoxy and fiberglass from the two rivet nuts at nose and tail, remove wax filler.
+- Install bungee cord on deck and screw 1/4" D-ring stainless bolts into rivet nuts to seal out water.
+- Install deck padding, or keep using non-slip shower mat.
 
 ## Finished Paddleboard
 
@@ -369,7 +372,9 @@ For anyone considering this project I want to be candid about the process and re
 	- It was resting on foam kayak pads on the rack cross bars and tied down with two ropes, but it worked itself loose. I almost lost it on the interstate at high speed. Fortunately, another motorist blew their horn.
 	- I completed the trip by putting down all passenger-side seats and placed the paddleboard inside the van. This obviously is inconvenient for passengers in the van and limited seating and storage.
 	- To solve I'll need to tie the nose and tail to the front and rear of the van, in addition to straps across it. Or, carry the board on my kayak trailer.
-3. The carry handle isn't ideal. If your finger tips are against the board they will get pinched. After a few steps it starts to hurt. I now try to insert my hand with the back of my palm against the board to avoid discomfort. On a future build I'd consider using a slot-style carry handle embedded within the board.
+3. The carry handle isn't ideal. If your finger tips are against the board they will get pinched. After a few steps it starts to hurt. 
+	- I now try to insert my hand with the back of my palm against the board to avoid discomfort. 
+	- On a future build I may consider using a slot-style carry handle embedded within the board. This has the benefit of not protruding if one were to lie down on the board.
 4. Like my plywood kayaks, the wood strip paddleboard is easily scratched, dinged, etc. Sure, I can repair dings, but one must always treat the board carefully. No rocky rivers in our future.
 5. However, I enjoyed the wood working part of this project, and the beautiful result. My extended family was very impressed.
 
