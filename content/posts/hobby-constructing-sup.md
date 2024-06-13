@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-06-02T18:00:52-06:00
+lastmod: 2024-06-12T18:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -332,12 +332,47 @@ I'm considering how to handle the deck padding. And, I need to consider where my
 4. Or, I might use 3/4" minicell foam - I already have a sheet of this stuff left over from my kayak builds. I'd cut it to fit and bevel the edges. Being thicker, it would be the most comfortable and doesn't absorb water, but the thicker foam would add weight.
 5. Temporary bath tub mats - I decided to temporarily use a couple of non-slip shower mats. They are removable, repositionable, and will let me use the board a while to determine where the finished deck pads should be placed and how large they should be.
 
-### Remaining Tasks
+## Weekend #19
 
-1. Sand extremely smooth and begin varnishing with a goal of 5 coats.
-3. Deck pads. 
+*June 16, 2024 - Father's Day!*
 
-Plan a **launch day!**
+During the intervening weekend I took the board to my family reunion in Alabama where I took it on several runs in Lake Martin. My first time on a SUP went really well. Over three days I went out four times paddling several miles and didn't fall even once! The wakes from the boats and jetskis on Saturday afternoon did make it challenging though.
+
+![First paddle on Lake Martin, AL](/images/hobby/paddling/sup/sup-lake-martin_distance-to-island-1024px.jpg)
+
+
+### Varnishing
+
+Over the past week I've been sanding and applying coats of varnish. I used Pettit Z Spar Flagship 2015 Varnish diluted with turpentine. I had a quart of this [varnish left over from the gallon purchased for my stitch-n-glue kayak building projects](https://stitchnglue.howisjt.com/blog/2022-10a/) completed in 2022. It is great stuff and I applied 4 coats, preparing the surface with steel wool between each coat and wiping down with a microfiber cloth soaked in rubbing alcohol to remove dust.
+
+![varnishing process](/images/hobby/paddling/sup/*2024-06-11_varnish-prep.jpg)
+
+### Installing Deck Hardware
+
+Remove the 
+
+## Finished Paddleboard
+
+I am thrilled with the results of this project. I've enjoyed it and am considering building a second board with the surplus materials - two boxes of strips, half gallon epoxy, fabric, and more - but...but first I'm going to get some use out of this one.
+
+![first coat of varnish applied to paddleboard](/images/hobby/paddling/sup/2024-06-11_varnish-coat-1.jpg)
+
+### Lessons Learned
+
+For anyone considering this project I want to be candid about the process and result.
+
+1. Build a wood strip board if you really like the look and/or enjoy woodworking. But understand...
+	- Inflatable boards are lighter, more durable, less expensive, and more easily transported.
+	- Composite boards are also lighter and are likely to be faster, but will probably be more expensive (unless you're valuing your time.)
+	- It's the roto-molded plastic boards that are tanks. They're nearly indestructible, but heavy.
+2. Transporting that wood strip board on my minivan the first time was a big problem.
+	- It was resting on foam kayak pads on the rack cross bars and tied down with two ropes, but it worked itself loose. I almost lost it on the interstate at high speed. Fortunately, another motorist blew their horn.
+	- I completed the trip by putting down all passenger-side seats and placed the paddleboard inside the van. This obviously is inconvenient for passengers in the van and limited seating and storage.
+	- To solve I'll need to tie the nose and tail to the front and rear of the van, in addition to straps across it. Or, carry the board on my kayak trailer.
+3. The carry handle isn't ideal. If your finger tips are against the board they will get pinched. After a few steps it starts to hurt. I now try to insert my hand with the back of my palm against the board to avoid discomfort. On a future build I'd consider using a slot-style carry handle embedded within the board.
+4. Like my plywood kayaks, the wood strip paddleboard is easily scratched, dinged, etc. Sure, I can repair dings, but one must always treat the board carefully. No rocky rivers in our future.
+5. However, I enjoyed the wood working part of this project, and the beautiful result. My extended family was very impressed.
+
 
 ---
 
