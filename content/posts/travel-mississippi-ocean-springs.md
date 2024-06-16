@@ -51,7 +51,7 @@ Across Biloxi Bay at Kuhne Street is the [Ohr-O'Keefe Museum of Art](https://geo
 
 ### Charnley-Norwood House
 
-Further east beyond Shearwater Pottery is the **Bon Silene** cottage residence designed in 1890 by a young **Frankl Lloyd Wright** while under the employ of **Louis Sullivan**. It was a vacation residence for Chicago lumber magnates: Charnley and later Norwood. It burned and was rebuilt in 1897 to the original design by Norwood with Sullivan's direction. Katrina damaged the house. It was purchased by the State and restored in 2013.
+Further east beyond Shearwater Pottery is the **Bon Silene** cottage residence designed in 1890 by **Louis Sullivan** aided by his employee, a young **Frank Lloyd Wright**. It was a vacation residence for Chicago lumber magnates: Charnley and later Norwood. The home burned and was rebuilt in 1897 to the original design by Norwood with Sullivan's direction. More recently, hurricane Katrina damaged the house. It was then purchased by the State and restored in 2013.
 
 See the [Mississippi Gulf Coast National Heritage Area](https://msgulfcoastheritage.ms.gov/historic/historic-homes/charnley-norwood-house/) to schedule a free tour. heritage@dmr.ms.gov | 228-234-7298
 
