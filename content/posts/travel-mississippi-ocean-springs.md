@@ -36,7 +36,7 @@ I'll describe the gallery and exhibits following our visit.
 
 ### Shearwater Pottery
 
-Shearwater Pottery takes its name from a mis-identified shorebird. This business was also founded by the Anderson family - was it Walter's parents? - and Walter and his siblings worked there, although his interests were drawn more towards painting and the natural environment of the coast. The business was named after the Black Skimmer, misidentified as a Shearwater. Still, the name stuck and even the road shares the same name. Fortunately, several species of Shearwaters do roam the Gulf of Mexico, though as pelagic species they are infrequent visitors to the shore.
+Shearwater Pottery takes its name from a mis-identified shorebird. This business was also founded by the Anderson family - Walter's parents - who arrived from New Orleans and purchased a tract of waterfront property on Biloxi Bay. Walter and his siblings worked there, although Walter's interests were drawn more towards the natural environment of the coast and expressing it through art. The pottery business was named after the Black Skimmer, misidentified as a Shearwater. Still, the name stuck and even the road shares the same name. Fortunately, several species of Shearwaters do roam the Gulf of Mexico, though as pelagic species they are infrequent visitors to the shore.
 
 I'll describe what we see at Shearwater Pottery after our visit.
 

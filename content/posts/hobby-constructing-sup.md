@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-06-12T18:00:52-06:00
+lastmod: 2024-06-117T18:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -11,9 +11,10 @@ description: Constructing a Strip-Built Paddleboard
 
 Having successfully built [three recreational kayaks](https://stitchnglue.howisjt.com/) constructed of marine-grade plywood using the stitch-and-glue method I had some surplus materials remaining and decided to pursue another boat project. Stand-up paddleboarding (SUP) appealed to me --- and to my sons also --- so we decided to build a paddleboard rather than another kayak. 
 
-![example photo by another builder](/images/hobby/paddling/sup/0000-example-paddleboard.jpg)
+{{< youtube fpsUEfmRMJg >}}
 
->The above photo is of a Jarvis Boards' San Marcos model beautifully crafted by a [builder in Canada](https://jarvisboards.com/blogs/customer-builds/wooden-paddle-board-builder-spotlight-from-ontario-canada).
+
+>The above video is a time-lapse of the paddleboard construction process. 
 
 ## Plans
 
