@@ -27,7 +27,9 @@ We stayed at a quaint B&B in the heart of Ocean Springs and largely succeeded, e
 
 ## Arts & Culture
 
-![black skimmer tile art](/images/travel/ocean-springs/walter-anderson-tile-gull-400px.jpg#floatright)The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland?
+![black skimmer tile art](/images/travel/ocean-springs/walter-anderson-tile-gull-400px.jpg)
+
+The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland?
 
 I recently spent a night [solo camping on nearby Deer Island]({{< relref "travel-mississippi-camping.md" >}}) and enjoyed the solitude, though I wasn't really alone (there were a couple of other overnight campers on the island) and all night long I could hear the sounds of traffic and trains in Biloxi
 
@@ -38,6 +40,8 @@ Decades ago I visited West Ship Island by [tourist ferry](https://msshipisland.c
 ![Horn Island scene by Walter Anderson](/images/travel/ocean-springs/walter-anderson-art-horn-island-700px.jpg)
 
 To begin, I'll endorse this fascinating  15-minute "[Mississippi Moments Podcast](https://podcasts.apple.com/us/podcast/john-anderson-the-friends-of-walter-anderson/id312847589?i=1000540407046)" by the University of Southern Mississippi's Center for Oral History & Cultural Heritage interview with Walter Anderson's nephew John Anderson. He dislikes "museum" in the facility's name, finding it limiting of the scope and expression of Walter's works. 
+
+![Walter Anderson Museum sign](/images/travel/ocean-springs/WA-animated_64_25pct.gif
 
 The museum and exhibits within - including the murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting. We found it amusing that Walter donated his services to paint the murals within the community center and that the local populace considered painting over them soon after he completed them.
 
