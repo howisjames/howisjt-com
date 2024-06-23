@@ -49,6 +49,8 @@ The museum and exhibits within - including the murals on the interior walls of t
 
 Shearwater Pottery takes its name from a mis-identified shorebird. This business was also founded by the Anderson family - Walter's older brother Peter - on property purchased by their mother who arrived from New Orleans and purchased a tract of waterfront property on Biloxi Bay. Walter and his siblings worked in the family business, although Walter's interests were drawn more towards the natural environment of the coast and expressing it through art. The pottery business was named after the Black Skimmer, misidentified as a Shearwater. Still, the name stuck and even the road shares the name. Fortunately, several species of Shearwater birds do roam the Gulf of Mexico, though as pelagic species they are infrequent visitors to the shore.
 
+![Shearwater Pottery pieces](/images/travel/ocean-springs/NAME.jpg)
+
 Shearwater Pottery is certainly worth a visit, but they are chronically low on stock for sale. It was explained that the merchandise is so popular the family can't make it fast enough. (Sure they could outsource production but would then lose authenticity.) While the focus is pottery, there also is some painted artwork and even linens by Anderson family decendants. Many of the most interesting pieces are not for sale but are on exhibit in a museum room.
 
 
@@ -56,11 +58,15 @@ Shearwater Pottery is certainly worth a visit, but they are chronically low on s
 
 The [Mary C. O'Keefe Cultural Arts Center](https://www.themaryc.art/) occupies the historic high school building on Government Street just east of the core business and entertainment district in Ocean Springs. The center includes galleries, a history museum and performance space for regularly scheduled events. 
 
+![Mary C O'Keefe Cultural Center](/images/travel/ocean-springs/gallery/mary-okeefe-center-thumb.jpg)
+
 While we did get to walk through the building, our visit coincided with a transition of the galleries so we did not get to see the collections.
 
 ### Ohr-O'Keefe Museum of Art
 
 Across Biloxi Bay at Kuhne Street in Biloxi is the [Ohr-O'Keefe Museum of Art](https://georgeohr.org/). Portions of the facility were designed by Frank Gehry, while the O'Keefe family were benefactors. The museum displays works of another local potter George Ohr - the "Wild Potter of Biloxi" - who predated Peter Anderson's business at Shearwater. The architecture of the facility is remarkable and many of the exhibits were quite interesting. Surprisingly to me, many of the exhibits are of Gehry's architectural work including *very* rough sketches, 3D models of proposed projects, and some other of his artwork. As I have been through considerable architectural-type education through my degree at LSU, I was more impressed and interested in Ohr's pottery than in Gehry's extremely rough sketches...
+
+![Ohr - O'Keefe - Gehry Museum of Art & Architecture](/images/travel/ocean-springs/gallery/ohr-okeefe-gehry-museurm-biloxi-thumb.jpg)
 
 
 ### Charnley-Norwood House
@@ -72,6 +78,8 @@ See the [Mississippi Gulf Coast National Heritage Area](https://msgulfcoastherit
 ### Front Beach
 
 The first evening we drove the length of Front Beach, parking briefly at the Yacht Club to walk over and investigate the tile art located along the walkway at the foot of the Ocean Springs side of the new Biloxi Bay bridge. This tile work art is remarkable!
+
+![Tile art by Veglia](/images/travel/ocean-springs/veglia-tile-art700px.jpg)
 
 While driving around the beachfront we were surprised to see the temporary closure of several local roads - including the foot of Washington Street - due to high tides causing the streets to flood. I'm curious for how long this has been an issue. We did visit during the cycle of a full moon.
 
@@ -89,6 +97,7 @@ In heat of Thursday afternoon we stopped by Pop Brothers Ice Pops on Government 
 
 After rising Thursday morning and while my wife continued to sleep, I drove down to Front Beach and launched my paddleboard for the first time in salt water. (Okay, it is brackish water.) I paddled just over a mile round-trip, from an area where the sand beach was narrow near the Yacht Club east to beyond the Chester McPhearson Pier and back. Boat traffic was at a minimum but wind gusts were beginning to pick up and I had to focus to keep my balance. On the return trip I was joined by a pair of curious porpoises who were investigating me for a hundred yards or so.
 
+![Davis Bayou scene](/images/travel/ocean-springs/davis-bayou-egret-thumb.jpg)
 
 [Davis Bayou Campground](https://www.recreation.gov/camping/campgrounds/250796) is part of the Gulf Islands National Seashore administered by the National Park Service. We drove over to scout out the campground for possible future visits. What we discovered is sad but typical of campgrounds these days - it caters almost exclusively to trailered or motor-home campers. Most of the sites - practically all of them in the areas featuring shade trees - are tiny and have no level ground aside from the asphalt camper space. I'm a tent camper, and few sites here would be suitable, and most of those are in the open field and have no sun protection or privacy. 
 
