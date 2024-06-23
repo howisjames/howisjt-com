@@ -49,7 +49,7 @@ The museum and exhibits within - including the murals on the interior walls of t
 
 Shearwater Pottery takes its name from a mis-identified shorebird. This business was also founded by the Anderson family - Walter's older brother Peter - on property purchased by their mother who arrived from New Orleans and purchased a tract of waterfront property on Biloxi Bay. Walter and his siblings worked in the family business, although Walter's interests were drawn more towards the natural environment of the coast and expressing it through art. The pottery business was named after the Black Skimmer, misidentified as a Shearwater. Still, the name stuck and even the road shares the name. Fortunately, several species of Shearwater birds do roam the Gulf of Mexico, though as pelagic species they are infrequent visitors to the shore.
 
-![Shearwater Pottery pieces](/images/travel/ocean-springs/shearwater-pottery-cat-figurine.jpg)
+![Shearwater Pottery pieces](/images/travel/ocean-springs/shearwater-pottery-cat-figurine-700px.jpg)
 
 Shearwater Pottery is certainly worth a visit, but they are chronically low on stock for sale. It was explained that the merchandise is so popular the family can't make it fast enough. (Sure they could outsource production but would then lose authenticity.) While the focus is pottery, there also is some painted artwork and even linens by Anderson family decendants. Many of the most interesting pieces are not for sale but are on exhibit in a museum room.
 
