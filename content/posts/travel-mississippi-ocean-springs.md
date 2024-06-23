@@ -11,7 +11,7 @@ tags:
 description: One of the Six Sisters of the Gulf Coast.
 ---
 
-![black skimmer tile art](/images/travel/ocean-springs/walter-anderson-tile-gull-400px.jpg#floatright)We were attracted by the art and mystique of Walter Anderson. And we discovered so much more to enjoy as my wife and I visited Ocean Springs - one of the *Six Sisters* of the Gulf Coast - in celebration of our anniversary. 
+We were attracted by the art and mystique of Walter Anderson. And we discovered so much more to enjoy as my wife and I visited Ocean Springs - one of the *Six Sisters* of the Gulf Coast - in celebration of our anniversary. 
 
 ## The Six Sisters
 
@@ -27,7 +27,7 @@ We stayed at a quaint B&B in the heart of Ocean Springs and largely succeeded, e
 
 ## Arts & Culture
 
-The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland?
+![black skimmer tile art](/images/travel/ocean-springs/walter-anderson-tile-gull-400px.jpg#floatright)The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland?
 
 I recently spent a night [solo camping on nearby Deer Island]({{< relref "travel-mississippi-camping.md" >}}) and enjoyed the solitude, though I wasn't really alone (there were a couple of other overnight campers on the island) and all night long I could hear the sounds of traffic and trains in Biloxi
 
