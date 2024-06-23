@@ -41,7 +41,7 @@ Decades ago I visited West Ship Island by [tourist ferry](https://msshipisland.c
 
 To begin, I'll endorse this fascinating  15-minute "[Mississippi Moments Podcast](https://podcasts.apple.com/us/podcast/john-anderson-the-friends-of-walter-anderson/id312847589?i=1000540407046)" by the University of Southern Mississippi's Center for Oral History & Cultural Heritage interview with Walter Anderson's nephew John Anderson. He dislikes "museum" in the facility's name, finding it limiting of the scope and expression of Walter's works. 
 
-![Walter Anderson Museum sign](/images/travel/ocean-springs/WA-animated_64_25pct.gif
+![Walter Anderson Museum sign](/images/travel/ocean-springs/WA-animated_64_25pct.gif)
 
 The museum and exhibits within - including the murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting. We found it amusing that Walter donated his services to paint the murals within the community center and that the local populace considered painting over them soon after he completed them.
 
