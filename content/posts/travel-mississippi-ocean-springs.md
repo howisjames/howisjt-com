@@ -10,7 +10,8 @@ tags:
 - Mississippi
 description: One of the Six Sisters of the Gulf Coast.
 ---
-We were attracted by the art and mystique of Walter Anderson. And we discovered so much more to enjoy as my wife and I visited Ocean Springs - one of the *Six Sisters* of the Gulf Coast - in celebration of our anniversary. 
+
+![black skimmer tile art](/images/travel/ocean-springs/walter-anderson-tile-gull-400px.jpg#floatright)We were attracted by the art and mystique of Walter Anderson. And we discovered so much more to enjoy as my wife and I visited Ocean Springs - one of the *Six Sisters* of the Gulf Coast - in celebration of our anniversary. 
 
 ## The Six Sisters
 
@@ -26,30 +27,36 @@ We stayed at a quaint B&B in the heart of Ocean Springs and largely succeeded, e
 
 ## Arts & Culture
 
-The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. I recently spent a night [solo camping on nearby Deer Island]({{< relref "travel-mississippi-camping.md" >}}) and decades ago visited West Ship Island by [tourist ferry](https://msshipisland.com/) which is a fun and interesting trip. Both islands have some sandy beaches, Ship Island has clearer Gulf waters, both featured sightings of dolphins in the Mississippi Sound, and a Ship Island includes a tour of historic [Fort Massachusetts](https://www.nps.gov/guis/learn/historyculture/fort-massachusetts.htm) maintained by the National Park Service.
+The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland?
+
+I recently spent a night [solo camping on nearby Deer Island]({{< relref "travel-mississippi-camping.md" >}}) and enjoyed the solitude, though I wasn't really alone (there were a couple of other overnight campers on the island) and all night long I could hear the sounds of traffic and trains in Biloxi
+
+Decades ago I visited West Ship Island by [tourist ferry](https://msshipisland.com/) which is a fun and interesting trip. Ship island reportedly served as the "Plymouth Rock" of the Gulf coast due to its natural deep water harbor. It has sandy beaches, clearer Gulf waters, there will be sightings of dolphins in the Mississippi Sound, and a Ship Island trip includes a tour of historic Civil War era [Fort Massachusetts](https://www.nps.gov/guis/learn/historyculture/fort-massachusetts.htm) maintained by the National Park Service.
 
 ### Walter Anderson Museum
 
+![Horn Island scene by Walter Anderson](/images/travel/ocean-springs/walter-anderson-art-horn-island-700px.jpg)
+
 To begin, I'll endorse this fascinating  15-minute "[Mississippi Moments Podcast](https://podcasts.apple.com/us/podcast/john-anderson-the-friends-of-walter-anderson/id312847589?i=1000540407046)" by the University of Southern Mississippi's Center for Oral History & Cultural Heritage interview with Walter Anderson's nephew John Anderson. He dislikes "museum" in the facility's name, finding it limiting of the scope and expression of Walter's works. 
 
-The museum and exhibits within - including the murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting.
+The museum and exhibits within - including the murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting. We found it amusing that Walter donated his services to paint the murals within the community center and that the local populace considered painting over them soon after he completed them.
 
 ### Shearwater Pottery
 
 Shearwater Pottery takes its name from a mis-identified shorebird. This business was also founded by the Anderson family - Walter's older brother Peter - on property purchased by their mother who arrived from New Orleans and purchased a tract of waterfront property on Biloxi Bay. Walter and his siblings worked in the family business, although Walter's interests were drawn more towards the natural environment of the coast and expressing it through art. The pottery business was named after the Black Skimmer, misidentified as a Shearwater. Still, the name stuck and even the road shares the name. Fortunately, several species of Shearwater birds do roam the Gulf of Mexico, though as pelagic species they are infrequent visitors to the shore.
 
-Shearwater Pottery is certainly worth a visit, but they are chronicly low on stock for sale. It was explained that the merchandise is so popular the family can't make it fast enough. (Sure they could outsource production but would then lose authenticity.) While the focus is pottery, there also is some painted artwork and even linnens by Anderson family decendents. Many of the most interesting pieces are not for sale but are on exhibit in a museum room.
+Shearwater Pottery is certainly worth a visit, but they are chronically low on stock for sale. It was explained that the merchandise is so popular the family can't make it fast enough. (Sure they could outsource production but would then lose authenticity.) While the focus is pottery, there also is some painted artwork and even linens by Anderson family decendants. Many of the most interesting pieces are not for sale but are on exhibit in a museum room.
 
 
 ### The "Mary C"
 
-The [Mary C. O'Keefe Cultural Arts Center](https://www.themaryc.art/) occupies the historic high school building on Government Street just east of the core business and entertainment district in Ocean Springs. The center includes galleries, a history museum and performace space for regularly scheduled events. 
+The [Mary C. O'Keefe Cultural Arts Center](https://www.themaryc.art/) occupies the historic high school building on Government Street just east of the core business and entertainment district in Ocean Springs. The center includes galleries, a history museum and performance space for regularly scheduled events. 
 
 While we did get to walk through the building, our visit coincided with a transition of the galleries so we did not get to see the collections.
 
 ### Ohr-O'Keefe Museum of Art
 
-Across Biloxi Bay at Kuhne Street is the [Ohr-O'Keefe Museum of Art](https://georgeohr.org/). Portions of the facility were designed by Frank Gehry, while the O'Keefe family were benefactors. The museum displays works of another local potter George Ohr - the "Wild Potter of Biloxi" - who predated Peter Anderson's business. The architecture of the facility is remarkable and many of the exhibits were quite interesting. Surprisingly, many of the exhibits are of Gehry's architectural work including *very* rough sketches, 3D models of proposed projects, and some other of his artwork. As I have been through considerable architectural-type education through my degree at LSU, I was more impressed and interested in Ohr's pottery than in Gehry's extremely rough sketches...
+Across Biloxi Bay at Kuhne Street in Biloxi is the [Ohr-O'Keefe Museum of Art](https://georgeohr.org/). Portions of the facility were designed by Frank Gehry, while the O'Keefe family were benefactors. The museum displays works of another local potter George Ohr - the "Wild Potter of Biloxi" - who predated Peter Anderson's business at Shearwater. The architecture of the facility is remarkable and many of the exhibits were quite interesting. Surprisingly to me, many of the exhibits are of Gehry's architectural work including *very* rough sketches, 3D models of proposed projects, and some other of his artwork. As I have been through considerable architectural-type education through my degree at LSU, I was more impressed and interested in Ohr's pottery than in Gehry's extremely rough sketches...
 
 
 ### Charnley-Norwood House
@@ -62,6 +69,9 @@ See the [Mississippi Gulf Coast National Heritage Area](https://msgulfcoastherit
 
 The first evening we drove the length of Front Beach, parking briefly at the Yacht Club to walk over and investigate the tile art located along the walkway at the foot of the Ocean Springs side of the new Biloxi Bay bridge. This tile work art is remarkable!
 
+While driving around the beachfront we were surprised to see the temporary closure of several local roads - including the foot of Washington Street - due to high tides causing the streets to flood. I'm curious for how long this has been an issue. We did visit during the cycle of a full moon.
+
+Another scenic area was the public boat launch and Ocean Springs Harbor with all of the pleasure yachts, sail boats and working craft in the seafood industry moored along the docks.
 
 ## Food
 
@@ -73,11 +83,8 @@ In heat of Thursday afternoon we stopped by Pop Brothers Ice Pops on Government 
 
 ## Outdoors
 
-After rising Thursday morning and while my wife continued to sleep I drove down to Front Beach and launched my paddleboard for the first time in salt water. (Okay, it is brackish water.) I paddled just over a mile round-trip, from an area where the sand beach was narrow near the Yacht Club east to beyond the Chester McPhearson Pier and back. Boat traffic was at a minimum but wind gusts were beginning to pick up and I had to focus to keep my balance. On the return trip I was joined by a pair of curious porpoises who were investigating me for a hundred yards or so.
+After rising Thursday morning and while my wife continued to sleep, I drove down to Front Beach and launched my paddleboard for the first time in salt water. (Okay, it is brackish water.) I paddled just over a mile round-trip, from an area where the sand beach was narrow near the Yacht Club east to beyond the Chester McPhearson Pier and back. Boat traffic was at a minimum but wind gusts were beginning to pick up and I had to focus to keep my balance. On the return trip I was joined by a pair of curious porpoises who were investigating me for a hundred yards or so.
 
-While driving around the beachfront we were surprised to see the temporary closure of several local roads - including the foot of Washington Street - due to high tides causing the streets to flood. I'm curious for how long this has been an issue. We did visit during the cycle of a full moon.
-
-Another scenic area was the public boat launch and Ocean Springs Harbor with all of the pleasure yachts, sail boats and working craft in the seafood industry moored along the docks.
 
 [Davis Bayou Campground](https://www.recreation.gov/camping/campgrounds/250796) is part of the Gulf Islands National Seashore administered by the National Park Service. We drove over to scout out the campground for possible future visits. What we discovered is sad but typical of campgrounds these days - it caters almost exclusively to trailered or motor-home campers. Most of the sites - practically all of them in the areas featuring shade trees - are tiny and have no level ground aside from the asphalt camper space. I'm a tent camper, and few sites here would be suitable, and most of those are in the open field and have no sun protection or privacy. 
 
@@ -88,3 +95,9 @@ Across the bayou from the campground and located at the end of E Beach Drive is 
 ## Drive Home
 
 We concluded our overnight trip with a drive home along scenic US 90 along the beachfront of Biloxi, Gulfport, Long Beach, Pass Christian, and Bay St. Louis. My wife lamented the loss of so many beautiful homes from Katrina. The new developments are encouraging economically, but most lack the charm of the now lost architecture. We stopped for a late lunch at *Bacchus on the Beach* overlooking scenic Pass Christian Harbor. The burger and crab cake sandwiches there were great, and I feel like I saw Otis Redding sitting on the dock of the bay!
+
+## Gallery
+
+Click a thumbnail to enlarge the image, or view as a slideshow.
+
+{{< foldergallery src="images/travel/ocean-springs/gallery" >}}
