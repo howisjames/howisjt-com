@@ -49,10 +49,9 @@ The museum and exhibits within - including the murals on the interior walls of t
 
 Shearwater Pottery takes its name from a mis-identified shorebird. This business was also founded by the Anderson family - Walter's older brother Peter - on property purchased by their mother who arrived from New Orleans and purchased a tract of waterfront property on Biloxi Bay. Walter and his siblings worked in the family business, although Walter's interests were drawn more towards the natural environment of the coast and expressing it through art. The pottery business was named after the Black Skimmer, misidentified as a Shearwater. Still, the name stuck and even the road shares the name. Fortunately, several species of Shearwater birds do roam the Gulf of Mexico, though as pelagic species they are infrequent visitors to the shore.
 
-![Shearwater Pottery pieces](/images/travel/ocean-springs/NAME.jpg)
+![Shearwater Pottery pieces](/images/travel/ocean-springs/shearwater-pottery-cat-figurine.jpg)
 
 Shearwater Pottery is certainly worth a visit, but they are chronically low on stock for sale. It was explained that the merchandise is so popular the family can't make it fast enough. (Sure they could outsource production but would then lose authenticity.) While the focus is pottery, there also is some painted artwork and even linens by Anderson family decendants. Many of the most interesting pieces are not for sale but are on exhibit in a museum room.
-
 
 ### The "Mary C"
 
@@ -97,7 +96,7 @@ In heat of Thursday afternoon we stopped by Pop Brothers Ice Pops on Government 
 
 After rising Thursday morning and while my wife continued to sleep, I drove down to Front Beach and launched my paddleboard for the first time in salt water. (Okay, it is brackish water.) I paddled just over a mile round-trip, from an area where the sand beach was narrow near the Yacht Club east to beyond the Chester McPhearson Pier and back. Boat traffic was at a minimum but wind gusts were beginning to pick up and I had to focus to keep my balance. On the return trip I was joined by a pair of curious porpoises who were investigating me for a hundred yards or so.
 
-![Davis Bayou scene](/images/travel/ocean-springs/davis-bayou-egret-thumb.jpg)
+![Davis Bayou scene](/images/travel/ocean-springs/gallery/davis-bayou-egret-thumb.jpg)
 
 [Davis Bayou Campground](https://www.recreation.gov/camping/campgrounds/250796) is part of the Gulf Islands National Seashore administered by the National Park Service. We drove over to scout out the campground for possible future visits. What we discovered is sad but typical of campgrounds these days - it caters almost exclusively to trailered or motor-home campers. Most of the sites - practically all of them in the areas featuring shade trees - are tiny and have no level ground aside from the asphalt camper space. I'm a tent camper, and few sites here would be suitable, and most of those are in the open field and have no sun protection or privacy. 
 
