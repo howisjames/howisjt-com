@@ -385,7 +385,7 @@ For anyone considering this project I want to be candid about the process and re
 
 During the build process I assumed I was going to store it on the [boat trailer](https://stitchnglue.howisjt.com/blog/2022-12/) with my three other kayaks. But, I never actually measured anything. Duh. It didn't fit. And, the board was consuming too much space resting on saw horses in my storage room, so the next best option was to rig a hoist to store it up against the ceiling of my carport. This seems to work out well, though I wasn't able to pull it up tightly against the ceiling as hoped and had to install it in the center of the carport between the two vehicles rather than against the storage room side because the door hit the board when opened. (The storage room was too small to install the hoist in the room, as getting the board in and out would have been challenging every time. Also, there isn't sufficient wall space.)
 
-![varnishing process](/images/hobby/paddling/sup/2024-06-11_varnish-prep.jpg)
+![varnishing process](/images/hobby/paddling/sup/paddleboard-hoist-700px.jpg)
 
 ---
 
