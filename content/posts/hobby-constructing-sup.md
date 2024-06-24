@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-06-117T18:00:52-06:00
+lastmod: 2024-06-237T18:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -379,6 +379,13 @@ For anyone considering this project I want to be candid about the process and re
 4. Like my plywood kayaks, the wood strip paddleboard is easily scratched, dinged, etc. Sure, I can repair dings, but one must always treat the board carefully. No rocky rivers in our future.
 5. However, I enjoyed the wood working part of this project, and the beautiful result. My extended family was very impressed.
 
+## Storage
+
+*Where am I going to store this thing?*
+
+During the build process I assumed I was going to store it on the [boat trailer](https://stitchnglue.howisjt.com/blog/2022-12/) with my three other kayaks. But, I never actually measured anything. Duh. It didn't fit. And, the board was consuming too much space resting on saw horses in my storage room, so the next best option was to rig a hoist to store it up against the ceiling of my carport. This seems to work out well, though I wasn't able to pull it up tightly against the ceiling as hoped and had to install it in the center of the carport between the two vehicles rather than against the storage room side because the door hit the board when opened. (The storage room was too small to install the hoist in the room, as getting the board in and out would have been challenging every time. Also, there isn't sufficient wall space.)
+
+![varnishing process](/images/hobby/paddling/sup/2024-06-11_varnish-prep.jpg)
 
 ---
 
