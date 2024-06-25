@@ -1,21 +1,21 @@
 ---
 title: Ocean Springs, MS
 date: 2024-06-05T19:00:52-06:00
-lastmod: 2024-06-14T19:00:52-06:00
+lastmod: 2024-06-24T19:00:52-06:00
 cover: "/images/cards/ocean-springs_640x420.jpg"
 draft: false
 categories:
 - travel
 tags:
 - Mississippi
-description: One of the Six Sisters of the Gulf Coast.
+description: One of the Six Sisters of the Gulf Coast
 ---
 
 We were attracted by the art and mystique of Walter Anderson. And we discovered so much more to enjoy as my wife and I visited Ocean Springs - one of the *Six Sisters* of the Gulf Coast - in celebration of our anniversary. 
 
 ## The Six Sisters
 
-In times past - city folk of means from New Orleans, Jackson and Mobile sought to escape pre-air-conditioned urban life to spend their summers enjoying sea breezes, "healing" spring waters, and good times along Mississippi's Gulf coast. Small coastal towns advertised their accommodations, food and drink as [Six Sisters](https://mississippiencyclopedia.org/entries/six-sisters-of-the-gulf-coast/) grew to be known as Gulf Coast resort towns. Initially served by steam ship, by the 1880's a railroad line linked New Orleans to Mobile through these towns and locked in their role as coastal resorts. From west to east the towns (now cities) are Bay St. Louis, Pass Christian, Gulfport (Mississippi City,) Biloxi, Ocean Springs and Pascagoula. The map below shows these Six Sisters linked by US Highway 90 (part of the [Old Spanish Trail](https://en.wikipedia.org/wiki/Old_Spanish_Trail_(auto_trail)),) and they are now of course served indirectly by Interstate 10. 
+In times past - city folk of means from New Orleans, Jackson and Mobile sought to escape pre-air-conditioned urban life to spend their summers enjoying sea breezes, "healing" spring waters, and good times along Mississippi's Gulf coast. Small coastal towns advertised their accommodations, food and drink as [Six Sisters](https://mississippiencyclopedia.org/entries/six-sisters-of-the-gulf-coast/) grew to be known as Gulf Coast resort towns. Initially served by steam ship, by the 1880's a railroad line linked New Orleans to Mobile through these towns and locked in their role as coastal resorts. From west to east the towns (now cities) are Bay St. Louis, Pass Christian, Gulfport / Mississippi City, Biloxi, Ocean Springs and Pascagoula. The map below shows these Six Sisters linked by US Highway 90 (part of the [Old Spanish Trail](https://en.wikipedia.org/wiki/Old_Spanish_Trail_(auto_trail)),) and they are now of course served indirectly by Interstate 10. 
 
 ![Six Sisters resort cities map](/images/travel/ocean-springs/mississippi-coast-6-sisters-map.jpg)
 
@@ -23,15 +23,15 @@ Linked here is a beautiful 360-degree [drone view of the waterfront](https://map
 
 ## Lodging
 
-We stayed at a quaint B&B in the heart of Ocean Springs and largely succeeded, except that most of these boutique inns don't serve meals. Really, they should be B&I for Bed & Internet. It turned out to not be an issue since there are so many delicious eateries within walking distance, and I assume this is by design. We stayed at the [Springs Hotel](https://www.springshotelos.com/) located on Washington Ave. in the heart of O.S. next to the Walter Anderson Museum. It was within easy walking distance to the shops, restaurants and bars along Washington and Government Streets. 
+We stayed at a quaint B&B in the heart of Ocean Springs and largely succeeded, except that most of these boutique inns don't serve meals. Really, they should be B&I for Bed & Internet. It turned out to not be an issue since there are so many delicious eateries within walking distance, and I assume this is by design. We stayed at the [Springs Hotel](https://www.springshotelos.com/) located on Washington Ave. in the heart of Ocean Springs next to the Walter Anderson Museum. It was within easy walking distance to the shops, restaurants and bars along Washington and Government Streets. 
 
 ## Arts & Culture
 
 ![black skimmer tile art](/images/travel/ocean-springs/walter-anderson-tile-gull-400px.jpg)
 
-The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland?
+The Anderson family readily admits that Walter was something of a peculiar man. He viewed the world and societal norms differently than most. Anderson passed away in 1965 before receiving any significant notoriety for his art, which took off in the mid 1970s. Anderson loved nature during a time when the hippie movement wanted people to love each other. Anderson's art reflects this and the time he spent alone in nature - even repeatedly sailing a tiny one-man skiff about 11 miles offshore to Horn Island and even 25 miles offshore to Louisiana's Chandeleur Islands. Near the time of his death, we were informed that Walter rode out hurricane Betsy while lashed to a tree on Horn Island because he wanted to experience the power of nature. The idea of this invokes so many questions: how did he survive rising storm surge waters? how did he secure his boat? how did he physically recover to endure an 11 mile paddle back to the mainland? He was quite the dude - also canoing down the mighty Mississippi.
 
-I recently spent a night [solo camping on nearby Deer Island]({{< relref "travel-mississippi-camping.md" >}}) and enjoyed the solitude, though I wasn't really alone (there were a couple of other overnight campers on the island) and all night long I could hear the sounds of traffic and trains in Biloxi
+I recently spent a night [solo camping on nearby Deer Island]({{< relref "travel-mississippi-camping.md" >}}) and enjoyed the solitude, though I wasn't really alone (there were a couple of other overnight campers on the island) and all night long I could hear the sounds of traffic and trains in Biloxi.
 
 Decades ago I visited West Ship Island by [tourist ferry](https://msshipisland.com/) which is a fun and interesting trip. Ship island reportedly served as the "Plymouth Rock" of the Gulf coast due to its natural deep water harbor. It has sandy beaches, clearer Gulf waters, there will be sightings of dolphins in the Mississippi Sound, and a Ship Island trip includes a tour of historic Civil War era [Fort Massachusetts](https://www.nps.gov/guis/learn/historyculture/fort-massachusetts.htm) maintained by the National Park Service.
 
@@ -43,7 +43,7 @@ To begin, I'll endorse this fascinating  15-minute "[Mississippi Moments Podcast
 
 ![Walter Anderson Museum sign](/images/travel/ocean-springs/WA-animated_64_25pct.gif)
 
-The museum and exhibits within - including the murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting. We found it amusing that Walter donated his services to paint the murals within the community center and that the local populace considered painting over them soon after he completed them.
+The museum and exhibits within - including the WPA-era murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting. (We sat for most of it.) We found it amusing that Walter donated his services to paint the community center murals and that the local populace considered painting over them soon after he completed them.
 
 ### Shearwater Pottery
 
@@ -72,11 +72,11 @@ Across Biloxi Bay at Kuhne Street in Biloxi is the [Ohr-O'Keefe Museum of Art](h
 
 Further east beyond Shearwater Pottery is the **Bon Silene** cottage residence designed in 1890 by **Louis Sullivan** aided by his employee, a young **Frank Lloyd Wright**. It was a vacation residence for Chicago lumber magnates: Charnley and later Norwood. The home burned and was rebuilt in 1897 to the original design by Norwood with Sullivan's direction. More recently, hurricane Katrina damaged the house. It was then purchased by the State and restored in 2013. We never made it this far east to view the house, and doing so also requires pre-planning to schedule a tour. Contact info is provided below.
 
-See the [Mississippi Gulf Coast National Heritage Area](https://msgulfcoastheritage.ms.gov/historic/historic-homes/charnley-norwood-house/) to schedule a free tour. heritage@dmr.ms.gov | 228-234-7298
+See the [Mississippi Gulf Coast National Heritage Area](https://msgulfcoastheritage.ms.gov/historic/historic-homes/charnley-norwood-house/) to schedule a free tour. heritage@dmr.ms.gov | 228-234-7298.
 
 ### Front Beach
 
-The first evening we drove the length of Front Beach, parking briefly at the Yacht Club to walk over and investigate the tile art located along the walkway at the foot of the Ocean Springs side of the new Biloxi Bay bridge. This tile work art is remarkable!
+The first evening we drove the length of Front Beach, parking briefly at the Yacht Club to walk over and investigate the tile art by mosaic artist Elizabeth Veglia located along the walkway at the foot of the Ocean Springs side of the new Biloxi Bay bridge. These mosiacs are remarkable!
 
 ![Tile art by Veglia](/images/travel/ocean-springs/veglia-tile-art700px.jpg)
 
@@ -90,7 +90,7 @@ Dinner at [Maison de Lu](https://www.maisondelu.com/) was delicious, and for the
 
 The following morning we *very much* enjoyed brunch at [The Lady May](https://www.theladymay.com/) where both the food and the service were excellent and more affordable.
 
-In heat of Thursday afternoon we stopped by Pop Brothers Ice Pops on Government Street to enjoy a treat. I made the right decision to get a fruit and cream pop. My wife got a fruit and lemonade pop which was just too tart to be as enjoyable. I erroneously assumed the pops were made on-site. This is not the case.
+During the heat of Thursday afternoon we stopped by Pop Brothers Ice Pops on Government Street to enjoy a treat. I made the right decision to get a fruit and cream pop. My wife got a fruit and lemonade pop which was just too tart to be as enjoyable. I erroneously assumed the pops were made on-site. This is not the case.
 
 ## Outdoors
 
@@ -98,11 +98,11 @@ After rising Thursday morning and while my wife continued to sleep, I drove down
 
 ![Davis Bayou scene](/images/travel/ocean-springs/gallery/davis-bayou-egret-thumb.jpg)
 
-[Davis Bayou Campground](https://www.recreation.gov/camping/campgrounds/250796) is part of the Gulf Islands National Seashore administered by the National Park Service. We drove over to scout out the campground for possible future visits. What we discovered is sad but typical of campgrounds these days - it caters almost exclusively to trailered or motor-home campers. Most of the sites - practically all of them in the areas featuring shade trees - are tiny and have no level ground aside from the asphalt camper space. I'm a tent camper, and few sites here would be suitable, and most of those are in the open field and have no sun protection or privacy. 
+[Davis Bayou Campground](https://www.recreation.gov/camping/campgrounds/250796) is part of the Gulf Islands National Seashore administered by the National Park Service. We drove over to scout out the campground for possible future visits. What we discovered is sad but typical of campgrounds these days - it caters almost exclusively to trailered or motor-home campers. Most of the sites - practically all of them in the areas featuring shade trees - are tiny and have no level ground aside from the asphalt camper space. I'm a tent camper, and few sites here would be suitable. Most that are tent-appropriate are in the open field and have no sun protection or privacy. 
 
-Otherwise, the surrounding park and views of Davis Bayou are beautiful and would be a fun visit. Fees are just $22 per night and all sites have electric service. Gulf Coast Heritage Passport stamp booklets are NOT available at the William M. Colmer Visitor Center within Davis Bayou park - which is contrary to what is published on the NPS website. If you're interested in the NPS Passport program you'll need to purchase a booklet from Amazon - or at the single store located at Ft. Pickens in Pensacola, Florida.
+Otherwise, the surrounding park and views of Davis Bayou are beautiful and would be a fun visit. Fees are just $22 per night and all sites have electric service. Gulf Coast Heritage Passport stamp booklets are NOT available at the William M. Colmer Visitor Center within Davis Bayou park - which is contrary to what is published on the NPS website. If you're interested in the NPS Passport program you'll need to purchase a booklet from Amazon - or at the single NPS store located at Ft. Pickens in Pensacola, Florida.
 
-Across the bayou from the campground and located at the end of E Beach Drive is the [Gulf Coast Research Lab](https://www.usm.edu/gulf-coast-research-laboratory/) - part of the University of Southern Mississippi, marine sciences. We didn't get to visit this but it sure seems interesting. I'm not clear whether there is any publicly accessible museum or welcome center. I believe it is all research and education.
+Across the bayou from the campground and located at the end of E Beach Drive is the [Gulf Coast Research Lab](https://www.usm.edu/gulf-coast-research-laboratory/) - part of the University of Southern Mississippi marine sciences. We didn't get to visit this but it sure seems interesting. I'm not clear whether there is any publicly accessible museum or welcome center. I believe it is all research and education.
 
 ## Drive Home
 
