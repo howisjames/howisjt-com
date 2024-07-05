@@ -1,7 +1,7 @@
 ---
 title: Stand Up Paddleboard Construction
 date: 2024-01-02T19:00:52-06:00
-lastmod: 2024-06-237T18:00:52-06:00
+lastmod: 2024-07-047T18:00:52-06:00
 cover: "/images/cards/paddleboard-construction-2-card.jpg"
 draft: false
 categories: ["hobbies"]
@@ -14,7 +14,7 @@ Having successfully built [three recreational kayaks](https://stitchnglue.howisj
 {{< youtube fpsUEfmRMJg >}}
 
 
->The above video is a time-lapse of the paddleboard construction process. 
+>Above is a 1.2 minute time-lapse video of the paddleboard construction process. 
 
 ## Plans
 
@@ -378,6 +378,15 @@ For anyone considering this project I want to be candid about the process and re
 	- On a future build I may consider using a slot-style carry handle embedded within the board. This has the benefit of not protruding if one were to lie down on the board.
 4. Like my plywood kayaks, the wood strip paddleboard is easily scratched, dinged, etc. Sure, I can repair dings, but one must always treat the board carefully. No rocky rivers in our future.
 5. However, I enjoyed the wood working part of this project, and the beautiful result. My extended family was very impressed.
+
+## Paddling Lake Martin
+
+Lake Martin at Dadeville, Alabama offers an ideal location to learn to paddleboard. I launched from my mom's dock in a protected slough and paddled out to "big water" and then returned. On subsequent trips I went much further but didn't bring the video camera. Pleasure boats and jet skis produce some waves on - especially summer weekends and holidays - but it wasn't too bad during my visit.
+
+{{< youtube aeBCr55vf4Q >}}
+
+>Above is a short video of me paddling around in Lake Martin, Alabama
+
 
 ## Storage
 

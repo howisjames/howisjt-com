@@ -1,7 +1,7 @@
 ---
 title: Ocean Springs, MS
 date: 2024-06-05T19:00:52-06:00
-lastmod: 2024-06-24T19:00:52-06:00
+lastmod: 2024-07-04T19:00:52-06:00
 cover: "/images/cards/ocean-springs_640x420.jpg"
 draft: false
 categories:
@@ -43,7 +43,7 @@ To begin, I'll endorse this fascinating  15-minute "[Mississippi Moments Podcast
 
 ![Walter Anderson Museum sign](/images/travel/ocean-springs/WA-animated_64_25pct.gif)
 
-The museum and exhibits within - including the WPA-era murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. My wife and I enjoyed our visit and the hour-long documentary was interesting. (We sat for most of it.) We found it amusing that Walter donated his services to paint the community center murals and that the local populace considered painting over them soon after he completed them.
+The museum and exhibits within - including the WPA-era murals on the interior walls of the adjacent historic community center - were beautiful and quite remarkable. Each wall features a different theme: regional discovery and settlement featuring d'Iberville; local flora, fauna and landscapes; and other themes. My wife and I enjoyed our visit and the hour-long documentary was interesting. (We sat for most of it.) We found it amusing that Walter donated his services to paint the community center murals and that a strong contingent of the local populace requested them be painted over.
 
 ### Shearwater Pottery
 
