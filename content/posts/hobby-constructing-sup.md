@@ -381,7 +381,7 @@ For anyone considering this project I want to be candid about the process and re
 
 ## Paddling Lake Martin
 
-Lake Martin at Dadeville, Alabama offers an ideal location to learn to paddleboard. I launched from my mom's dock in a protected slough and paddled out to "big water" and then returned. On subsequent trips I went much further but didn't bring the video camera. Pleasure boats and jet skis produce some waves on - especially summer weekends and holidays - but it wasn't too bad during my visit.
+Lake Martin at Dadeville, Alabama offers an ideal location to learn to paddleboard. I launched from my mom's dock in a protected slough and paddled out to "big water" and then returned. On subsequent trips I went much further but didn't bring the video camera. Pleasure boats and jet skis produce some waves - especially on summer weekends and holidays - but it wasn't too bad during my visit.
 
 {{< youtube aeBCr55vf4Q >}}
 

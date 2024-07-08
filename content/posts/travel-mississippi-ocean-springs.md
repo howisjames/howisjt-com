@@ -17,7 +17,7 @@ We were attracted by the art and mystique of Walter Anderson. And we discovered 
 
 In times past - city folk of means from New Orleans, Jackson and Mobile sought to escape pre-air-conditioned urban life to spend their summers enjoying sea breezes, "healing" spring waters, and good times along Mississippi's Gulf coast. Small coastal towns advertised their accommodations, food and drink as [Six Sisters](https://mississippiencyclopedia.org/entries/six-sisters-of-the-gulf-coast/) grew to be known as Gulf Coast resort towns. Initially served by steam ship, by the 1880's a railroad line linked New Orleans to Mobile through these towns and locked in their role as coastal resorts. From west to east the towns (now cities) are Bay St. Louis, Pass Christian, Gulfport / Mississippi City, Biloxi, Ocean Springs and Pascagoula. The map below shows these Six Sisters linked by US Highway 90 (part of the [Old Spanish Trail](https://en.wikipedia.org/wiki/Old_Spanish_Trail_(auto_trail)),) and they are now of course served indirectly by Interstate 10. 
 
-![Six Sisters resort cities map](/images/travel/ocean-springs/mississippi-coast-6-sisters-map.jpg)
+![Six Sisters resort cities map](/images/travel/ocean-springs/mississippi-coast-6-sisters-map-700px.jpg)
 
 Linked here is a beautiful 360-degree [drone view of the waterfront](https://maps.app.goo.gl/89i563K8ANGnwxvEA) from above Ocean Springs' Ft. Maurepas City Park. Deer Island can be seen offshore where [I camped]({{< relref "travel-mississippi-camping.md" >}}) last year.
 
