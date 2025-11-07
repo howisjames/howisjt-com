@@ -15,3 +15,12 @@ https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#cre
 
 https://dash.cloudflare.com/
 
+DOUBLE PAGE LOAD
+Try this quick test to see if Google Analytics is the culprit:
+Temporarily comment out the Google Analytics line in your config.toml:
+
+toml   # googleAnalytics = "G-74JZP84Q69"
+
+Rebuild your site with hugo
+Test if the double page load still occurs
+If the double load stops, then the issue is with how Google Analytics is being loaded. Let Claude know the result, and I can help you fix it properly!
