@@ -1,7 +1,7 @@
 ---
 title: Bayou Manchac
 date: 2020-07-04T19:00:52-06:00
-lastmod: 2023-01-28T19:00:52-06:00
+lastmod: 2025-11-20T19:00:52-06:00
 cover: "/images/cards/manchac-card_640x420.jpg"
 draft: false	
 categories: ["travel"]
@@ -29,6 +29,7 @@ My residence in southeast East Baton Rouge parish is less than 1-1/5 miles from 
 |	1764	|	British seek to open Manchac	|	Local British rulers sought to open Manchac understanding it saves 10 days voyage to the Gulf. They believed Manchac could grow to become a transhipment community, out-competing New Orleans.	|
 |	1765	|	Abandoned plans to open Manchac	|	Further site investigation proved this idea infeasible or cost prohibitive. The upper third was too shallow, often dry, and choked with trees.	|
 |	1767	|	Acadians settle San Gabriel de Manchac	|	Outcasts from Nova Scotia settle communities south of Bayou Manchac, including present day St. Gabriel.	|
+|	1770	|	Bayou Manchac Map	|	"[Draught of the R. Ibbeville](https://en.wikipedia.org/wiki/St._George,_Louisiana#/media/File:Draught_of_the_R._Ibbeville._LOC_2003627089.jpg)", i.e., Bayou Manchac (Library of Congress)	|
 |	1771	|	Church Bell Cast	|	Original bell of San Gabriel church was cast in Spain. It has since been moved to the newer, current church.	|
 |	1773	|	Fish kill	|	Manchac was identified as a "small creek" even having a fish kill due to low, stagnant water. 	|
 |	1775	|	**American Revolution** begins	|	American Revolution begins with skirmishes, amplified by the Declaration of Independence in 1776.	|
