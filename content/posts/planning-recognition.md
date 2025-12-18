@@ -2,7 +2,7 @@
 
 title: Professional Recognition
 date: 2019-06-12T01:00:52.000Z
-lastmod: 2025-14-13T01:00:52.000Z
+lastmod: 2025-12-17T01:00:52.000Z
 cover: /images/cards/paul-farmer-and-me-951x693.jpg
 draft: false
 categories:
@@ -31,6 +31,7 @@ description: Awards and Achievements
 
 ![AICP seal](/images/planning/recognition/aicp-certified-badge.png#floatright)
 
+- 2025 FEMA National Disaster Preparedness Training - __Community Planning for Disaster Recovery__
 - 2025 FHWA's National Highway Institute - **Introduction to NEPA and Transportation Decision-making**
 - 2025 FHWA's National Highway Institute - **Basics of Public Involvement in Transportation Decision Making**
 - 2017 FEMA National Disaster Preparedness Training - __Community Resilience__
