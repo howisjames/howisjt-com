@@ -13,8 +13,9 @@ description: Awards and Achievements
 
 ---
 
-![Paul Farmer, FAICP and myself](/images/planning/recognition/paul-farmer-and-me-275.jpg#floatright)I am fortunate to have worked on projects which have received awards, and also recognized for my professional and volunteer efforts with the American Planning Association - Louisiana Chapter. I thought I'd use this post to keep track of them. At one event in Monroe I got a photo with then-APA President Paul Farmer, FAICP and at another in Alexandria I was able to get a picture with Louisiana Lt. Governor Billy Nunguesser.
+I am fortunate to have worked on projects which have received awards, and also recognized for my professional and volunteer efforts with the American Planning Association - Louisiana Chapter. I thought I'd use this post to keep track of them. At one event in Monroe I got a photo with then-APA President Paul Farmer, FAICP and at another in Alexandria I was able to get a picture with Louisiana Lt. Governor Billy Nunguesser.
 
+![Paul Farmer, FAICP and myself](/images/planning/recognition/paul-farmer-and-me-275.jpg)
 ![Lt. Governor Billy Nunguesser and myself](/images/planning/recognition/gallery/Billy_Nunguesser_Lt_Gov-thumb.jpg)
 
 # Professional Recognition
